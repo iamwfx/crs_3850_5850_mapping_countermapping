@@ -80,7 +80,14 @@ In the Browser section, select navigate to where you have stored all the data we
 <img src="../Images/qgis_browser.png" width="300">
 </p>
 
-Now, click and drag all four of our datasets (parks, roads, borough boundaries, and evictions data) into the Layers section. When you drag in the borough layer `nybb`, just select the default projection and click OK.
+Now, click and drag all four of our datasets (parks, roads, borough boundaries, and evictions data) into the Layers section. You will notice that when you downloaded your spatial data there were five or so files, there When you drag in the borough layer `nybb`, just select the default projection and click OK.
+
+You'll notice that most of your downloads are folders. Each folder is called a **shapefiles**, which is kind of a misnomer because it's clearly a bundle of files. The shapefile is a specific file format created by ESRI and generally includes the following files:
+-	.dbf: This has the attribute data as a table
+-	.shp: This is the actual geometry file
+-	.shx: This indexes the geometry
+-	.prj: This file tells QGIS what the project of the file is.
+
 
 ---
 #### A brief summary of projections and CRSs
