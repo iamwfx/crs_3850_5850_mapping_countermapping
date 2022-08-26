@@ -5,7 +5,7 @@
 - Downloading shapefile data
 - How create a basic map from a shapefile dataset
 - Geocoding a CSV with lat/long to a point shapefile.
-- Other o
+
 
 # 1. Lab Tutorial
 
@@ -35,7 +35,7 @@ Before we get started with QGIS, we are going to download the spatial datasets w
 
 [NYC Open Space data](https://data.cityofnewyork.us/Recreation/2014-Planimetric-Survey-Open-Space-Parks-/g84h-jbjm) This is a dataset of the open spaces in NYC. **Export -> Download -> Download Geospatial Data -> Shapefile**.
 
-[NYC Street Centerline](https://data.cityofnewyork.us/City-Government/Roadbed/xgwd-7vhd). This is a dataset of all the entire NYC road network represented by a "centerlines", i.e. lines drawn through each of the road. Navigate to **Export -> Download -> Download Geospatial Data -> Shapefile**.
+[NYC Street Centerline](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b). This is a dataset of all the entire NYC road network represented by a "centerlines", i.e. lines drawn through each of the road. Navigate to **Export -> Download -> Download Geospatial Data -> Shapefile**.
 
 #### A brief note on metadata
 The "metadata" for a dataset is what it sounds like - it's the data and information about the dataset. In NYC Street Centerline page, navigate to the **About** section. You'll see a lot of useful information there under **About This Dataset** such as how often this dataset is updated (weekly), which agency maintains this dataset (the Department of Information Technology & Telecommunications), etc.
