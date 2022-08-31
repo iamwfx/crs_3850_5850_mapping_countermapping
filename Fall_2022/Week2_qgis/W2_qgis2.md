@@ -239,6 +239,8 @@ Now, next to each layer you can select which information you want to pop up when
 
 Do you really need boroughs as a pop up? Probably not, since we have these borough labels already. **Uncheck pop-ups** for the boroughs layer.
 
+In the **Appearance** tab, check **Address Search**. (Why not?) And in **Add Layers List** select **Expanded**, which will allow you to check and uncheck the three layers we have in our map.
+
 Lastly, in the bottom of the tab, select the radio button **Leaflet** instead of the default.
 
 Under the **Export** tab, select the **three dots button** next to the Export to Folder selection and select this week's folder.
