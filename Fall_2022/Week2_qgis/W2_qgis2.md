@@ -33,7 +33,7 @@ When we link the attribute tables (such as the evictions table before we created
 #### Data Types
 There are different types of values (numeric, text, for instance) that can be stored in a table. It’s often necessary to specify the type of data you have in each column. This table below shows the different data types.
 <p align='center'>
-<img src="../Images/qgis_dataformats.png" width="600">
+<img src="../Images/qgis_dataformats.png" width="">
 <br>
 Different data types (From https://mgimond.github.io/Spatial/feature-representation.html#measurement-levels)
 </p>
@@ -51,7 +51,7 @@ Here are the commonly used ones (from https://www.gislounge.com/how-to-tell-gis-
 
 A typical GeoJSON file looks like this:
 <p align='center'>
-<img src="../Images/qgis_geojsonformat.png" width="300">
+<img src="../Images/qgis_geojsonformat.png" width="500">
 </p>    
 
 ## 1.2 Census survey and statistical boundaries
@@ -68,7 +68,7 @@ Because the ACS is more frequent, it is often used for more current census needs
 Census data is often the baseline survey dataset in the area of urban planning because it provides racial, socio-economic, housing, etc. information that is often the highlight or backdrop of a study.
 
 #### Census Geographies
-There are different, often nested Census geographic regions used for  different administrative scales. The most commonly used regions are statistical areas, typically nested within each other, whose boundaries are defined by certain physical, administrative, and population constraints. For instance, a **Census block** is bounded by physical features such as streets and administrative boundaries such as city limits and school districts. **Block groups**, the smallest unit of analysis that is still mostly statistically robust, are collections of Census blocks (hence the name) that generally have between 600 to 3000 people. **Census tracts** generally have between 1000 and 8000 people. [Here's more information](https://pitt.libguides.com/uscensus/understandinggeography) about Census geographies if you're curious.
+There are different, often nested Census geographic regions used for  different administrative scales. The most commonly used regions are statistical areas, typically nested within each other, whose boundaries are defined by certain physical, administrative, and population constraints. For instance, a **Census block** is bounded by physical features such as streets and administrative boundaries such as city limits and school districts. **Block groups**, the smallest unit of analysis that is still mostly statistically robust, are collections of Census blocks (hence the name) that generally have between 800 to 5000 people. **Census tracts** generally have between 1000 and 8000 people. [Here's more information](https://pitt.libguides.com/uscensus/understandinggeography) about Census geographies if you're curious.
 
 See the image below for how these regions nest within one another.
 
@@ -95,7 +95,7 @@ IPUMS will also send you an email verification.
 
 From the [NHGIS website](https://www.nhgis.org/), click on **Get Data**. This should take you to a page like this:
 <p align='center'>
-<img src="../Images/ipums.png" width="600">
+<img src="../Images/ipums.png" width="800">
 </p>   
 
 We are going to use the **2016 - 2020** 5-year ACS at the **block group level** in New York City to understand the **rents as a percentage of income** (Remember: we use the 5-year to represent the middle year.)
@@ -112,7 +112,7 @@ Now, let's make the following selections:
 
 Now, we can see that our **SELECT DATA** table has been populated with the relevant scale, topics, and years. A good first step is to sort by Popularity. You should see something like this.
 <p align='center'>
-<img src="../Images/ipums_rent_sorted.png" width="600">
+<img src="../Images/ipums_rent_sorted.png" width="800">
 </p>  
 
 Next to the table name `Median Gross Rent as a Percentage of Household Income in the Past 12 Months`, select the **plus**.
@@ -128,14 +128,14 @@ Your data cart in the upper right should show:
 
 Confirm this is what you have, then click **Continue**. You'll be taken to a Data Option page, click the **Continue** button again. In the next page, click on the green **Geographic Extents** button and select `New York`.
 <p align='center'>
-<img src="../Images/ipums_extent_ny.png" width="300">
+<img src="../Images/ipums_extent_ny.png" width="500">
 </p>  
 
 In the description box, you can write anything. I recommend including a text that has the tables you selected, ACS vintage, and scale. (For ex: `median gross rent as % of income, 2016-2020 ACS block group`) Then hit **Submit**. (If you haven't logged in already, you might have to do that first.)
 
 You'll be taken to your Extracts History. It might take a minute, but soon the **Download Data** column should be populated with two buttons that allow you download the tables and GIS files.
 <p align='center'>
-<img src="../Images/ipums_download.png" width="600">
+<img src="../Images/ipums_download.png" width="800">
 </p>  
 
 Save these two zips to your folder for this class and unzip them. You'll have to unzip the shape folder twice.
@@ -143,7 +143,7 @@ Save these two zips to your folder for this class and unzip them. You'll have to
 ## 1.4 Out-of-the-box base maps
 Ok, now we can finally take a look at our data in QGIS. Open up QGIS and bring in our two datasets (the CSV and the block group shapefile). You be asked to choose the projection for the block group data. Choose the default option.
 <p align='center'>
-<img src="../Images/qgis_ny_data.png" width="600">
+<img src="../Images/qgis_ny_data.png" width="800">
 </p>  
 
 We are now going to add some out-of-the-box basemaps to our map. In your menu bar go to **Web -> QuickMapServices -> Settings**. In the **More Services** tab click the **Get Contributed Pack** button and click **Save** in the lower-right corner of the pop-up.
@@ -168,7 +168,7 @@ Now we'll write a short expression that filters for these counties. In the **Pro
 
 Zoom to your layer. You should see something like this:
 <p align='center'>
-<img src="../Images/qgis_nyc.png" width="600">
+<img src="../Images/qgis_nyc.png" width="800">
 </p>
 
 Great!
@@ -182,7 +182,7 @@ In your data folder (`nhgisXX_csv`), you should actually have two files:
 
 The codebook is the **metadata**. Scroll through. At some point we should see this:
 <p align='center'>
-<img src="../Images/ipums_codebook.png" width="400">
+<img src="../Images/ipums_codebook.png" width="600">
 </p>
 
 This tells us that `AMV6E001` corresponds to the **estimate** for the median gross rent percentage, while `AMV6M001` is the **margin of error**. The estimate is the column we want, the margin of error is the extent to which that estimate might be wrong. We are only going to work with the estimates for now, but keep the margin of error columns in mind for later!
@@ -221,7 +221,7 @@ Select a **Color ramp** from the drop-down menu. QGIS will create a number of br
 
 You should see something like this (I added the borough labels):
 <p align='center'>
-<img src="../Images/qgis_choro_better.png" width="600">
+<img src="../Images/qgis_choro_better.png" width="800">
 </p>
 
 I don't love this color scheme since I think the colors are too similar to one another. Perhaps you can create a better one.
@@ -252,7 +252,7 @@ Your files should have been exported to a folder called something like `qgis2web
 
 Open double click the `index.html` file to open it up in your browser.
 <p align='center'>
-<img src="../Images/leaflet_map.png" width="600">
+<img src="../Images/leaflet_map.png" width="800">
 </p>
 Hooray! It looks a little *rough* (read: not something we would accept as a final map in this course) but the basic functionality along with a legend and a pop-up are there. In future weeks, we'll learn how to build this more carefully from the ground up.
 
