@@ -263,4 +263,6 @@ Hooray! It looks a little *rough* (read: not something we would accept as a fina
 
 This can be two layers overlaid, two side by side, or any arrangement you think articulates a clear visual comparison.
 
+Write a short blurb on why you chose this comparison and what conclusions you may draw from this. What are next steps to consider if you were work to continue working with this evictions dataset? 
+
 In your map, include a line of text on where you data came from and make sure to include a legend if it makes sense.
