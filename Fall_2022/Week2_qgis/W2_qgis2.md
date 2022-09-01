@@ -187,7 +187,7 @@ The codebook is the **metadata**. Scroll through. At some point we should see th
 
 This tells us that `AMV6E001` corresponds to the **estimate** for the median gross rent percentage, while `AMV6M001` is the **margin of error**. The estimate is the column we want, the margin of error is the extent to which that estimate might be wrong. We are only going to work with the estimates for now, but keep the margin of error columns in mind for later!
 
-Now, finally, we're going to join our Census data to our block groups. Right click on your block group layer and select **Properties**.
+Now, finally, we're going to join our Census data to our block groups. Right click on your block group geometry layer and select **Properties**.
 
 Click on the funnel-like icon on the left hand side and then the small plus sign. This window should pop up. It detects what you might want to join automatically, in this case. The `GISJOIN` column in both layers is the IPUMS-specific unique ID for each unit of analysis here.
 
@@ -226,7 +226,7 @@ You should see something like this (I added the borough labels):
 
 I don't love this color scheme since I think the colors are too similar to one another. Perhaps you can create a better one.
 
-**Final output # 1for lab**: Map, legend, scale bar, and title.
+**Final output #1 for lab**: Map, legend, scale bar, and title.
 
 ## 1.8 OPTIONAL: Turn you map into a web map (No need to submit this part)
 You can work on the in-class exercise now. However, if you're interested, here's a quick tutorial on how to turn this map into a very basic web map.
