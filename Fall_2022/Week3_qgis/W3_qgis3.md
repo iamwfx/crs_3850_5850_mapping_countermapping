@@ -2,7 +2,7 @@
 # Week 3 - Open Data and Map Types
 **Today we will cover**
 - What is "open data"?
-- Guideline for Exploratory Visual Inspection
+- Guideline for exploratory visual inspection
 - Map Types
 - Case 1: Categorical Map using Syracuse Parcel Data
 - Case 2: Dot Density Map
@@ -255,16 +255,15 @@ Two things to do on your own:
 
 
 # 2. In-class Exercise / Case 2: Racial Dot Density Map
-For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make!
+For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make! We are going to focus less on the inspection of the data here and more on technique.
 
-Dot density maps generally need:
+Generally, dot density maps generally need:
 - A set of boundaries (ideally with full coverage of the area you're interested in)
 - One or more categories of values associated with those boundaries. Some examples could be:
   - Population
   - Race (all categories)
   - Number of voters in a congressional district/county/state that voted for the various parties.
   - Rainfall
-
 
 For this exercise, we are using 2020 census race by hispanic ethnicity data at the tract level to create:
 - **a dot density map that shows 1 dot per 100 Asian, Black, White, Native American, Hispanic population, with each group represented by different colors**
@@ -277,7 +276,7 @@ I've already downloaded and joined the 2020 Census Data from IPUMS NHGIS for you
 - [Census tracts for NY State](https://www.dropbox.com/sh/uhoc7gqwzwgx7lo/AABunF9y1e2SMrluHpqJuPrSa?dl=0): 5,393 tracts **If in doubt, choose this one**
 
 #### Data
-I've included the data catalogue for you in each of these datasets, but here they are below:
+I've included the data catalogue for you in each of the datasets, but here they are below:
 
 - `STATEFP:   State FIPS code` *You'll need these to filter, if you choose*
 - `COUNTYFP:   County FIPS code`  *You'll need these to filter, if you choose*
@@ -291,7 +290,7 @@ I've included the data catalogue for you in each of these datasets, but here the
 - `    U7C010:      Not Hispanic or Latino: Population of one race: Some Other Race alone`
 
 #### A note on race vs ethnicity in the Census especially w.r.t. Hispanic Ethnicity
-You who might be unfamiliar with this distinction between race and Hispanic ethnicity: The Census Bureau allows you to self-identify as someone who comes from a Latin American Spanish-speaking background. You can be any race and be Hispanic. For ex: There are Peruvians who have Japanese roots and Afro-Latino people with roots in the Caribbean. Because we want a way to distinguish between those who are Hispanic (of any race, typically) and the Asian, Black, White, Native populations without Latin roots, we generally tend to separate these groups into Non-Hispanic Black, Asian, etc. from Hispanic of all races.
+For those who might be unfamiliar with the distinction between race and Hispanic ethnicity: The Census Bureau allows you to self-identify as someone who comes from a Latin American Spanish-speaking background. You can be any race and be Hispanic. For ex: There are Peruvians who have Japanese roots and Afro-Latino people with Caribbean backgrounds. Because we want a way to distinguish between those who are Hispanic (of any race, typically) and the Asian, Black, White, Native populations without Latin American roots, we generally tend to separate these groups into Non-Hispanic Black, Asian, etc. from Hispanic of all races.
 
 So, when we say "Asian", we mean "Non-Hispanic Asian". Also, in this case, we mean "Non-Hispanic Asian Alone", meaning that we are not going to include mixed-race-ethnicity groups (which is an increasing percentage of the population).
 
