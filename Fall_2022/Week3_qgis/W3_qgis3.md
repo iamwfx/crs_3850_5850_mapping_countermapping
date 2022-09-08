@@ -318,7 +318,7 @@ Style your marker a bit. You might notice that your points are too big for how m
 
 In your **Seed** box, type in an arbitrary number. This "seeds" your random number generator that populates your points. If you have the same seed for different layers, you  might have your random points overlap.
 
-**Lastly, and most importantly!**, change your map projection to an equal area projection. Here, I'm using `EPSG:102033`, or `USA_Contiguous_Albers_Equal_Area_Conic
+**Lastly, and most importantly!**, change your map projection to an equal area projection. Here, I'm using `EPSG:102003`, or `USA_Contiguous_Albers_Equal_Area_Conic
 `.
 
 I get something that looks this:
