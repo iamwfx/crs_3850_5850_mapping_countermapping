@@ -100,6 +100,7 @@ From [pbc Geographic Information Services](https://www.pbcgis.com/lookup/). A la
 <br>
 From Li, R. (2021). Visualizing COVID‐19 information for public: Designs, effectiveness, and preference of thematic maps. *Human Behavior and Emerging Technologies*, 3(1), 97-106.
 </p>
+
 - **Dot density map**: These are maps that evenly distribute the density or proportion of one or more variables within a boundary. They can be good at showing clustering. There are typically two kinds of dot-density maps: **one-to-one** where one dot = one count and **one-to-many** where one dot = a set number of things (for ex: one dot = 100 people). Everyone loves a dot density map.
   - All dot density maps **MUST BE MADE USING AN EQUAL AREA MAP PROJECTION** (for ex: Albers Equal Area Conic, Sinusoidal, and Cylindrical Equal Area) since any distortion of areas will distort the density of the dots. In an equal map projection, the size of each shape area is preserved, at the cost of distorting the shapes. (From [Axis Maps](http://www.axismaps.com.s3-website-us-east-1.amazonaws.com/guide/univariate/dot-density/))
 
@@ -223,13 +224,13 @@ Try **Natural Jenks** instead. FYI [the algorithm for natural jenks](http://wiki
 <img src="../Images/rentocc_naturaljenks.png" width="500">
 </p>
 
-Looking better. Now, at least 0 isn't mapped to four different colors. Now, there's something that bugs me about this color ramp. I typically associate darker colors with *more* of something and here it's the opposite. I'm going to invert my color ramp in the the Color Ramp selection menu.
+Looking better. Now, at least `0` isn't mapped to four different colors. Now, there's something that bugs me about this color ramp. I associate darker colors with *more* of something and here it's the opposite. I'm going to invert my color ramp in the the Color Ramp selection menu. Again, feel free to choose your own colors/ramp/etc. 
 
 Lastly, I want to differentiate between parcels that have no violation and parcels with a violation. To do this:
 - Click the green **plus** button to add another class.
-- Set the values of that class to be 0 - 0.
+- Set the values of that class to be 0 - 0. (You can double click those values to edit.)
 - The next class will show up as 0 - 1, but it will only color the 1 values.
-- Color the 0-0 class gray.
+- Color the 0 - 0 class gray.
 
 This is what I have:
 <p align='center'>
@@ -245,13 +246,11 @@ Two things to do on your own:
 - **Step 10** Who are the owners in that highest category of violations? What does the internet tell us about these owners? You can either do this by using the **information button** in QGIS to click on geometries, or perhaps easier is opening up the attributes table and sorting by `n_OpenViol`.
   - A quick google search for one of them led me to this [article](https://www.syracuse.com/health/2022/06/ny-attorney-general-shuts-down-syracuse-landlord-accused-of-exposing-kids-to-lead-poisoning.html) I found.)
   - Also, do all the owners live in Syracuse?
-- These are rentals from 2020. Is it still a reliable dataset? Bring in this dataset fro the [Syracuse Rental Registry](https://data.syrgov.net/datasets/a59d57fdac9a4019b23c7fed30afdada_0/explore?location=43.034389%2C-76.140400%2C13.89) and do a visual comparison. Is the rental registry reliable? (Google it.)
+- These are rentals from 2020. Is it still a reliable dataset? Bring in this dataset from the [Syracuse Rental Registry](https://data.syrgov.net/datasets/a59d57fdac9a4019b23c7fed30afdada_0/explore?location=43.034389%2C-76.140400%2C13.89) and do a visual inspection. Is the rental registry reliable? (Google it.)
 
 **DELIVERABLE #1**:
-- A choropleth map like we've done
-- Include the rentals registry data.
-- Add in text describing some of the owners with the highest number of building code violations.
-
+- A choropleth map like we've done that includes the rentals registry data.
+- Text describing some of the owners with the highest number of building code violations.
 
 # 2. In-class Exercise / Case 2: Racial Dot Density Map
 For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make! We are going to focus less on the inspection of the data here and more on technique.
