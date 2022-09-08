@@ -249,7 +249,7 @@ Two things to do on your own:
 - These are rentals from 2020. Is it still a reliable dataset? Bring in this dataset from the [Syracuse Rental Registry](https://data.syrgov.net/datasets/a59d57fdac9a4019b23c7fed30afdada_0/explore?location=43.034389%2C-76.140400%2C13.89) and do a visual inspection. Is the rental registry reliable? (Google it.)
 
 **DELIVERABLE #1**:
-- A choropleth map like we've done that includes the rentals registry data.
+- Your existing choropleth map, with the rentals registry data overlaid. For this I'm mostly looking for a general visual comparison. No need to do any analysis or point out every discrepancy.
 - Text describing some of the owners with the highest number of building code violations.
 
 # 2. In-class Exercise / Case 2: Racial Dot Density Map
