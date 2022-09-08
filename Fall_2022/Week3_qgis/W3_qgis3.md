@@ -307,7 +307,7 @@ Next to your **Point Count** input box is a small arrow + table icon that allows
 We've just opened this handy expression builder that allows us to create our basic formula, which is:
 - `[Number of People in Race X in Tract]/100`
 
-Let's say we want to first create a dot density map for Asian population. We can look in our field and just type in the following:
+Let's say we want to first create a dot density map for Hispanic population. We can look in our field and just type in the following:
 <p align='center'>
 <img src="../Images/dotdens_expression.png" width="400">
 </p>
