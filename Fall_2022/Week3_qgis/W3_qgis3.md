@@ -264,7 +264,7 @@ Generally, dot density maps generally need:
   - Rainfall
 
 For this exercise, we are using 2020 census race by hispanic ethnicity data at the tract level to create:
-- **a dot density map that shows 1 dot per 100 Asian, Black, White, Native American, Hispanic population, with each group represented by different colors**
+- **a dot density map that shows 1 dot per 50 Asian, Black, White, Native American, Hispanic population, with each group represented by different colors**
 - You will do this by creating copies of the same layer, but each copy will be mapping a different race/ethnicity.
 
 ## 2.1 Get the data
