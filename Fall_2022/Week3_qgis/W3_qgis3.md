@@ -2,7 +2,7 @@
 # Week 3 - Open Data and Map Types
 **Today we will cover**
 - What is "open data"?
-- Guideline for Exploratory Visual Inspection
+- Guideline for exploratory visual inspection
 - Map Types
 - Case 1: Categorical Map using Syracuse Parcel Data
 - Case 2: Dot Density Map
@@ -14,11 +14,11 @@ Toda we're going to explore the open data in through three cases. The
 ## 1.1 Open data
 "Open data" is a fairly new (since the 2000's) term that describes the product and process of creating an open access framework for all types of data, but especially data that is produced by government agencies. Open data proponents generally argue that it increases transparency in government operations, creates the possibility for other products and tools built off of open data, and provides the public easier access to information created using public resources that they should have the rights to. Fundamentally, this is based on the idea that information is a resource and a public resource if it is produced by public agencies.
 
-The principles of open data stem from open source software, which similarly is based on the idea that sharing and reusing code enables more transparency and more democratic innovation.
+The principles of open data stem from open source software, which is similarly based on the idea that sharing and reusing code enables more transparency and more democratic innovation.
 
 In the United States, the [federal government adopted open data in 2009](https://obamawhitehouse.archives.gov/the-press-office/transparency-and-open-government) and many state and municipal government agencies have adopted (to different degrees) the data infrastructure and practices needed in sustaining the existence of open data.
 
-In the front end, what we get are the open data portals and dashboards that aim to facilitate the public's understanding of the data.
+What we, the public, get are the open data portals and dashboards that aim to facilitate the public's understanding of the data.
 
 Here are some government data portals:
 - [San Francisco](https://datasf.org/opendata/)
@@ -47,8 +47,7 @@ Many open data policies in the US have now been around for almost 10 years by no
   - Whether updates to the dataset are automated;
   - Whether updates to the dataset “feasibly can be automated”.
 
-Keep in mind, though, that legislation has to be implemented after it's passed. Here's a n
-nifty visualization from the [Data Compliance Dashboard](https://opendata.cityofnewyork.us/dataset-compliance-dashboard/) showing the extent to which data are meeting the requirements of the data publishing mandate.  We can see it doesn't reach 100% in any category.
+Keep in mind, though, that legislation has to be implemented after it's passed. Here's a nifty visualization from the [Data Compliance Dashboard](https://opendata.cityofnewyork.us/dataset-compliance-dashboard/) showing the extent to which data are meeting the requirements of the data publishing mandate.  We can see it doesn't reach 100% in any category.
 <p align='center'>
 <img src="../Images/nyc_opendata_tracker.png" width="600">
 <br>
@@ -61,13 +60,13 @@ With this in mind, we are going to do some exploratory visual inspection of Syra
 #### Here are my general steps for exploratory visual inspection:
 
 0. **Topics in mind**: Have a general question or interest in mind. For ex: In my research aims, I am generally interested in housing and conditions of rental housing.
-1. **Is there metadata/data description**: What does the provided metadata tell us about the dataset? Where does the data come from? How far back does the data go? Are there any things that stick out in the metadata?
+1. **Is there metadata/data description**: Which agency does data come from? How far back does the data go? Are there any things that stick out in the metadata? Is there a data dictionary that describes each of the columns?
 2. **Is it spatial**: Check that your data has a spatial component that would make it fairly easy to map. Generally, we look for data that exists in a spatial format such as  **Shapefile**, **GeoJSON**, **KML**, or data that isn't in a spatial format but has columns that can be *turned into* or *joined to* a spatial format. This latter category can be data that has a lat/long, an address, a city/neighborhood/zip code/parcel/lot.
 3. **Is it recent**: Check when the dataset was last updated and how frequently it is updated. If it's not recent, is that a problem? (For ex: a street trees dataset might be a year old, but it's probably fine to use an older dataset since trees don't change much.)
 4. **Data size**: How big is the data? How many rows? How many columns? This will give you a sense of how easy or difficult it might be to work with in QGIS.
-5. **Identify useful columns**: Which columns might be potentially useful?
+5. **Identify useful columns**: Which columns might be potentially useful or interesting for you research ideas? What does the data dictionary say about these columns? If it is categorical data, are there any categories that stick out? 
 6. **Download and bring into QGIS**
-7. **Filter**: If the dataset is quite big - something that is larger than 50 MB will probably make QGIS's operation a little slow - it might make sense to filter and save as a new file.
+7. **Filter**: If the dataset is quite big - something that is larger than 100,000 rows will probably make QGIS's operation a little slow - it might make sense to filter and save as a new file. (Also if your file has a spatial index file `.shx` it will make spatial operations faster, but the rendering of the geometries might still be a bit slow depending on how much memory your computer has to work with.)
 8. **Are values is missing**: In the columns that are potentially useful, are there values that appear missing? Are there too many values missing to use that column?
 9. **Thematize your map** Make a categorical, choropleth, proportional symbol, or dot density map based on the columns you are interested in.
 10. **What's been written already**: Google some of the columns or results that you're interested in and see if you can find articles online about this topic.
@@ -101,6 +100,7 @@ From [pbc Geographic Information Services](https://www.pbcgis.com/lookup/). A la
 <br>
 From Li, R. (2021). Visualizing COVID‐19 information for public: Designs, effectiveness, and preference of thematic maps. *Human Behavior and Emerging Technologies*, 3(1), 97-106.
 </p>
+
 - **Dot density map**: These are maps that evenly distribute the density or proportion of one or more variables within a boundary. They can be good at showing clustering. There are typically two kinds of dot-density maps: **one-to-one** where one dot = one count and **one-to-many** where one dot = a set number of things (for ex: one dot = 100 people). Everyone loves a dot density map.
   - All dot density maps **MUST BE MADE USING AN EQUAL AREA MAP PROJECTION** (for ex: Albers Equal Area Conic, Sinusoidal, and Cylindrical Equal Area) since any distortion of areas will distort the density of the dots. In an equal map projection, the size of each shape area is preserved, at the cost of distorting the shapes. (From [Axis Maps](http://www.axismaps.com.s3-website-us-east-1.amazonaws.com/guide/univariate/dot-density/))
 
@@ -124,14 +124,14 @@ One thing you may have noticed that color is  important for what initially catch
 ## 1.3 Case 1: Neglectful landlords in Syracuse using parcel data
 For this case, we're going to look through Syracuse's parcel data from [OpenCuse](https://data.syrgov.net/), their open data portal.
 
-First of all, **what is a parcel map**? What kind of data can we expect from parcel data? A parcel map is sometimes referred to as a property map or tax map, which allows agencies to identify property boundaries, ownership, building, and other characteristics. It is used by agencies for land management purposes like taxation, though often building data will be associated with their parcel they're on, and by the real estate industry.
+First of all, **what is a parcel map**? What kind of data can we expect from parcel data? A parcel map is sometimes referred to as a property map or tax map, which allows agencies to identify property boundaries, ownership, building, and other characteristics. It is used by agencies for land management purposes like taxation, though often building data will be associated with the parcel they're on, and by the real estate industry for development planning purposes.
 
-If you go to their website and scroll down, you can see that they (and most government open data portals) have given us some topics to begin exploring. Because I'm not yet sure what specifically I'm looking for, I am going to explore housing topic.
+If you go to their website and scroll down, you can see that they (and most government open data portals) have given us some topics to begin exploring. Because I'm not yet sure what specifically I'm looking for, I am going to explore the Housing topic.
 <p align='center'>
 <img src="../Images/opendatacuse_topics.png" width="600">
 </p>
 
-On the Housing page, we are given different types of housing-related datasets to look at. Let's "Go to Data" in the first, Housing, section.
+On the Housing page, we are given different types of housing-related datasets to look at. Let's "Go to Data" in the first (Housing) section.
 <p align='center'>
 <img src="../Images/opendatacuse_housing.png" width="600">
 </p>
@@ -141,16 +141,16 @@ This should take you to a page where you can see the `Parcel Map Q1 2020 ` for S
 </p>
 
 Following our Guideline:
-**Step 1** says check for metadata, so let's click **View Full Details**. Hm, no data dictionary (that tells us what each of the attribute columns means). But we do have some other information about this dataset
+**Step 1** says check for metadata, so let's click **View Full Details**. Hm, no data dictionary. But we do have some other information about this dataset.
 
-(Btw, **Step 2**: we can see that it's been mapped, so we know it's spatial)
+(Btw, **Step 2**: we can see that it's been mapped, so we know it's spatial.)
 
 We *do* have a landing page with some information on our dataset:
 <p align='center'>
 <img src="../Images/opendatacuse_parcel_info.png" width="600">
 </p>
 
-**Step 3**: First, we have some info on when this dataset was published and updated: 2020, not ideal if we are interested in present-day conditions, but a two year-old dataset is ok?
+**Step 3**: First, we have some info on when this dataset was published and updated: 2020, not ideal if we are interested in present-day conditions, but a two year-old dataset is probably reasonable to work with.
 
 **Step 4**: 41,335 records. That's sizable but not a huge deal. But if you look at the **Attributes Table** on the page, there are 121 attributes (read: columns)! If you scroll through the attributes table, we can see that there is a small **graph icon** that creates a quick breakdown of the different values and categories for that attribute:
    <p align='center'>
@@ -182,7 +182,7 @@ Oh, interesting, there is an `Occupancy` column. If I click on the small chart b
 
 On your `Parcel_Map_Q1_2020` layer, right click and select `Show feature count`. As promised, we have 41,355 rows of data.
 
-**Step 7**: Do we need to filter? Well, as mentioned, this data size might be manageable. However, since I think I'm interested in just `Rental Occupied` parcels, I'm going to go ahead and:
+**Step 7**: Do we need to filter? Well, as mentioned, this data size might be manageable. However, since I'm interested in just `Rental Occupied` parcels, I'm going to go ahead and:
   1. Filter my dataset just for `"Occupancy" = 'Rental Occupied'`
   2. Save down a new shapefile that is just the remaining rental occupied data:
     - By right-clicking the layer -> **Export** -> **Save Features As**
@@ -192,7 +192,7 @@ On your `Parcel_Map_Q1_2020` layer, right click and select `Show feature count`.
   3. The new, filtered dataset should automatically appear in Layers window.
   4. Uncheck the original parcel data since we won't be using it most likely and don't need to see it.
 
-**Step 8**: Open up the attribute table and scan the columns we listed above. Are most of the values filled? If they are not filled, is it because it's missing or that the condition is not fulfilled? *Note: if the metadata were better here, we would probably know the answer to this by reading the attribute description. But, alas.*
+**Step 8**: Open up the attribute table and scan the columns we listed above. Are most of the values filled? If they are not filled, is it because it's missing or that the condition is not fulfilled? *Note: if the metadata were better here, we would probably know the answer to this by reading the dat dictionary. But, alas.*
 
 Seems like the latter.
 
@@ -204,8 +204,8 @@ For instance, if you look at the `Seizable` column, we can see that only some of
 </p>
 
 Two things to note:
-- The vast majority of our data is Residential. Not a lot of `commercial` or `industrial/utility` parcels (seems surprising as many commercial spaces, like shops, are probably rented spaces, but this may be a function of the particular `Rental Occupancy` category)
-- It's very hard to see the colors because each geometry is so small and the black border overwhelms the color. Next time, maybe we'll remove the borders altogether and just color the inside shape.
+- The vast majority of our data is `Residential`. Not a lot of `Commercial` or `Industrial/utility` parcels (seems surprising as many commercial spaces, like shops, are probably rented spaces, but this may be a function of the particular `Rental Occupancy` category)
+- It's very hard to see the colors because each geometry is so small and the black border overwhelms the color. Next time, maybe we'll remove the borders altogether and just color the inside shape. (Even this doesn't really address the issue that ultimately, the parcels are too small for a map of the entire city.)
 
 Now I want to take a look at `n_OpenViol`, which is the number of building violations in each parcel.  For this I want to create a choropleth (Right-click **Properties** -> Symbology -> Select **Graduated**) I've chosen the `Mako` color ramp here. I don't love it. Feel free to pick your own.
 
@@ -214,7 +214,7 @@ First let's remove the borders on our geometries. Make sure your **Stroke style*
  <img src="../Images/rentocc_removeborder.png" width="300">
  </p>
 
-Now, my default mode for how I typically bin my values is **Equal Interval**. This just means that, however many breaks I choose, QGIS will find bin sizes such that each bin has more or less the same number of rows. What happens when I select that and why is this not ideal?
+My default mode for how I bin my values is **Equal Interval**. This just means that, however many breaks I choose, QGIS will find bin sizes such that each bin has more or less the same number of rows. What happens when I select that and why is this not ideal?
 <p align='center'>
 <img src="../Images/rentocc_equalint_badbreaks.png" width="500">
 </p>
@@ -224,13 +224,13 @@ Try **Natural Jenks** instead. FYI [the algorithm for natural jenks](http://wiki
 <img src="../Images/rentocc_naturaljenks.png" width="500">
 </p>
 
-Looking better. Now, at least 0 isn't mapped to four different colors. Now, there's something that bugs me about this color ramp. I typically associate darker colors with *more* of something and here it's the opposite. I'm going to invert my color ramp in the the Color Ramp selection menu.
+Looking better. Now, at least `0` isn't mapped to four different colors. Now, there's something that bugs me about this color ramp. I associate darker colors with *more* of something and here it's the opposite. I'm going to invert my color ramp in the the Color Ramp selection menu. Again, feel free to choose your own colors/ramp/etc. 
 
 Lastly, I want to differentiate between parcels that have no violation and parcels with a violation. To do this:
 - Click the green **plus** button to add another class.
-- Set the values of that class to be 0 - 0.
+- Set the values of that class to be 0 - 0. (You can double click those values to edit.)
 - The next class will show up as 0 - 1, but it will only color the 1 values.
-- Color the 0-0 class gray.
+- Color the 0 - 0 class gray.
 
 This is what I have:
 <p align='center'>
@@ -246,18 +246,16 @@ Two things to do on your own:
 - **Step 10** Who are the owners in that highest category of violations? What does the internet tell us about these owners? You can either do this by using the **information button** in QGIS to click on geometries, or perhaps easier is opening up the attributes table and sorting by `n_OpenViol`.
   - A quick google search for one of them led me to this [article](https://www.syracuse.com/health/2022/06/ny-attorney-general-shuts-down-syracuse-landlord-accused-of-exposing-kids-to-lead-poisoning.html) I found.)
   - Also, do all the owners live in Syracuse?
-- These are rentals from 2020. Is it still a reliable dataset? Bring in this dataset fro the [Syracuse Rental Registry](https://data.syrgov.net/datasets/a59d57fdac9a4019b23c7fed30afdada_0/explore?location=43.034389%2C-76.140400%2C13.89) and do a visual comparison. Is the rental registry reliable? (Google it.)
+- These are rentals from 2020. Is it still a reliable dataset? Bring in this dataset from the [Syracuse Rental Registry](https://data.syrgov.net/datasets/a59d57fdac9a4019b23c7fed30afdada_0/explore?location=43.034389%2C-76.140400%2C13.89) and do a visual inspection. Is the rental registry reliable? (Google it.)
 
 **DELIVERABLE #1**:
-- A choropleth map like we've done
-- Include the rentals registry data.
-- Add in text describing some of the owners with the highest number of building code violations.
-
+- Your existing choropleth map, with the rentals registry data overlaid. For this I'm mostly looking for a general visual comparison. No need to do any analysis or point out every discrepancy.
+- Text describing some of the owners with the highest number of building code violations.
 
 # 2. In-class Exercise / Case 2: Racial Dot Density Map
-For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make!
+For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make! We are going to focus less on the inspection of the data here and more on technique.
 
-Dot density maps generally need:
+Generally, dot density maps generally need:
 - A set of boundaries (ideally with full coverage of the area you're interested in)
 - One or more categories of values associated with those boundaries. Some examples could be:
   - Population
@@ -265,9 +263,8 @@ Dot density maps generally need:
   - Number of voters in a congressional district/county/state that voted for the various parties.
   - Rainfall
 
-
 For this exercise, we are using 2020 census race by hispanic ethnicity data at the tract level to create:
-- **a dot density map that shows 1 dot per 100 Asian, Black, White, Native American, Hispanic population, with each group represented by different colors**
+- **a dot density map that shows 1 dot per 50 Asian, Black, White, Native American, Hispanic population, with each group represented by different colors**
 - You will do this by creating copies of the same layer, but each copy will be mapping a different race/ethnicity.
 
 ## 2.1 Get the data
@@ -277,7 +274,7 @@ I've already downloaded and joined the 2020 Census Data from IPUMS NHGIS for you
 - [Census tracts for NY State](https://www.dropbox.com/sh/uhoc7gqwzwgx7lo/AABunF9y1e2SMrluHpqJuPrSa?dl=0): 5,393 tracts **If in doubt, choose this one**
 
 #### Data
-I've included the data catalogue for you in each of these datasets, but here they are below:
+I've included the data catalogue for you in each of the datasets, but here they are below:
 
 - `STATEFP:   State FIPS code` *You'll need these to filter, if you choose*
 - `COUNTYFP:   County FIPS code`  *You'll need these to filter, if you choose*
@@ -291,7 +288,7 @@ I've included the data catalogue for you in each of these datasets, but here the
 - `    U7C010:      Not Hispanic or Latino: Population of one race: Some Other Race alone`
 
 #### A note on race vs ethnicity in the Census especially w.r.t. Hispanic Ethnicity
-You who might be unfamiliar with this distinction between race and Hispanic ethnicity: The Census Bureau allows you to self-identify as someone who comes from a Latin American Spanish-speaking background. You can be any race and be Hispanic. For ex: There are Peruvians who have Japanese roots and Afro-Latino people with roots in the Caribbean. Because we want a way to distinguish between those who are Hispanic (of any race, typically) and the Asian, Black, White, Native populations without Latin roots, we generally tend to separate these groups into Non-Hispanic Black, Asian, etc. from Hispanic of all races.
+For those who might be unfamiliar with the distinction between race and Hispanic ethnicity: The Census Bureau allows you to self-identify as someone who comes from a Latin American Spanish-speaking background. You can be any race and be Hispanic. For ex: There are Peruvians who have Japanese roots and Afro-Latino people with Caribbean backgrounds. Because we want a way to distinguish between those who are Hispanic (of any race, typically) and the Asian, Black, White, Native populations without Latin American roots, we generally tend to separate these groups into Non-Hispanic Black, Asian, etc. from Hispanic of all races.
 
 So, when we say "Asian", we mean "Non-Hispanic Asian". Also, in this case, we mean "Non-Hispanic Asian Alone", meaning that we are not going to include mixed-race-ethnicity groups (which is an increasing percentage of the population).
 
@@ -310,7 +307,7 @@ Next to your **Point Count** input box is a small arrow + table icon that allows
 We've just opened this handy expression builder that allows us to create our basic formula, which is:
 - `[Number of People in Race X in Tract]/100`
 
-Let's say we want to first create a dot density map for Asian population. We can look in our field and just type in the following:
+Let's say we want to first create a dot density map for Hispanic population. We can look in our field and just type in the following:
 <p align='center'>
 <img src="../Images/dotdens_expression.png" width="400">
 </p>
@@ -321,7 +318,7 @@ Style your marker a bit. You might notice that your points are too big for how m
 
 In your **Seed** box, type in an arbitrary number. This "seeds" your random number generator that populates your points. If you have the same seed for different layers, you  might have your random points overlap.
 
-**Lastly, and most importantly!**, change your map projection to an equal area projection. Here, I'm using `EPSG:102033`, or `USA_Contiguous_Albers_Equal_Area_Conic
+**Lastly, and most importantly!**, change your map projection to an equal area projection. Here, I'm using `EPSG:102003`, or `USA_Contiguous_Albers_Equal_Area_Conic
 `.
 
 I get something that looks this:
@@ -351,3 +348,4 @@ If you somehow had the patience and computer memory to work with the entire US d
 
 **DELIVERABLE #2+3**
 - Two dot density maps (with a legend) in two different areas. Perhaps two different cities or the same city but different scales. Notice how you have to change your dot ratio and symbology
+- Describe some of the patterns in each city, along with the similarities and differences in these patterns, and why you think they exist. 
