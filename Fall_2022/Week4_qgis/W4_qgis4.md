@@ -29,13 +29,13 @@ Let's take a look at an example:
 - Its "Expected update frequency" is **Weekly**, so that sounds good (though we're really not sure if this is what the creator of the data will actually do.)
 - In the "Context" section of the page, it says that "This dataset contains Real Estate listings in the US broken by State and zip code." However, if you look down at the table, we can see that there are address (which we'll geocode in a bit). So it's actually more precise than the zip code level.
 <p align='center'>
-<img src="../Images/kaggle_RE2.png" width="500">
+<img src="../Images/kaggle_RE2.png" width="600">
 </p>
 - Lastly, the creator says that "Data was collected via web scraping using python libraries." **This should give us the most alarm**, because we are relying on whoever collected the data to have done a thorough job.
 - Also, looking at the `Zip code` column, we can see that the zip codes start at `601.0`, which is clearly wrong since all US zip code have five digits. Likely, whoever was collecting this data turned zip codes into a number instead of formatting them as text (strings), so these zip codes for PR should be `00601`, `00612`, etc. Not a big deal, but still annoying
 - If you go to to the "Discussion" tab on this page, you can see that, hm, someone is asking about incomplete data. Clicking on that discussion, it looks like there are only a handful of states available because the collector needs to bypass the blockers Realtor.com has against webscrapping.
 <p align='center'>
-<img src="../Images/kaggle_RE4.png" width="500">
+<img src="../Images/kaggle_RE4.png" width="600">
 </p>
 
 #### A note on webscrapping (and why I generally avoid it):
@@ -113,7 +113,7 @@ So it looks like only 4 entries were geocoded. Close the window and let's see wh
 
 For our purposes now, since we're just trying to understand the basic lat/lng location of these units, I'm going to go ahead and **Edit** (using the pencil tool in the attribute table) and remove the apartment numbers from each entry manually.
 <p align='center'>
-<img src="../Images/geocode_manualedit.png" width="400">
+<img src="../Images/geocode_manualedit.png" width="600">
 </p>
 
 **Don't forget to click the pencil button again and save down your edits after you finish.**
