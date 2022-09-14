@@ -262,9 +262,9 @@ Finish georeferencing this image and create a PDF output of the georeferenced ma
 
 
 # 2. In-class Exercise: Proportional Symbol Map
-Download the `real-estate-ny-200sample.csv` dataset and geocode with one round of edits for the points that failed to geocode. Also, I've already scrubbed the data of unit info for you (ym). How many of 200 were you able to get?
+Download the `real-estate-ny-200sample.csv` dataset and geocode with one round of edits for the points that failed to geocode. Also, I've already done the laborious scrubbing of the data of its unit info for you. 
 
-Using your newly geocoded dataset, create a proportional symbol map that shows the price per sq foot of your listings. Use the **Graduated** option in **Symbology**. Under method, instead of `Color` to create a choropleth map, select `Size`.
+Using your newly geocoded dataset, create a proportional symbol map that shows the price per sq foot of your listings. Use the **Graduated** option in **Symbology**. Under **Method**, instead of `Color` to create a choropleth map, select `Size`.
 
 Also, my recommendation: Add some transparency to the fill of your symbols and a solid line for the border. Your symbols will overlap and it will be easier to see them with transparency.
 
