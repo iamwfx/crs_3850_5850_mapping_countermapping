@@ -100,7 +100,7 @@ We can see that the:
 - There are some values in the other columns that are missing. Not ideal, though not the end of the world (for now).
 - The last entry has no street address, so we're not going to expect that to be geocoded. (Maybe.)
 
-Go to **Menu->Geocode->Geocode CSV with Web Service**, you should see a window like this pop up:
+Go to **Menu->MMQGIS->Geocode->Geocode CSV with Web Service**, you should see a window like this pop up:
 <p align='center'>
 <img src="../Images/geocode_window.png" width="400">
 </p>
