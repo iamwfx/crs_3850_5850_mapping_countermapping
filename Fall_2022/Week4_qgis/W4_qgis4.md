@@ -2,6 +2,7 @@
 # Week 4 - Non-Governmental Publicly Available Data and Geocoding
 **Today we will cover**
 - Where to find publicly available non-governmental data
+- Dangers and pitfalls of non-governmental publicly available data
 - Geocoding with OpenStreetMaps's geocoding API
 - Georeferencing digital images
 
@@ -15,8 +16,8 @@ There are so many publicly available datasets out there with varying degrees of 
 - [Crowdsourcing projects](https://directory.civictech.guide/listing-category/crowdsourcing), some of which might contain data, like this [COVID-19 obituary page](https://projects.thecity.nyc/covid-19-deaths/#methodology) created a few months ago
 - Harvard's [Dataverse](https://dataverse.harvard.edu/) which is an open data repository for mainly academic/research datasets.
 
-## 1.1 Example: Web-scrapped real estate listings
-Because non-governmental data do not adhere to any universal data quality standards - sometimes because these datasets were created in the process an organization day to day activities, or they might have been created by individuals "scrapping" (i.e. using web-crawlers to gather information from websites to turn into datasets.)  - we need to be a bit more careful in thinking about the potential technical errors and noise in the data.
+## 1.1 Dangers and pitfalls of non-governmental publicly available data: Web-scrapped real estate listings
+Because non-governmental data do not adhere to any universal data quality standards - sometimes because these datasets were created in the process an organization day to day activities, or they might have been created by individuals "scrapping" (i.e. using web-crawlers to gather information from websites to turn into datasets.)  - we need start from a point of mistrust and be a bit more careful in thinking about the potential technical errors and noise in the data.
 
 Let's take a look at an example:
 
