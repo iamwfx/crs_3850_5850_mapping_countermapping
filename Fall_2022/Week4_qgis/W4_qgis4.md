@@ -1,5 +1,5 @@
 
-# Week 4 - Non-Governmental Publicly Available Data and Geocoding
+# Week 4 - Non-Governmental Publicly Available Data, Geocoding, and Georeferencing
 **Today we will cover**
 - Where to find publicly available non-governmental data
 - Dangers and pitfalls of non-governmental publicly available data
