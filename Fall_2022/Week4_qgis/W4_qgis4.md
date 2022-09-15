@@ -83,6 +83,8 @@ In this week's lab folder, there are two CSVs that you should download. These ar
 - `real-estate-ny-10sample.csv`
 - `real-estate-ny-200sample.csv`
 
+To download these files, you should right-click the **Raw** version of the file and "Save link as...". I often add the `.csv` format at the end of the filename just in case there's any confusion in reading the filetype. 
+
 We are going to use the `n=10` sample to start. The original 923k sample is [here](https://www.dropbox.com/s/6uxgjney859894w/realtor-data.csv?dl=0) and 120MBs, FYI.
 
 In QGIS, bring the `real-estate-ny-10sample.csv` into the layers pane and take a look at the attribute table. It should look like this:
