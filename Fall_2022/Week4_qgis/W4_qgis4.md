@@ -1,5 +1,5 @@
 
-# Week 4 - Non-Governmental Publicly Available Data and Geocoding
+# Week 4 - Non-Governmental Publicly Available Data, Geocoding, and Georeferencing
 **Today we will cover**
 - Where to find publicly available non-governmental data
 - Dangers and pitfalls of non-governmental publicly available data
@@ -83,6 +83,8 @@ In this week's lab folder, there are two CSVs that you should download. These ar
 - `real-estate-ny-10sample.csv`
 - `real-estate-ny-200sample.csv`
 
+To download these files, you should right-click the **Raw** version of the file and "Save link as...". I often add the `.csv` format at the end of the filename just in case there's any confusion in reading the filetype. 
+
 We are going to use the `n=10` sample to start. The original 923k sample is [here](https://www.dropbox.com/s/6uxgjney859894w/realtor-data.csv?dl=0) and 120MBs, FYI.
 
 In QGIS, bring the `real-estate-ny-10sample.csv` into the layers pane and take a look at the attribute table. It should look like this:
@@ -98,7 +100,7 @@ We can see that the:
 - There are some values in the other columns that are missing. Not ideal, though not the end of the world (for now).
 - The last entry has no street address, so we're not going to expect that to be geocoded. (Maybe.)
 
-Go to **Menu->Geocode->Geocode CSV with Web Service**, you should see a window like this pop up:
+Go to **Menu->MMQGIS->Geocode->Geocode CSV with Web Service**, you should see a window like this pop up:
 <p align='center'>
 <img src="../Images/geocode_window.png" width="400">
 </p>
