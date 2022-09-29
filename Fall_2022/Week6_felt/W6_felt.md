@@ -138,11 +138,12 @@ Now your visualizations block you should like this: (Note: please fill out the r
       "dataset": "[ID OF YOUR DATASET, YOU DON'T NEED TO CHANGE]",
       "config": {
         "categoricalAttribute":"Activity type",
-        "categories": ["Recreational", "School","Work","In Transit","Errands"],
+        "categories": ["Recreational", "School","Work","In Transit","Errands"]
+    },
       "style": {
-         "color": [
+         "color":
            ["#19FFE8",...PLEASE FILL OUT THE REST...]
-         ],
+         ,
          "strokeColor": [
            "#FFFFFF"
          ],
@@ -163,13 +164,13 @@ Now your visualizations block you should like this:
     {
       "type": "categorical",
       "dataset": "[ID OF YOUR DATASET, YOU DON'T NEED TO CHANGE]",
-      "config": {
+        "config": {
         "categoricalAttribute":"Activity type",
-        "categories": ["Recreational", "School","Work","In Transit","Errands"],
+        "categories": ["Recreational", "School","Work","In Transit","Errands"]
+    },
       "style": {
-         "color": [
-           ["#19FFE8",...(PLEASE FILL OUT THE REST)...]
-         ],
+         "color":
+           ["#19FFE8",...PLEASE FILL OUT THE REST...]
          "strokeColor": [
            "#FFFFFF"
          ],
@@ -216,18 +217,19 @@ The completed visualizations block should look like this (with your own insertio
       "dataset": "[ID OF YOUR DATASET, YOU DON'T NEED TO CHANGE]",
       "config": {
         "categoricalAttribute":"Activity type",
-        "categories": ["Recreational", "School","Work","In Transit","Errands"],
+        "categories": ["Recreational", "School","Work","In Transit","Errands"]
+    },
       "style": {
-         "color": [
+         "color": 
            ["#19FFE8",...(PLEASE FILL OUT THE REST)...]
-         ],
+         ,
          "strokeColor": [
            "#FFFFFF"
          ],
          "size": 5,
          "strokeWidth": 0,
          "opacity": 1
-      }
+      },
       "label": {
         "minZoom": 3,
         "fontWeight": 400,
