@@ -117,7 +117,7 @@ Now your visualizations block should show:
 ```
 
 - `style`: is a dictionary that tell us how to style the above categories. It has the following components:
-  - `color`, `strokeColor`,`size`, `strokeWidth`, and `opacity`
+
   | Field name | Description |
   | --- | --- |
   |color|Fill color. Accepts named color, hex, rgb(a), hsl(a). Works on lines, points, and polygons. **Note, color is a list and the order in which the colors appear corresponds to the order in which the categories above appear.**
