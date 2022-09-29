@@ -1,5 +1,5 @@
 
-# Week 5 - Collaborative Mapping with Felt
+# Week 6 - Collaborative Mapping with Felt
 
 **Today we will cover**
 
