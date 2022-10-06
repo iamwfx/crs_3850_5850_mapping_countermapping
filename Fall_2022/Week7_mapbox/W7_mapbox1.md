@@ -1,10 +1,10 @@
 
-# Week 6 - Introduction to web mapping using Mapbox GL
+# Week 7 - Introduction to web mapping using Mapbox GL
 
 **Today we will cover**
-- Set up: Github, Atom, and Mapbox
-- Uploading point data and styling it
+- Set up: Github, Sublime, and Mapbox
 - Basic components of a Mapbox web map
+- Uploading polygon data and styling it
 
 # 1. Lab Tutorial
 
