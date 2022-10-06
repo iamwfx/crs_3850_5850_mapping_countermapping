@@ -93,7 +93,7 @@ All this done using the **Git** version control system. It's typically used thro
 - If this did not work you can clone (read: create a copy of) your repo locally by selecting the HTTPS address, going to **File->Clone Repo**, and entering the URL while making sure it is cloning your repo within the `GITHUB` folder.
 - Once you've done this, you should see the files from your remote repo appear within a folder that is the name of your repo:
 <p align='center'>
-<img src="../Images/github_localrepo.png" width="400">
+<img src="../Images/github_localrepo.png" width="600">
 </p>
 
 
