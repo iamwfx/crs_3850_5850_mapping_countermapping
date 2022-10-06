@@ -106,11 +106,13 @@ Next, install a text editor onto your computer. There are few commons ones that 
 <p align='center'>
 <img src="../Images/sublime1.png" width="1000">
 </p>
+
 - Next, we are going to install a tool called **Package Control** that will allow us to install another plugin. The instructions for installing Package Control are [here](https://packagecontrol.io/installation).
 - In Sublime, go to **Preferences->Package Control** and Select `Package Control: Install Package`
 <p align='center'>
 <img src="../Images/sublime_pc.png" width="1000">
 </p>
+
 - A list of all the pacakages that you can install should appear. Install the following packages (select +  `enter`):
   - `BracketHighlighter`: This will allow you to more easily see whether and what's not closed!
   - `SublimeLinter`: A linter is a tool that flags syntax errors, bugs, and other lower-level kinds of errors in your code.
@@ -128,15 +130,16 @@ The public tokens are pretty disposable and can be changed pretty easily. One gr
 ## 1.2 Uploading data to Mapbox
 For the next few weeks, we are going to look at how climate change (sea level rise and storm surges) may impact shoreline property in New York City, especially paying attention to risk to those living in public and affordable housing.
 
-To begin, we are going to consider the impacts of a superstorm called Hurricane Sandy that hit New York City in 2012 and flooded the coastline in all five borough of the city. Here's a [report from the NYU Furman Center](https://furmancenter.org/files/publications/SandysEffectsOnHousingInNYC.pdf) summarizing Sandy's impacts on housing in the city.
+To begin, we are going to consider the impacts of a superstorm called Hurricane Sandy that hit New York City in 2012 and flooded the coastline in all five borough of the city. Here's a [report from the NYU Furman Center](https://furmancenter.org/files/publications/SandysEffectsOnHousingInNYC.pdf) summarizing Sandy's impacts on housing in the city. We are going to make a map of Hurricane Sandy's inundation zone.
 
-- To begin with, we are going to make a map of Hurricane Sandy's inundation zone. Download Sandy's inundation zone data [here](https://data.cityofnewyork.us/Environment/Sandy-Inundation-Zone/uyj8-7rv5). Download the `GeoJSON` version. Mapbox will accept the other data formats, but I find it easier to work with one file (as opposed to the 4-5 files in a shapefile).
+- Download Sandy's inundation zone data [here](https://data.cityofnewyork.us/Environment/Sandy-Inundation-Zone/uyj8-7rv5). Download the `GeoJSON` version. Mapbox will accept the other data formats, but I find it easier to work with one file (as opposed to the 4-5 files in a shapefile).
 
 - Once your download is complete, go to [studio.mapbox.com](https://studio.mapbox.com/).
 - Select **Tilesets**. You should see some Mapbox tilesets, which are often used as basemaps and starter datasets and a section called "Custom tilesets". The data that you upload will appear here.
 <p align='center'>
 <img src="../Images/mapbox_tileset.png" width="1000">
 </p>
+
 - Click **New tileset** button to upload your Hurricane Sandy data. (Note the different file formats that Mapbox takes). It will take a few minutes for your dataset to upload. The larger the file is, the longer it will take. Note that the free tier only allows you `20 uploads per month | 300 MB per upload`.
   - A note: Uploading through Chrome never works on my computer for some reason. I've got all kinds of pop-up and privacy blockers. If you run into the same issue, you can try another browser (I typically use Safari).
 - The new file - the naming convention Mapbox uses is typically the file name and then a unique ID - should appear in your Custom tilesets. Click on your new dataset and check that the data upload worked. You should see something like the below:
@@ -149,15 +152,16 @@ Now we are going to create a basic web page with just our map and a small text b
 
 ### 1.3.1 Making a basic web page
 All the pages we are going to create in this class have three basic components:
-- HTML (HyperText Markup Language): describes the elements to be displayed in your web browser. This will be your `filename.html` file.
+- HTML (HyperText Markup Language): describes the elements to be displayed in your web browser. This will be your `YOURHTMLFILENAME.html` file.
 - CSS (Cascading Style Sheet): the language that is used to style the elements in the HTML document.
-  - This is most often another file called `stylesheetname.css`
+  - This is most often another file called `YOURSTYLESHEETNAME.css`
   - Sometimes, if the styling is pretty short, it may be embedded in the HTML file under the `<style>...</style>` tags
-- JS (Javascript): A file that codes the activity or interactivity of a website. For instance, if you want your map to change with a computer mouse action, you will code a `yourJScode.js` style to decsirbe how this works or embed the JS code into your HTML file.
+- JS (Javascript): A file that codes the activity or interactivity of a website. For instance, if you want your map to change with a computer mouse action, you will code a `YOURJSCODENAME.js` style to describe how this works or embed the JS code into your HTML file.
+  - Similar to the stylesheet, if the code is pretty short, we'll just include it in the HTML document under the `<script>...</script>` tags.
 
-- In your `countermapping-webmaps` folder (i.e. your local repo), create a new folder called `Lab7`
+- In your `countermapping-webmaps` folder (i.e. your local repo), create a new folder called `Lab7`. We are going to create folders for each week, and these folders are going to be subdomains on your website such that each week you'll make a different web page.
 - In your text editor, create a new file called `index.html` and start off with the following code:
-  - All of our "elements" are framed by their appropriate `<element>...</element>` tags to indicate the beginning and end of each type of element.
+  - Note: All of our "elements" are framed by their appropriate `<element>...</element>` tags to indicate the beginning and end of each type of element.
   - Also note:
     - `<!-- All the text in between these arrows is not executed. It allows us to comment on the code in html -->`
     - `// This is how you comment code in Javascript, i.e. within your <script></script> element`
