@@ -333,7 +333,7 @@ As you can see from the dot on graph, our **Fill opacity** is 0 right now, there
 - Hit **Publish** to save the changes in this map and to be able to access it publicly.
 - Under **Share** in the top menu bar, copy your **Style URL**. Mine is `mapbox://styles/iamwfx/cl8tluyqd001a14nzpd565em7`
 
-Add another chunk of code that add sin your map object to the `map` div:
+Add another chunk of code that adss in your map object to the `script` div:
 ```JS
 const map = new mapboxgl.Map({
   container: 'map', // container id
