@@ -386,7 +386,7 @@ map.on('load',function(){
     'id':'flood_zones',
     'type':'fill',
     'source':'sandy_layer',
-    'source':'Sandy_Inundation_Zone-UNIQUEID',
+    'source-layer':'Sandy_Inundation_Zone-UNIQUEID',
     'paint':{
       'fill-color':'#00158f',
       'fill-opacity': 0.5
