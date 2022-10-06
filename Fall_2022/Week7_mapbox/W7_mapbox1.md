@@ -285,7 +285,7 @@ To do this, in between your `<script></script>` elements, first add your default
 mapboxgl.accessToken = 'INSERT YOUR KEY HERE'
 ```
 
-After you've done this, we will first pick out a base map style. Go to your Mapbox studio page. You should see a list of styles. *I think* you should all have a style called **Cali Terrain**. Click on the three dots next to the map and duplicate it.  Click on that map style and you should get something like this:
+After you've done this, we will first pick out a base map style. Go to your Mapbox studio page. You should see a list of styles. *I think* you should all have a style called **Cali Terrain**. Click on the three dots next to the map and duplicate it. **If not, you can use this style URL** [Here](mapbox://styles/iamwfx/cl8tluyqd001a14nzpd565em7) Click on that map style and you should get something like this:
 
 <p align='center'>
 <img src="../Images/mapbox_caliterrain.png" width="1000">
