@@ -349,7 +349,7 @@ Now open the `index.html` file in your `Lab7` folder. You should see your base m
 ```JS
 const map = new mapboxgl.Map({
   container: 'map', // container id
-  style: 'your-style-url' // replace this with your style URL,
+  style: 'your-style-url', // replace this with your style URL,
   center: [-73.935242, 40.730610], // The convention for coordinates is  typically [long, lat]
   zoom: 12 // The zoom level can be any decimal number
 });
