@@ -14,6 +14,7 @@
 <p align='center'>
 <img src="https://blog.hubspot.com/hs-fs/hubfs/Google%20Drive%20Integration/Whats%20a%20Subdomain%20%26%20How%20Is%20It%20Used%3F-3.jpeg?width=650&name=Whats%20a%20Subdomain%20%26%20How%20Is%20It%20Used%3F-3.jpeg"  height="200" />
 </p>
+
 - For our github pages URL `https://youruserid.github.io/lab7`
   - `https://` is the internet protocol
   - `youruserid` is the subdomain
@@ -23,7 +24,7 @@
 
 
 **Case sensitivity**
-- Your subfolder names are **case sensitive**. This means if you named your repo folder `Lab7` (upper case **L**) and you tried to access the page through `youruserid.github.io/lab7` (lower case **l**) you likely got a 404 error indicating the page doesn't exist.
+- Your subfolder/page path names are **case sensitive**. This means if you named your repo folder `Lab7` (upper case **L**) and you tried to access the page through `youruserid.github.io/lab7` (lower case **l**) you likely got a 404 error indicating the page doesn't exist.
 - This extends to the different languages that we use. The confusing part is that not all languages are case sensitive. Here is a list for our purposes:
   - Javascript files (`.js`): Case sensitive 🟡
   - HTML files (`.html`): NOT case sensitive 🟢
@@ -74,7 +75,7 @@ Let's start off with what you were working on last week:
 ---
 ### A note: What is `index.html`?
 <!-- **What is `index.html`?** -->
-We didn't quite talk about this last week: but an `index.html` file is the default web pag shown on  URL if no you don't specify another `.html` file.
+We didn't quite talk about this last week: but an `index.html` file is the default web pag shown for a URL if you don't specify another `.html` file.
 
 Whenever you have any directory, it is best practice to have a corresponding `index.html` page, even if you don't plan to display any content on that page. So, you aside from the index pages in each of your `LabXX` files you should also have an index page in your actual `countermapping-webmaps` folder (which you should if you followed along in the tutorial last week).
 
