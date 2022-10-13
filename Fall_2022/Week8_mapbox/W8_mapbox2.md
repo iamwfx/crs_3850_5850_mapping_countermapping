@@ -1,11 +1,10 @@
 
-# Week 8 - Data-driven styling and interactivity in Mapb
+# Week 8 - Data-driven styling and interactivity in Mapbox
 
 **Today we will cover**
 - Data-driven styling
 - CSS styling: sizing our elements
 - Interactivity: Layer selection
-- Camera: Adjusting the field of view
 
 # 0. READ ME: A note about web address nomenclature, case sensitivity, spaces, quotation marks, and indents
 
@@ -585,6 +584,14 @@ for (var i = 0; i < checkboxes.length; i++) {
 ```
 
 If your code works you should get this, checking and unchecking the boxes should turn the layers on and off.
+
+## 1.5 One weird trick to instantaneously change the feel of your map
+All Mapbox GL maps, unless this function is explicitly turned off, can be made into a 3D map. If you try to move the map around while holding down the **ctrl** button (on a Mac, I'm not sure what the PC equivalent is), you'll be able to change the camera angle like so:
+<p align='center'>
+<img src="../Images/mapbox_3d.png" width="1000">
+</p>
+
+Yes, this can also be scripted and we'll learn how next week.
 
 ---
 #### The Console
