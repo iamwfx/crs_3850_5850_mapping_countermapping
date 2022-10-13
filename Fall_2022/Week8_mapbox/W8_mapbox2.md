@@ -510,15 +510,15 @@ I've probably mentioned this, but we are mainly working with `class` and `id` ty
 <div id='menu'>
   <label class='check-container'>
       Sandy Inundation Zone
-      <input id='sandyLayer' type='checkbox' name='viz-toggle' checked='checked'>
+      <input id='floodZones' type='checkbox' name='viz-toggle' checked='checked'>
     </label>
   <label class='check-container'>
       NYCHA Buildings
       <input id='nychaBuildings' type='checkbox' name='viz-toggle' checked='checked'>
   </label>
   <label class='check-container'>
-      Number of People Below Poverty Line
-      <input id='censusLayer' type='checkbox' name='viz-toggle' checked='checked'>
+      +300 People Below Poverty Line
+      <input id='povertyLevel' type='checkbox' name='viz-toggle' checked='checked'>
   </label>
 </div>
 ```
