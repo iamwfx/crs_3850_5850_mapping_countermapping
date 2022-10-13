@@ -245,10 +245,10 @@ Lucky for you all, I've already grabbed the data we'll need from NHGIS and uploa
 - I've also included the codebook in this week's lab folder so you know what each of the columns corresponds to.
 
 For this exercise, we are going to use the following column from the `Poverty Status in the Past 12 Months by Household Type by Age of Householder` question in the Census (from the `nhgis0114_ds249_20205_blck_grp_codebook.txt` codebook):
-- `AMR5E001`: the total number of people who responded to this question
-<!-- - `AMR5E002`: the number of people who's income in the past 12 months is below the
+<!-- - `AMR5E001`: the total number of people who responded to this question -->
+- `AMR5E002`: the number of people who's income in the past 12 months is below the
 poverty level. When we look at the range of values in this column, we can see that they go from **0 - 915**.
- -->
+
 
 
 - First, add the tileset **source** using this code block:
