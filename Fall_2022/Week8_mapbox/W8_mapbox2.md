@@ -77,11 +77,11 @@ Let's start off with what you were working on last week:
 <!-- **What is `index.html`?** -->
 We didn't quite talk about this last week: but an `index.html` file is the default web pag shown for a URL if you don't specify another `.html` file.
 
-Whenever you have any directory, it is best practice to have a corresponding `index.html` page, even if you don't plan to display any content on that page. So, you aside from the index pages in each of your `LabXX` files you should also have an index page in your actual `countermapping-webmaps` folder (which you should if you followed along in the tutorial last week).
+Whenever you have any directory, it is best practice to have a corresponding `index.html` page, even if you don't plan to display any content on that page. So, aside from the index pages in each of your `LabXX` files you should also have an index page in your actual `countermapping-webmaps` folder (which you should if you followed along in the tutorial last week).
 
 ---
 
-Let's all start off with the same code starting `index.html` code below (I tweaked some things from last week). Make sure to add in Mapbox API token!
+Let's all start off with the same starting `index.html` code below (I tweaked some things from last week). Make sure to add in Mapbox API token!
 
 ```html
 <!-- This is to indicate we have an HTML document -->
