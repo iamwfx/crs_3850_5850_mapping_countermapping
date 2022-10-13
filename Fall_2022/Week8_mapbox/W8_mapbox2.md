@@ -636,12 +636,12 @@ Add the following floodplain layers and style them with a transparency so that w
 - url: `mapbox://iamwfx.4ydk0450`
 
 #### 2100 predicted floodplains (once in 100 year flood)
-- Source Layer: `FutureFloodplains_2100_500yr-27ghpw`
-- url: `mapbox://iamwfx.8thgevrt`
-
-#### 2100 predicted floodplains (once in 500 year flood)
 - Source Layer: `FutureFloodplains_2100_100yr-cqwfrw`
 - url: `mapbox://iamwfx.dxjuiivg`
+
+#### 2100 predicted floodplains (once in 500 year flood)
+- Source Layer: `FutureFloodplains_2100_500yr-27ghpw`
+- url: `mapbox://iamwfx.8thgevrt`
 
 
 
