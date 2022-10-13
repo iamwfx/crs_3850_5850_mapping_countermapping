@@ -440,7 +440,7 @@ Think of elements as specific types of containers that can, but *are not by defi
   - Notice that, in our `index.html` file, we have this div: `<div id='map'></div>`
   - This is a div that has the ID `map`
   - In our `style.css` file, we defined `map` to have the following styling:  `#map { position: fixed; top: 0; bottom: 0; width: 100%; }`
-    - This means our map is positioned at 0,0 relative to the viewport on our browser and it takes up 100% of the width of our browser.
+   	- This means our map is positioned at 0,0 relative to the viewport on our browser and it takes up 100% of the width of our browser.
   - We also used the `map` ID to reference that div when we want to add our map into it.
 
 ---
@@ -528,7 +528,10 @@ Once you save the code, if you refresh your page you should get these check boxe
 <img src="../Images/mapbox_checkbox1.png" width="1000">
 </p>
 
-- Great! You can check/uncheck those boxes, you can see it doesn't do anything yet. A last formatting piece is that I want each layername-box pair to have its own line. To do so, add the following to your `style.css` file:
+- Great! You can check/uncheck those boxes, you can see it doesn't do anything yet. A last formatting piece is that I want each layername-box pair to have its own line. We will create a label element and, inside it, we're going to add an [input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that uses HTML's built-in input type `checkbox`. (There a lot of different types of built-in inputs!)
+- We have also named these labels `check-container` (it's a `class` and not an `id` because there are multiple elements under the same name)
+
+- Add the following to your `style.css` file:
 ```css
 .check-container {
   display: flex;
@@ -536,8 +539,7 @@ Once you save the code, if you refresh your page you should get these check boxe
   justify-content: space-between;
 }
 ```
-- This creates a label element and inside it, we're going to add an [input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that uses HTML's built-in input type `checkbox`. (There a lot of different types of built-in inputs!)
-- We have also named these labels `check-container` (it's a `class` and not an `id` because there are multiple elements under the same name)
+
 - Here, we are going to give the `check-container` class some attributes - I won't go into too much detail here - so that each element with `check-container` class is getting a row and the content is justified.
 
 Now your text box should look like this:
