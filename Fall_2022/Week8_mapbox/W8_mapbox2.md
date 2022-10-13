@@ -388,7 +388,7 @@ I think one of the confusing aspects of this choropleth is that every value maps
   ```js
   [
     'step',
-    ["/",['get','AMR5E002'],['get','AMR5E001']],
+    ['get','AMR5E002'],
     '#edf8e9',200,'#bae4b3',400,'#74c476',600,'#31a354',800,'#006d2c'
   ]
   ```
