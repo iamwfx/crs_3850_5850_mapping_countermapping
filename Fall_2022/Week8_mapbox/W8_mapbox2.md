@@ -81,7 +81,7 @@ Whenever you have any directory, it is best practice to have a corresponding `in
 
 ---
 
-Let's all start off with the same starting `index.html` code below (I tweaked some things from last week). Make sure to add in Mapbox API token!
+Let's all start off with the same starting `index.html` code below (I tweaked some things from last week). Make sure to add in your Mapbox API token!
 
 ```html
 <!-- This is to indicate we have an HTML document -->
@@ -244,7 +244,7 @@ Lucky for you all, I've already grabbed the data we'll need from NHGIS and uploa
 - Explore what this looks like in Mapbox studio, use this link: [https://studio.mapbox.com/tilesets/iamwfx.6nowkujs](https://studio.mapbox.com/tilesets/iamwfx.6nowkujs). Note that for each column, it shows the data type (unless it's unknown) and, if it's a number, the range of the values in that column. This will come handy later on.
 - I've also included the codebook in this week's lab folder so you know what each of the columns corresponds to.
 
-For this exercise, we are going to use the following two columns from the `Poverty Status in the Past 12 Months by Household Type by Age of Householder` question in the Census (from the `nhgis0114_ds249_20205_blck_grp_codebook.txt` codebook):
+For this exercise, we are going to use the following column from the `Poverty Status in the Past 12 Months by Household Type by Age of Householder` question in the Census (from the `nhgis0114_ds249_20205_blck_grp_codebook.txt` codebook):
 - `AMR5E001`: the total number of people who responded to this question
 <!-- - `AMR5E002`: the number of people who's income in the past 12 months is below the
 poverty level. When we look at the range of values in this column, we can see that they go from **0 - 915**.
@@ -279,7 +279,7 @@ poverty level. When we look at the range of values in this column, we can see th
     })
 ```
 
-Your new map should look like this: All green, because we have made all the block group green.
+Your new map should look like this: All green, because we have made all the block groups green.
 
 <p align='center'>
 <img src="../Images/mapbox_lab8_addcensus1.png" width="1000">
@@ -505,9 +505,6 @@ I've probably mentioned this, but we are mainly working with `class` and `id` ty
 
 ## 1.3 Interactivity: Toggling Layers
 - Next we want to add the check boxes into our text box. Below last paragraph in the text, add the following:
-  - This creates a label element and inside it, we're going to add an [input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that uses HTML's built-in input type `checkbox`. (There a lot of different types of built-in inputs!)
-  - We have also named these labels `check-container` (it's a `class` and not an `id` because there are multiple elements under the same name)
-
 
 ```HTML
 <div id='menu'>
@@ -539,7 +536,9 @@ Once you save the code, if you refresh your page you should get these check boxe
   justify-content: space-between;
 }
 ```
-  - Here, we are going to give the `check-container` class some attributes - I won't go into too much detail here - so that each element with `check-container` class is getting a row and the content is justified.
+- This creates a label element and inside it, we're going to add an [input element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input) that uses HTML's built-in input type `checkbox`. (There a lot of different types of built-in inputs!)
+- We have also named these labels `check-container` (it's a `class` and not an `id` because there are multiple elements under the same name)
+- Here, we are going to give the `check-container` class some attributes - I won't go into too much detail here - so that each element with `check-container` class is getting a row and the content is justified.
 
 Now your text box should look like this:
   <p align='center'>
