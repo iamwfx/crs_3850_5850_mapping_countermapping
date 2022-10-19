@@ -32,6 +32,7 @@ Let's take a look at an example:
 <p align='center'>
 <img src="../Images/kaggle_RE2.png" width="800">
 </p>
+
 - Lastly, the creator says that "Data was collected via web scraping using python libraries." **This should give us the most alarm**, because we are relying on whoever collected the data to have done a thorough job.
 - Also, looking at the `Zip code` column, we can see that the zip codes start at `601.0`, which is clearly wrong since all US zip code have five digits. Likely, whoever was collecting this data turned zip codes into a number instead of formatting them as string (text), so these zip codes for PR should be `00601`, `00612`, etc. Not a big deal, but still annoying because we might have to re-format this later on.
 - If you go to the "Discussion" tab on this page, you can see that, hm, someone is asking about incomplete data. Clicking on that discussion, it looks like there are only a handful of states available because the collector needs to bypass the blockers Realtor.com has against webscrapping. Hm.
