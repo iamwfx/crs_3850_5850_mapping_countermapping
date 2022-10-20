@@ -4,15 +4,15 @@
 **Today we will cover**
 - More data-driven styling
 - Zoom-driven styling
-- Hover effects and pop-ups  
+- Pop-ups  
 
 Before we get started, I should mention that almost all the data we are using has been shared with us by [Josh Rotbert](http://www.joshrotbert.com/), courtsey of Linda Shi and the [Adaptive Land Lab](https://labs.aap.cornell.edu/adaptive-land-lab). Thanks guys for gathering and joining some of the data we're about to use!
 
 # 0. Start with code from last week
 
-Let's all start off with the same starting `index.html` code below (I tweaked some things from last week). Make sure to add in your Mapbox API token!
+Let's all start off with the same starting `index.html` code below. There are some pieces I've added in for you that you will connect / fill out.
+ Make sure to add in your Mapbox API token!
 
-There are some pieces I've added in for you that you will connect / fill out.
 
 ```html
 <!-- This is to indicate we have an HTML document -->
@@ -481,7 +481,7 @@ You won't see any changes on your website because we haven't given this object a
 ```js
 map.on('mouseenter','yourLayerId',function(e){})
 ```
-function, which takes the **event object** from our mouse pointer moving into a geometry on the `yourLayerId` layer and does whatever we define within the `{}`.
+function, which takes the **event object** `e` from our mouse pointer moving into a geometry on `yourLayerId` layer and does whatever we define within the `{}`.
 
 One tricky thing is that some of our columns are empty. If you go to the mapbox studio [link for this layer](https://studio.mapbox.com/tilesets/iamwfx.ab4g098q/#17.47/40.712953/-73.981081) and click on some of the parcels, you might see something like this:
 
@@ -489,7 +489,7 @@ One tricky thing is that some of our columns are empty. If you go to the mapbox 
 <img src="../Images/mapbox_lab9_emptycols.png" width="1000">
 </p>
 
-We are going to do a small transformation where empty values will return a `No` string and when do we have data, instead of displaying `in2050_100` or somethign we will display `Yes`.
+We are going to do a small transformation where empty values will return a `No` string and when do we have data, instead of displaying `in2050_100` or something we will display `Yes`.
 
 Here, I want to show the following variables:
  - The address `Address`
@@ -499,7 +499,7 @@ Here, I want to show the following variables:
 
 
 
-Inside this function, when our mouse enters an object, we are going to do the following:
+Inside our `map.on('mouseenter',function(e){...})` function, we are going to do the following:
  1. Get the coordinates of the geometry you are entering and assign it to variable.
  ```js
    const coordinates = e.features[0].geometry.coordinates.slice();
@@ -556,4 +556,4 @@ const map = new mapboxgl.Map({...
     ...
   })
 ```
-Extra credit is if you can create button that will "fly" you into a particular neighborhood to around zoom 16, while changing the pitch and bearing from your original map.
+Extra credit is if you can create button that will "fly" you into a particular neighborhood to around zoom 16, while changing the pitch and bearing from your original map. Hint: look through Mapbox's execellent tutorials. 
