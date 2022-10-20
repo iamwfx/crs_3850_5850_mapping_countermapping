@@ -402,7 +402,7 @@ font: 12px/20px 'Montserrat Neue',sans-serif;
 
 
 ```
-Your page should look like this (I changed the map style from last week's lab):
+Your page should look like this. (Whoops, I took this screenshot when there was a typp: 2080->2100):
 
 <p align='center'>
 <img src="../Images/mapbox_lab9_start.png" width="1000">
