@@ -354,7 +354,6 @@ position: fixed;
 width: 20%;
 border-radius: 3px;
 background-color: #fff;
-ba
 /* height: 80%; */
 top: 0;
 left: 0;
@@ -421,7 +420,7 @@ Add in the following parcel data layers:
 View the data in Mapbox studio [here](https://studio.mapbox.com/tilesets/iamwfx.ab4g098q/#10.23/40.7219/-73.8063) and see what columns are available.
 
 
-Notice that there is a column called `house_type`. It has the following possible categories:
+Notice that there is a column called `hous_type`. It has the following possible categories:
 - `coop`: co-op buildings
 - `homeless`: homeless shelters,
 - `hpd_sub`: subsidized housing (though remind me to as Josh which type of subsized housing these are, HCV? LIHTC? MIH?),
@@ -509,8 +508,8 @@ Inside our `map.on('mouseenter',function(e){...})` function, we are going to do 
 ```js
   // Here's that function that does the transformation
   function emptyToYesNo(val){
-    if (val == null || val == undefined){
-      return "No"} else {return "Yes"};
+      if (val.length > 1){
+          return "Yes"} else {return "No"};
   }
   const Address = e.features[0].properties.Address;
   const BBL = e.features[0].properties.BBL;
