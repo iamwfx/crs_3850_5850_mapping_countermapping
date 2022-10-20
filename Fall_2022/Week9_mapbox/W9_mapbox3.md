@@ -115,12 +115,12 @@ Let's all start off with the same starting `index.html` code below. There are so
               <input id='f50_500' type='checkbox' name='viz-toggle' checked='checked'>
           </label>
           <label class='check-container'>
-              In 2080 (1 in 100 year)
-              <input id='f80_100' type='checkbox' name='viz-toggle' checked='checked'>
+              In 2100 (1 in 100 year)
+              <input id='f100_100' type='checkbox' name='viz-toggle' checked='checked'>
           </label>
           <label class='check-container'>
-              In 2080 (1 in 500 year)
-              <input id='f80_500' type='checkbox' name='viz-toggle' checked='checked'>
+              In 2100 (1 in 500 year)
+              <input id='f100_500' type='checkbox' name='viz-toggle' checked='checked'>
           </label>
 
         <!-- <label class='check-container'>
@@ -277,7 +277,7 @@ Let's all start off with the same starting `index.html` code below. There are so
         }
       });
       map.addLayer({
-        'id':'f80_100',
+        'id':'f100_100',
         'type':'fill',
         'source':'FutureFloodplains_2100_100yr',
         'source-layer':'FutureFloodplains_2100_100yr-cqwfrw',
@@ -287,7 +287,7 @@ Let's all start off with the same starting `index.html` code below. There are so
         }
       });
       map.addLayer({
-        'id':'f80_500',
+        'id':'f100_500',
         'type':'fill',
         'source':'FutureFloodplains_2100_500yr',
         'source-layer':'FutureFloodplains_2100_500yr-27ghpw',
@@ -306,8 +306,8 @@ Let's all start off with the same starting `index.html` code below. There are so
     map.setLayoutProperty('f20_500',"visibility", "visible");
     map.setLayoutProperty('f50_100',"visibility", "visible");
     map.setLayoutProperty('f50_500',"visibility", "visible");
-    map.setLayoutProperty('f80_100',"visibility", "visible");
-    map.setLayoutProperty('f80_500',"visibility", "visible");
+    map.setLayoutProperty('f100_100',"visibility", "visible");
+    map.setLayoutProperty('f100_500',"visibility", "visible");
 
     map.setLayoutProperty('affHousing',"visibility", "visible");
 
