@@ -196,7 +196,7 @@ In order to style layers, go to your Studio and open up a map style like so:
 </p>
 
 Notice that, on the left-hand tool bar, we have two sections: **Components**, and **Layers**.
-- **Componenets** are features, like buildings, that we can style in a single unit.
+- **Components** are features, like buildings, that we can style in a single unit.
 - **Layers** are a collection of features of a single type that can vary, however, in how we style it.
 
 - Click on **Layers** and then the **`+`** button, which should take you into an interface that looks like the below:
@@ -205,7 +205,9 @@ Notice that, on the left-hand tool bar, we have two sections: **Components**, an
 </p>
 
 - We can now add another tileset layer onto our map style!
-- Select the **Source** for our new tileset. This can either be 1) a tileset that already exists in your own account under **Tileset**, or this can be a public tileset if you have the tileset ID
+- Select the **Source** for our new tileset. This can either be:
+    - a tileset that already exists in your own account under **Tileset**, or  
+    - public tileset if you have the tileset ID
 <p align='center'>
 <img src="../Images/story_addlayer_source.png" width="1000">
 </p>
