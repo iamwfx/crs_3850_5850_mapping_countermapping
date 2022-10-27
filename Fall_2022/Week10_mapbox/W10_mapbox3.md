@@ -115,9 +115,9 @@ The `helper.html` file helps you identify the lat/long, zoom, pitch, and bearing
 </p>
 
 - The crosshairs at the center of the map correspond to the `center` lat/lng
-- You can also <ctrl> + drag or right-click and drag the mouse around to tilt and change bearing of the map.
+- You can also `<ctrl>` or right-click and drag the mouse around to tilt and change bearing of the map.
 
-We'l be using this tool to get the changing camera position inputs needed for the next step.
+We'l be using this tool to get the changing camera position inputs needed for the storymap.
 
 ## 1.4 Configuration, continued
 
