@@ -9,7 +9,7 @@ Today we are going to dive into Mapbox's storytelling tools. Luckily, we have th
 
 # 0. Download the storytelling toolkit
 
-Download the [starter files](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping_draft/blob/main/Fall_2022/Week10_mapbox/story_starterfiles.zip) in this week's folder and put it in `Lab10` in your  `countermapping-webmaps` repo.
+Download the [starter files](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping/blob/main/Fall_2022/Week10_mapbox/story_starterfiles.zip) in this week's folder and put it in `Lab10` in your  `countermapping-webmaps` repo.
 
 # 1. Creating a storymap
 The storymap is essentially composed of scroll-driven interactions that allow us to do things like:
