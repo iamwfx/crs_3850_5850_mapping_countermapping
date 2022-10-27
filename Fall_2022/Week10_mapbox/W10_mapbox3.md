@@ -18,6 +18,7 @@ The storymap is essentially composed of scroll-driven interactions that allow us
 - Change the basemap appearance
 - Animate html elements
 
+FYI the documentation for how to use Mapbox storytelling tools is [here](https://labs.mapbox.com/education/impact-tools/interactive-storytelling/).
 
 ## 1.1 General Steps
 
@@ -249,5 +250,5 @@ We are going to spend most of the time on our in-class exercise, which I'm going
 - Start with the first "chapter" being the same text description we have been using in our previous flood risk maps, adjusting items like the `title`, `subtitle`, and `byline`.
 - Create another "chapter" that talks about flood-related damages to the [Red Hook Houses](https://en.wikipedia.org/wiki/Red_Hook_Houses). You'll have to do some searching online
   - Show the housing layer in this chapter
-  - Make sure to include a relevant image and link to it under `chapters[{...,image:XX,..}]`
+  - Include a relevant image or video and link to it under `chapters[{...,image:XX,..}]`
 - Note: I'm only requiring two "chapters" for this lab even though the template comes with three. 
