@@ -3,9 +3,9 @@
 
 **Today we will cover**
 - Basics of storytelling maps
--
+- Mapbox studio
 
-Today we are going to dive into Mapbox's storytelling tools. Luckily, we have this [template from Mapbox](https://github.com/mapbox/storytelling), which structures the storymap.
+Today we are going to dive into Mapbox's storytelling tools. Luckily, we have this [template from Mapbox](https://github.com/mapbox/storytelling), which structures the storymap. We're also going to learn about another (no code) way to add and style layers over your basemap.
 
 # 0. Download the storytelling toolkit
 
@@ -188,9 +188,9 @@ Note: items in bold are **required**.
 
 ## 1.5 Mapbox studio for layer visualization and management
 
-We can do many of the same adding and styling of layers we have been doing through code by adding them onto a map layer in Mapbox studio instead.
+We can do many of the same adding and styling of layers we have been doing through code by adding them onto a map layer in Mapbox studio instead. There's less control over interactions, I believe, so it's really only useful for displaying the styled layers. 
 
-In order to do this, go to your Studio and open up a map style like so:
+In order to style layers, go to your Studio and open up a map style like so:
 <p align='center'>
 <img src="../Images/story_mapstyle.png" width="1000">
 </p>
@@ -233,17 +233,18 @@ Notice that, on the left-hand tool bar, we have two sections: **Components**, an
 
 
 # 2. In-Class Exercise
+We are going to spend most of the time on our in-class exercise, which I'm going to leave more open ended today. 
 **Deliverables**
-- Starting from an existing map style, play around with changing the water, land, building colors. Turn on the 3D building coponenet
-- Add in the 2050 and 2010 predicted floodplains tilesets in from [Lab 8](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping/blob/main/Fall_2022/Week8_mapbox/W8_mapbox2.md) to your map. Make sure that they are below the housing layer and that the hierarchy of your flood layers is such that you can see all the layers.
+- Starting from an existing map style, play around with changing the water, land, building colors. Turn on the 3D building component feature.
+- Add in the 2050 and 2010 predicted floodplains tilesets from [Lab 8](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping/blob/main/Fall_2022/Week8_mapbox/W8_mapbox2.md) to your map using Mapbox studio. Style these layers. Make sure that they are below the housing layer and that the hierarchy of your flood layers is such that you can see all the layers.
 - Set the opacity of the the entire housing layer to be 0 so that it's not visible:
 <p align='center'>
 <img src="../Images/story_addlayer_invisble.png" width="1000">
 </p>
 
-- Using the template that you are given in the zip file, create a storymap with the predicted flood plains and housing data (styled only to show public housing).
+- Using the template that you are given in the zip file, create a storymap with the predicted flood plains and housing parcels data. 
+       - Style the parcel data only to show public housing.
 - Start with the first "chapter" being the same text description we have been using in our previous flood risk maps, adjusting items like the `title`, `subtitle`, and `byline`.
-  - Make sure we cannot see the housing layer
 - Create another "chapter" that talks about flood-related damages to the [Red Hook Houses](https://en.wikipedia.org/wiki/Red_Hook_Houses). You'll have to do some searching online
-  - Show the housing layer
+  - Show the housing layer in this chapter
   - Make sure to include a relevant image and link to it under `chapters[{...,image:XX,..}]`
