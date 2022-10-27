@@ -250,3 +250,4 @@ We are going to spend most of the time on our in-class exercise, which I'm going
 - Create another "chapter" that talks about flood-related damages to the [Red Hook Houses](https://en.wikipedia.org/wiki/Red_Hook_Houses). You'll have to do some searching online
   - Show the housing layer in this chapter
   - Make sure to include a relevant image and link to it under `chapters[{...,image:XX,..}]`
+- Note: I'm only requiring two "chapters" for this lab even though the template comes with three. 
