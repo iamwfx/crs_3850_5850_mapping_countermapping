@@ -239,7 +239,7 @@ Notice that, on the left-hand tool bar, we have two sections: **Components**, an
 We are going to spend most of the time on our in-class exercise, which I'm going to leave more open ended today. 
 **Deliverables**
 - Starting from an existing map style, play around with changing the water, land, building colors. Turn on the 3D building component feature.
-- Add in the 2050 and 2010 predicted floodplains tilesets from [Lab 8](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping/blob/main/Fall_2022/Week8_mapbox/W8_mapbox2.md) to your map using Mapbox studio. Style these layers. Make sure that they are below the housing layer and that the hierarchy of your flood layers is such that you can see all the layers.
+- Add in the 2050 and 2100 predicted floodplains tilesets from [Lab 8](https://github.com/iamwfx/crs_3850_5850_mapping_countermapping/blob/main/Fall_2022/Week8_mapbox/W8_mapbox2.md) to your map using Mapbox studio. Style these layers. Make sure that they are below the housing layer and that the hierarchy of your flood layers is such that you can see all the layers.
 - Set the opacity of the the entire housing layer to be 0 so that it's not visible:
 <p align='center'>
 <img src="../Images/story_addlayer_invisble.png" width="1000">
