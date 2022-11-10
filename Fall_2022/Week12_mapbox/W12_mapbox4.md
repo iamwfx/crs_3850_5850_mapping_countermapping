@@ -2,8 +2,8 @@
 # Week 12 - Mapbox Storytelling tools 2
 
 **Today we will cover**
-- How to sandwich maps in between full page elements
-- Videos
+- Introducing more formatting options 
+- Embedding videos into the page
 
 Today we are going to refine our storymap in Mapbox. We will dive into some HTML/CSS to modify the look and sequence of our Sandy narrative.
 
