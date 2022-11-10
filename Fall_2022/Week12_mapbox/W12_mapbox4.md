@@ -1033,7 +1033,7 @@ Lab12
     z-index: 5;
 }
 ```
-- To add a background image and style so that it span the full page and doesn't tile, we want to update our header to the following:
+- To add a background image and style so that it spans the full page and doesn't tile, we want to update our header to the following:
 
 ```css
 #header {
