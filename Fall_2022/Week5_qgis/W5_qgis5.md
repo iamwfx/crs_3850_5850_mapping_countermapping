@@ -12,6 +12,7 @@
 
 ## 1.0 Geocoding - continued
 To get started, we need to **create an API key**. You'll need your Cornell account to proceed. Please refer my email from earlier this week on the details. 
+
 1. Go to the [Google Cloud console](https://console.cloud.google.com/), which is your landing page for all Google computing services (geocoding API is one of many tools you can use through the Google Cloud).
 2. If your default account is your personal gmail (like it is mine), make sure to switch it to your Cornell email on the top right-hand corner.
 3. You'll have to agree to their terms of service before proceeding (I think). An [interesting read](https://cloud.google.com/terms/?authuser=1) for another time.
