@@ -2,7 +2,7 @@
 These are the lab materials for the Mapping and Countermapping, taught Wenfei Xu at the Department of City and Regional Planning at Cornell University College of Architecture, Art, and Planning. 
 
 The lab materials will cover:\
-Week 1-2: Felt \ 
+Week 1-2: Felt\ 
 Week 3-5 Introductory QGIS\
 Week 7-1: Mapbox and Web Design
 
