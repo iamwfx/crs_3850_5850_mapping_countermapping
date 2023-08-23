@@ -17,13 +17,13 @@ In this first exercise, you will make a map of Ithaca through one dataset.
 ## 1.1 - Felt Sign-Up and Overview
 1. First, you'll need to sign up for a free Felt account [here](https://felt.com/signup).
 
-Once you've done these , watch [this short video](https://www.youtube.com/watch?v=kodNAqe8g3U) to get a sense of how to use Felt (it's very easy).
+Once you've done these, watch [this short video](https://www.youtube.com/watch?v=kodNAqe8g3U) to get a sense of how to use Felt (it's very easy).
 
-## 1.2 - Get your data 
+## 1.3 - Get your data 
 Go to the [City of Ithaca's open data portal](https://data-ithacany.opendata.arcgis.com/pages/community-data). Go ahead and download any dataset in the **GeoJSON** format onto your computer. 
 
 
-## 1.2 - Add your data
+## 1.4 - Add your data
 In your Felt account, select **New Map** to create a new map. 
 
 Using the **Upload Anything!** tool in the menu bar, upload your `YOURFILENAME.geojson` as a **Data Layer** on to the map. 
@@ -31,7 +31,7 @@ Using the **Upload Anything!** tool in the menu bar, upload your `YOURFILENAME.g
 <img src="../Images/felt_upload.png" width="600"
 </p>
 
-## 1.3 - Style your data
+## 1.5 - Style your data
 After everyone has uploaded their `YOURFILENAME.geojson`, explore your data through styling based on numerical and categorical values. 
 
 On the right-hand side, you can **Style Layer** by clicking on the pencile button. 
@@ -49,7 +49,7 @@ Click on that and explore styling your data by numerical (numbers) or categorica
 
 **Play around with styling different categories and with learning more about each of the data columns. 
 
-### 1.3.1 Optional: Advanced Styling using 
+### 1.5.1 Optional: Advanced Styling using 
 Felt has a [style language](https://feltmaps.notion.site/Felt-Style-Language-0f4de46f0cf2450ea2a19853741097d6#09076b738fe74e6494a481905df13103) that allows users more control over how we style maps. This "language" uses the `JSON` notation (it is stands for JavaScript Object Notation) that uses a **dictionary** of key-value pairs to store information. For instance, the following is a `JSON`: ``{"name":"John", "age":30, "car":null}``. Here, `name`, `age`,`car` are the **keys**, and the information that follows each of the `:` are the **values**. We know it's a dictionary by the `{` and `}` that begin and end the code. 
 
 If you're familiar with JSON format, you can also play around with styling here. 
