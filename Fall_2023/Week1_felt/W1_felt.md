@@ -16,7 +16,6 @@ In this first exercise, you will make a map of Ithaca through one dataset.
 
 ## 1.1 - Felt Sign-Up and Overview
 1. First, you'll need to sign up for a free Felt account [here](https://felt.com/signup).
-2. Add the email address you used to sign up [here](https://docs.google.com/spreadsheets/d/1oG5OafHRC_dym4a5-WfgStWnkQQC8mLASSXxN_v4xOY/edit?usp=sharing) so I can add you as a contributor to our first collaborative map.
 
 Once you've done these , watch [this short video](https://www.youtube.com/watch?v=kodNAqe8g3U) to get a sense of how to use Felt (it's very easy).
 
