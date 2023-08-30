@@ -155,7 +155,9 @@ Under the **File Name**, click on the button with the three dots and locate your
 <p align='center'>
 <img src="../Images/qgis_addevictions.png" width="300">
 </p>
-Under the File Format, the default is `CSV`, which is what our file format is. Great. Also notice in the Geometry Definition section the default is `Point Coordinates`, which is also what we need. AND also that the `X field` and `Y field` have automatically been selected for you. This is because QGIS will automatically look for the field names that it recognizes to be possible candidates for storing geometric information. *Keep in mind that X = longitude and Y= latitude. We typically tend to think of coordinates as lat/long, but GIS software reads points as long/lat.*
+Under the File Format, the default is `CSV`, which is what our file format is. Great. Also notice in the Geometry Definition section the default is `Point Coordinates`, which is also what we need. AND also that the `X field` and `Y field` have automatically been selected for you. This is because QGIS will automatically look for the field names that it recognizes to be possible candidates for storing geometric information. **Keep in mind that X = longitude and Y= latitude. We typically tend to think of coordinates as lat/long, but GIS software reads points as long/lat.**
+
+If you're prompted to select a map projection, select **4326**. 
 
 So all the defaults to add geometries are what we need. Just click **Add**. You should see something like this:
 <p align='center'>
