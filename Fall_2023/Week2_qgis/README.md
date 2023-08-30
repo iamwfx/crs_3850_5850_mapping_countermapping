@@ -32,8 +32,8 @@ First, create a dedicated folder for this class. I would recommend you create a 
 Before we get started with QGIS, we are going to download the spatial datasets we'll be using for this lab. We will get into the different types of spatial datasets in a subsequent lab.
 
 - [New York City borough boundaries](https://www1.nyc.gov/site/planning/data-maps/open-data/districts-download-metadata.page). This will give us the shape the give boroughs in NYC. You'll want to **Download -> Borough Boundaries (Clipped to Shoreline)**. (Clipped to shoreline just means the boundaries don't also include waterbodies as part of the borough shape.)
-- [NYC Open Space data]([https://data.cityofnewyork.us/Recreation/2014-Planimetric-Survey-Open-Space-Parks-/g84h-jbjm](https://nycopendata.socrata.com/Recreation/Parks-Properties/enfh-gkve) This is a dataset of the open spaces in NYC. **Export -> Download -> Download Geospatial Data -> Shapefile**.
-- [NYC Street Centerline](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b). This is a dataset of all the entire NYC road network represented by "centerlines", i.e. lines drawn through each of the road. Navigate to **Export -> Download -> Download Geospatial Data -> Shapefile**.
+- [NYC Open Space data](https://data.cityofnewyork.us/Recreation/2014-Planimetric-Survey-Open-Space-Parks-/g84h-jbjm) This is a dataset of the open spaces in NYC. **Export -> Download -> Download Geospatial Data -> Shapefile**.
+- [NYC Street Centerline](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b). This is a dataset of all the entire NYC road network represented by a "centerlines", i.e. lines drawn through each of the road. Navigate to **Export -> Download -> Download Geospatial Data -> Shapefile**.
 
 #### A brief note on metadata
 The "metadata" for a dataset is what it sounds like - it's the data and information about the dataset. In NYC Street Centerline page, navigate to the **About** section. You'll see a lot of useful information there under **About This Dataset** such as how often this dataset is updated (weekly), which agency maintains this dataset (the Department of Information Technology & Telecommunications), etc.
@@ -60,8 +60,6 @@ First, we need to add in the plug-ins that are the set of (often essential) tool
 <p align='center'>
 <img src="../Images/qgis_plugins.png" width="200">
 </p>
-
-**For the OpenLayers plugin**, you will have to download the zip file for this plug in from [here](https://plugins.qgis.org/plugins/openlayers_plugin/). Save this in your downloads folder (you don't have to keep it permanently) and **Install from Zip**.
 
 Alright, now click on the blank page icon on the top left-hand corner to start a new project.
 <p align='center'>
@@ -233,5 +231,9 @@ I rearranged some of the items together and my final map looks like this:
 
 Next, under the **Layout** in the menu bar on top, you can now export your map as a PNG, PDF, or SVG (if you want vectors for additional work in Illustrator).
 
-For your lab submission, include an export of this map. **This if your only submission for lab this week.**
+For your lab submission, include an export of this map.
 
+# 2. In-class Exercise
+Ok, that was a lot! Let's try something simple. Say I want to focus my study on the Lower East Side in Manhattan. Using what you already, modify the map slightly to change the focus to this particular area. What else do you have to change about the map stylistically? What other types of datasets would you include if you wanted a more careful study of this these evictions?
+
+For your lab submission, include an export of this map and a brief text **on the map** of what other types of information you would like to include.
