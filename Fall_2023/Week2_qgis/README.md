@@ -233,9 +233,5 @@ I rearranged some of the items together and my final map looks like this:
 
 Next, under the **Layout** in the menu bar on top, you can now export your map as a PNG, PDF, or SVG (if you want vectors for additional work in Illustrator).
 
-For your lab submission, include an export of this map.
+For your lab submission, include an export of this map. **This if your only submission for lab this week.**
 
-# 2. In-class Exercise
-Ok, that was a lot! Let's try something simple. Say I want to focus my study on the Lower East Side in Manhattan. Using what you already, modify the map slightly to change the focus to this particular area. What else do you have to change about the map stylistically? What other types of datasets would you include if you wanted a more careful study of this these evictions?
-
-For your lab submission, include an export of this map and a brief text **on the map** of what other types of information you would like to include.
