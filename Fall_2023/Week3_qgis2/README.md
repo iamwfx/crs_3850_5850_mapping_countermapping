@@ -201,8 +201,8 @@ If we open up the attribute table of the block group layer again, we should see 
 
 Select the small abacus that will **Open Field Calculator**.
 We want to:
-- Create a new field that has as a field type `Decimal number (real)`
-- Call this field `rent_inc_p` (p for percentage). You'll have to change the output field length (the number of characters) of your field to 11 first to accommodate the longer field name. And in the expression, select your field from **Fields and Values**. And then click **Ok**.
+- Create a new field that has as a field type `Decimal`
+- Call this field `rent_inc_p` (p for percentage). And then click **Ok**.
 
 <p align='center'>
 <img src="../Images/qgis_field_calc.png" width="500">
