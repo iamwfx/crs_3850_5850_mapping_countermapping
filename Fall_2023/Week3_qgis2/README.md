@@ -191,9 +191,9 @@ This tells us that `AMV6E001` corresponds to the **estimate** for the median gro
 
 Now, finally, we're going to join our Census data to our block groups. Right click on your block group layer and select **Properties**.
 
-Click on the funnel-like icon on the left hand side and then the small plus sign. This window should pop up. It detects what you might want to join automatically, in this case. The `GISJOIN` column in both layers is the IPUMS-specific unique ID for each unit of analysis here.
+Click on the funnel-like icon on the left-hand side and then the small plus sign. This window should pop up. It detects what you might want to join automatically, in this case. The `GISJOIN` column in both layers is the IPUMS-specific unique ID for each unit of analysis here.
 
-We don't actually need all the fields in our data table, just the `AMV6E001` and our ID `GISJOIN`. Check **Joined Fields** and select these two columns.
+We don't actually need all the fields in our data table, just the `AMV6E001` and our ID `GISJOIN` to check if the join was performed correctly. Check **Joined Fields** and select these two columns.
 
 Also, select **Custom field name prefix** and use a prefix like `Census_` because it's less clunky. Click **Ok**.
 
@@ -201,8 +201,8 @@ If we open up the attribute table of the block group layer again, we should see 
 
 Select the small abacus that will **Open Field Calculator**.
 We want to:
-- Create a new field that has as a field type `Decimal number (real)`
-- Call this field `rent_inc_p` (p for percentage). You'll have to change the output field length (the number of characters) of your field to 11 first to accommodate the longer field name. And in the expression, select your field from **Fields and Values**. And then click **Ok**.
+- Create a new field that has as a field type `Decimal`
+- Call this field `rent_inc_p` (p for percentage). And then click **Ok**.
 
 <p align='center'>
 <img src="../Images/qgis_field_calc.png" width="500">
@@ -236,15 +236,15 @@ You can work on the in-class exercise now. However, if you're interested, here's
 
 Under in your menu bar, select **Web -> qgis2web -> Create web map**.
 
-In the **Layers and Groups** tab, you can select to the left of the layers which you want to be visible on your map. I would keep all three (Borough boundaries, NY Block Group, Basemap).
+In the **Layers and Groups** tab, you can select to the left of the layers that you want to be visible on your map. I would keep all three (Borough boundaries, NY Block Group, Basemap).
 
 Now, next to each layer you can select which information you want to pop up when you hover over the geometry.
 
-Do you really need boroughs as a pop up? Probably not, since we have these borough labels already. **Uncheck pop-ups** for the boroughs layer.
+Do you really need boroughs as a pop-up? Probably not, since we have these borough labels already. **Uncheck pop-ups** for the boroughs layer.
 
 In the **Appearance** tab, check **Address Search**. (Why not?) And in **Add Layers List** select **Expanded**, which will allow you to check and uncheck the three layers we have in our map.
 
-Lastly, in the bottom of the tab, select the radio button **Leaflet** instead of the default.
+Lastly, at the bottom of the tab, select the radio button **Leaflet** instead of the default.
 
 Under the **Export** tab, select the **three dots button** next to the Export to Folder selection and select this week's folder.
 
@@ -255,14 +255,14 @@ Finally, click **Export**. When your map is done exporting, your Progress window
 
 Your files should have been exported to a folder called something like `qgis2web_YYYY_MM_DD-HH_MM_SS_MMMMM`.
 
-Open double click the `index.html` file to open it up in your browser.
+Double-click the `index.html` file to open it up in your browser.
 <p align='center'>
 <img src="../Images/leaflet_map.png" width="800">
 </p>
 Hooray! It looks a little *rough* (read: not something we would accept as a final map in this course) but the basic functionality along with a legend and a pop-up are there. In future weeks, we'll learn how to build this more carefully from the ground up.
 
 # 2. In-class Exercise
-**Final output #2 for lab**: Building off of the evictions data from last week, create a visual comparison between the `Eviction` (and not `Legal Possession`) in the `Eviction/Legal Possession` category and a Census category. Some potential ideas: race/ethnicity, median rent, indicators of housing quality, changes to these categories.
+**Final output #2 for lab**: Building off of the eviction data from last week, create a visual comparison between the `Eviction` (and not `Legal Possession`) in the `Eviction/Legal Possession` category and a Census category. Some potential ideas: race/ethnicity, median rent, indicators of housing quality, and changes to these categories.
 
 This can be two layers overlaid, two side by side, or any arrangement you think articulates a clear visual comparison.
 
