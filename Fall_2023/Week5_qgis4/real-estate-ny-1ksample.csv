@@ -1,0 +1,1001 @@
+,status,price,bed,bath,acre_lot,full_address,street,city,state,zip_code,house_size,sold_date
+824856,for_sale,1300000.0,4.0,2.0,,"76-05 266th St, New Hyde Park, NY, 11040",76-05 266th St,New Hyde Park,New York,11040.0,,
+514434,for_sale,2450000.0,4.0,4.0,0.04,"459 Prospect Ave, New York City, NY, 11215",459 Prospect Ave,New York City,New York,11215.0,2376.0,
+531336,for_sale,3300000.0,2.0,2.0,,"925 Park Ave Unit 2A, New York City, NY, 10028",925 Park Ave Unit 2A,New York City,New York,10028.0,,2005-04-05
+563420,for_sale,560000.0,1.0,1.0,,"13 W 13th St Apt 1CS, New York, NY, 10011",13 W 13th St Apt 1CS,New York,New York,10011.0,,2018-05-09
+848876,for_sale,1395000.0,2.0,2.0,,"17 E 89th St Unit 7E, New York, NY, 10128",17 E 89th St Unit 7E,New York,New York,10128.0,,2007-10-25
+916308,for_sale,1895000.0,2.0,3.0,,"600 W 111th St Unit 12E, New York, NY, 10025",600 W 111th St Unit 12E,New York,New York,10025.0,,
+876561,for_sale,650000.0,2.0,2.0,0.34,"35-06 Leavitt St Unit 2E, Flushing, NY, 11354",35-06 Leavitt St Unit 2E,Flushing,New York,11354.0,,2008-03-14
+751167,for_sale,2495000.0,4.0,2.0,,"37 Riverside Dr Unit 1AB, New York, NY, 10023",37 Riverside Dr Unit 1AB,New York,New York,10023.0,,2014-09-04
+499501,for_sale,239000.0,1.0,1.0,0.02,"156 Bard Ave Apt 12A, Staten Island, NY, 10310",156 Bard Ave Apt 12A,Staten Island,New York,10310.0,735.0,
+815210,for_sale,2085000.0,2.0,2.0,,"121 E 23rd St Apt 9A, New York, NY, 10010",121 E 23rd St Apt 9A,New York,New York,10010.0,,2017-06-21
+842519,for_sale,1599000.0,2.0,1.0,,"111 Morton St Apt 3A, New York, NY, 10014",111 Morton St Apt 3A,New York,New York,10014.0,,2018-01-04
+764874,for_sale,489999.0,3.0,3.0,,"1031 E 86th St Apt 3, Brooklyn, NY, 11236",1031 E 86th St Apt 3,Brooklyn,New York,11236.0,1898.0,2004-09-27
+877563,for_sale,1450000.0,5.0,4.0,,"444 Kosciuszko St, New York City, NY, 11221",444 Kosciuszko St,New York City,New York,11221.0,2733.0,
+789838,for_sale,889000.0,3.0,2.0,0.04,"25-77 99th St, East Elmhurst, NY, 11369",25-77 99th St,East Elmhurst,New York,11369.0,,1985-12-12
+905346,for_sale,784000.0,4.0,2.0,0.13,"5 Harrison Dr, Larchmont, NY, 10538",5 Harrison Dr,Larchmont,New York,10538.0,1676.0,1999-02-10
+496075,for_sale,2499000.0,5.0,4.0,0.08,"112 Bay 34th St, Brooklyn, NY, 11214",112 Bay 34th St,Brooklyn,New York,11214.0,3860.0,2001-04-19
+855598,for_sale,1300000.0,7.0,2.0,0.05,"373 Bleecker St, Brooklyn, NY, 11237",373 Bleecker St,Brooklyn,New York,11237.0,1800.0,2007-01-18
+508138,for_sale,2349000.0,5.0,6.0,0.32,"48 Copperflagg Ln, Staten Island, NY, 10304",48 Copperflagg Ln,Staten Island,New York,10304.0,4000.0,1988-03-24
+921240,for_sale,669999.0,4.0,2.0,0.26,"711 Scarsdale Rd, Tuckahoe, NY, 10707",711 Scarsdale Rd,Tuckahoe,New York,10707.0,1196.0,1998-07-24
+736710,for_sale,1498000.0,3.0,3.0,,"23-05 24th Ave Unit 1, Queens, NY, 11105",23-05 24th Ave Unit 1,Queens,New York,11105.0,,
+883786,for_sale,5000000.0,3.0,2.0,,"33 Fifth Ave Unit 15AB, New York, NY, 10003",33 Fifth Ave Unit 15AB,New York,New York,10003.0,1850.0,2008-04-16
+836798,for_sale,3750000.0,,,,"60-01 Metropolitan Ave, Ridgewood, NY, 11385",60-01 Metropolitan Ave,Ridgewood,New York,11385.0,,
+744863,for_sale,2150000.0,1.0,2.0,,"721 Fifth Ave Unit 33C, New York, NY, 10022",721 Fifth Ave Unit 33C,New York,New York,10022.0,1127.0,1997-03-12
+802465,for_sale,1633000.0,11.0,3.0,0.05,"1873 Park Pl, Crown Heights, NY, 11233",1873 Park Pl,Crown Heights,New York,11233.0,3330.0,2007-01-26
+774132,for_sale,869000.0,1.0,1.0,,"150 W 51st St Apt 2019, New York, NY, 10019",150 W 51st St Apt 2019,New York,New York,10019.0,,2017-04-07
+841895,for_sale,6000000.0,3.0,3.0,,"15 Rivington St Unit Ph, New York City, NY, 10002",15 Rivington St Unit Ph,New York City,New York,10002.0,2200.0,
+847793,for_sale,550000.0,4.0,3.0,0.05,"1331 Chisholm St, Bronx, NY, 10459",1331 Chisholm St,Bronx,New York,10459.0,,2007-07-26
+839670,for_sale,2030000.0,2.0,2.0,6.71,"252 South St Unit 9M, New York City, NY, 10002",252 South St Unit 9M,New York City,New York,10002.0,1123.0,
+922549,for_sale,99000.0,,1.0,,"25 Franklin Ave Apt 2G, White Plains, NY, 10601",25 Franklin Ave Apt 2G,White Plains,New York,10601.0,575.0,
+564572,for_sale,1385000.0,4.0,3.0,0.24,"611 Shore Acres Dr, Mamaroneck, NY, 10543",611 Shore Acres Dr,Mamaroneck,New York,10543.0,2051.0,1994-02-01
+739874,for_sale,1300000.0,2.0,2.0,0.06,"96 16th St Unit 3, New York City, NY, 11215",96 16th St Unit 3,New York City,New York,11215.0,1050.0,
+579272,for_sale,589000.0,2.0,2.0,,"11612 Ocean Promenade, New York City, NY, 11694",11612 Ocean Promenade,New York City,New York,11694.0,800.0,
+757702,for_sale,459999.0,3.0,1.0,,"505 W 143rd St Apt 24, New York, NY, 10031",505 W 143rd St Apt 24,New York,New York,10031.0,,
+735486,for_sale,995000.0,2.0,2.0,0.66,"190 E 72nd St Apt 18B, New York City, NY, 10021",190 E 72nd St Apt 18B,New York City,New York,10021.0,,2017-06-02
+913830,for_sale,950000.0,3.0,3.0,0.05,"1216 E 28th St, Brooklyn, NY, 11210",1216 E 28th St,Brooklyn,New York,11210.0,1849.0,1992-11-19
+528553,for_sale,2495000.0,2.0,1.0,0.05,"68 W 11th St Apt 4, New York City, NY, 10011",68 W 11th St Apt 4,New York City,New York,10011.0,,2017-08-04
+762429,for_sale,1095000.0,3.0,2.0,,"150 E 61st St Apt 5H, New York City, NY, 10065",150 E 61st St Apt 5H,New York City,New York,10065.0,,2013-07-26
+503602,for_sale,359000.0,1.0,1.0,,"50-05 43 Ave Unit 3D, Woodside, NY, 11377",50-05 43 Ave Unit 3D,Woodside,New York,11377.0,,2017-04-21
+890670,for_sale,440000.0,2.0,1.0,,"22-25 78th St Unit 3C, East Elmhurst, NY, 11370",22-25 78th St Unit 3C,East Elmhurst,New York,11370.0,,2001-11-08
+798237,for_sale,579000.0,1.0,1.0,,"900 W 190th St Apt 5K, New York, NY, 10040",900 W 190th St Apt 5K,New York,New York,10040.0,700.0,
+739910,for_sale,1579000.0,4.0,2.0,0.21,"150-21 8th Ave, Whitestone, NY, 11357",150-21 8th Ave,Whitestone,New York,11357.0,1950.0,
+486472,for_sale,3350000.0,3.0,2.0,,"166 Bank St Apt 3A, New York, NY, 10014",166 Bank St Apt 3A,New York,New York,10014.0,2200.0,2007-10-05
+746271,for_sale,799000.0,6.0,3.0,0.05,"441 E 144th St, Bronx, NY, 10454",441 E 144th St,Bronx,New York,10454.0,2280.0,2015-04-29
+818051,for_sale,549900.0,2.0,1.0,0.09,"116 Ridgewood Ave, Staten Island, NY, 10312",116 Ridgewood Ave,Staten Island,New York,10312.0,1254.0,2010-07-08
+514058,for_sale,749000.0,,3.0,0.3,"331 Jewett Ave, Staten Island, NY, 10302",331 Jewett Ave,Staten Island,New York,10302.0,,1997-01-30
+879155,for_sale,785000.0,6.0,4.0,0.06,"547 Beach Ave, Bronx, NY, 10473",547 Beach Ave,Bronx,New York,10473.0,,2021-08-30
+507411,for_sale,729000.0,3.0,4.0,0.04,"5194 Hylan Blvd, Staten Island, NY, 10312",5194 Hylan Blvd,Staten Island,New York,10312.0,1764.0,2014-06-17
+759169,for_sale,669000.0,2.0,2.0,,"627 Wilson Ave Apt 5, New York City, NY, 11207",627 Wilson Ave Apt 5,New York City,New York,11207.0,792.0,
+754268,for_sale,900000.0,4.0,3.0,0.05,"127-29 103 Rd, Richmond Hill South, NY, 11419",127-29 103 Rd,Richmond Hill South,New York,11419.0,1280.0,2004-01-14
+470416,for_sale,2195000.0,2.0,2.0,,"102 Gold /R St Unit 6F, Brooklyn, NY, 11201",102 Gold /R St Unit 6F,Brooklyn,New York,11201.0,1433.0,
+794380,for_sale,22500000.0,4.0,4.0,,"100 Eleventh Ave Ph A, New York, NY, 10011",100 Eleventh Ave Ph A,New York,New York,10011.0,4675.0,
+736808,for_sale,159888.0,1.0,1.0,,"153-25 88 St Unit 5N, Howard Beach, NY, 11414",153-25 88 St Unit 5N,Howard Beach,New York,11414.0,,
+824987,for_sale,840000.0,3.0,3.0,0.08,"105-08 Ditmars Blvd, East Elmhurst, NY, 11369",105-08 Ditmars Blvd,East Elmhurst,New York,11369.0,1140.0,
+527547,for_sale,159000.0,1.0,1.0,,"495 Odell Ave Apt 7K, Yonkers, NY, 10703",495 Odell Ave Apt 7K,Yonkers,New York,10703.0,750.0,
+527607,for_sale,849000.0,1.0,1.0,,"130 E 18th St Apt 7P, New York, NY, 10003",130 E 18th St Apt 7P,New York,New York,10003.0,,2013-08-08
+476965,for_sale,485000.0,3.0,1.0,,"99 1st St, New York City, NY, 11414",99 1st St,New York City,New York,11414.0,,
+901654,for_sale,999000.0,1.0,1.0,,"15 William St Apt 9B, New York City, NY, 10005",15 William St Apt 9B,New York City,New York,10005.0,791.0,2010-12-16
+555147,for_sale,930000.0,3.0,2.0,0.05,"53-35 Junction Blvd, Elmhurst, NY, 11373",53-35 Junction Blvd,Elmhurst,New York,11373.0,,2007-04-10
+838094,for_sale,149000.0,,1.0,,"84-01 Main St Unit 108, Briarwood, NY, 11435",84-01 Main St Unit 108,Briarwood,New York,11435.0,420.0,
+784339,for_sale,330000.0,,1.0,,"70-20 108th St Unit 15J, Forest Hills, NY, 11375",70-20 108th St Unit 15J,Forest Hills,New York,11375.0,,2017-02-08
+859226,for_sale,659000.0,3.0,2.0,,"75-34 Bell Blvd Unit 1E, Bayside, NY, 11364",75-34 Bell Blvd Unit 1E,Bayside,New York,11364.0,1450.0,2013-01-25
+496139,for_sale,1549000.0,6.0,4.0,0.09,"64 Bay 23rd St, Brooklyn, NY, 11214",64 Bay 23rd St,Brooklyn,New York,11214.0,2208.0,1984-01-01
+907398,for_sale,1800000.0,4.0,5.0,2.27,"83 Harriman Rd, Irvington, NY, 10533",83 Harriman Rd,Irvington,New York,10533.0,4018.0,2006-01-23
+557748,for_sale,895000.0,3.0,2.0,2.1,"41-25 Kissena Blvd Unit 3M, Flushing, NY, 11355",41-25 Kissena Blvd Unit 3M,Flushing,New York,11355.0,1191.0,1995-07-26
+882942,for_sale,279000.0,,1.0,,"415 E 82nd St Apt 3B, New York, NY, 10028",415 E 82nd St Apt 3B,New York,New York,10028.0,,2004-08-11
+506192,for_sale,749000.0,2.0,1.0,,"577 Grand St Apt F805, New York City, NY, 10002",577 Grand St Apt F805,New York City,New York,10002.0,1000.0,
+807356,for_sale,1149000.0,1.0,1.0,,"635 W 42nd St Apt 10F, New York City, NY, 10036",635 W 42nd St Apt 10F,New York City,New York,10036.0,758.0,2007-08-30
+717098,for_sale,760000.0,1.0,1.0,,"77 Fulton St Apt 16B, New York City, NY, 10038",77 Fulton St Apt 16B,New York City,New York,10038.0,,
+894717,for_sale,569000.0,3.0,2.0,100.0,"111-93 180th St Unit 103040080, Addisleigh Park, NY, 11433",111-93 180th St Unit 103040080,Addisleigh Park,New York,11433.0,1550.0,
+839020,for_sale,599000.0,1.0,1.0,,"137 E 36th St Unit 15H, New York City, NY, 10016",137 E 36th St Unit 15H,New York City,New York,10016.0,,2015-12-30
+850719,for_sale,1250000.0,2.0,2.0,,"122 West St Apt 1F, New York, NY, 11222",122 West St Apt 1F,New York,New York,11222.0,966.0,2011-10-25
+515653,for_sale,639000.0,1.0,1.0,,"1238 63rd St Unit D403, Brooklyn, NY, 11219",1238 63rd St Unit D403,Brooklyn,New York,11219.0,630.0,
+913563,for_sale,415000.0,3.0,1.0,0.02,"4161 Laconia Ave, Bronx, NY, 10466",4161 Laconia Ave,Bronx,New York,10466.0,,1998-12-01
+817025,for_sale,2795000.0,3.0,2.0,,"285 W 110th St Apt 7D, New York, NY, 10026",285 W 110th St Apt 7D,New York,New York,10026.0,1614.0,
+775593,for_sale,1999999.0,6.0,4.0,0.04,"388 Monroe St, Bed Stuy, NY, 11221",388 Monroe St,Bed Stuy,New York,11221.0,3225.0,
+843868,for_sale,545000.0,4.0,3.0,0.07,"63 Elissa Ln, Yonkers, NY, 10710",63 Elissa Ln,Yonkers,New York,10710.0,1620.0,
+855754,for_sale,1950000.0,2.0,2.0,,"201 E 80th St Apt 11E, New York, NY, 10075",201 E 80th St Apt 11E,New York,New York,10075.0,1234.0,2013-07-24
+574430,for_sale,310000.0,1.0,1.0,,"4465 Douglas Ave Unit 8M, Bronx, NY, 10463",4465 Douglas Ave Unit 8M,Bronx,New York,10463.0,750.0,2017-10-10
+837126,for_sale,1595000.0,2.0,2.0,,"256 N 9th St Unit 2A, Brooklyn, NY, 11211",256 N 9th St Unit 2A,Brooklyn,New York,11211.0,1016.0,
+722037,for_sale,439000.0,3.0,2.0,0.07,"250 Gordon St, Staten Island, NY, 10304",250 Gordon St,Staten Island,New York,10304.0,1164.0,2007-06-20
+791380,for_sale,2300000.0,3.0,4.0,0.03,"291 22nd St, New York City, NY, 11215",291 22nd St,New York City,New York,11215.0,1964.0,2019-04-10
+815303,for_sale,749900.0,3.0,3.0,0.06,"46 Garden St, Staten Island, NY, 10314",46 Garden St,Staten Island,New York,10314.0,1350.0,2000-06-28
+738983,for_sale,695000.0,1.0,1.0,,"403 E 62nd St Apt 5A, New York, NY, 10065",403 E 62nd St Apt 5A,New York,New York,10065.0,500.0,2011-02-10
+872706,for_sale,4500000.0,1.0,,,"129 Russell St Unit Commercial, Brooklyn, NY, 11222",129 Russell St Unit Commercial,Brooklyn,New York,11222.0,5400.0,
+814814,for_sale,749000.0,2.0,1.0,,"440 E 56th St Unit 7B, New York, NY, 10022",440 E 56th St Unit 7B,New York,New York,10022.0,,2019-12-11
+768787,for_sale,525000.0,,1.0,,"140 E 28th St Apt 1J, New York, NY, 10016",140 E 28th St Apt 1J,New York,New York,10016.0,590.0,2016-03-08
+900271,for_sale,420000.0,2.0,1.0,,"1405 Prospect Pl Apt B1, New York City, NY, 11213",1405 Prospect Pl Apt B1,New York City,New York,11213.0,,
+802494,for_sale,874000.0,1.0,1.0,,"196 E 75th St Unit 19BB, Manhattan, NY, 10021",196 E 75th St Unit 19BB,Manhattan,New York,10021.0,,
+495578,for_sale,515000.0,3.0,2.0,0.05,"40 Neutral Ave, Staten Island, NY, 10306",40 Neutral Ave,Staten Island,New York,10306.0,1148.0,2003-10-29
+833224,for_sale,1450000.0,2.0,2.0,,"80 John St Apt 16A, New York City, NY, 10038",80 John St Apt 16A,New York City,New York,10038.0,1179.0,2008-05-30
+498397,for_sale,1995000.0,2.0,2.0,,"15 William St Apt 30A, New York City, NY, 10005",15 William St Apt 30A,New York City,New York,10005.0,1325.0,2009-10-22
+753066,for_sale,1630000.0,1.0,1.0,,"252 South St Unit 60L, New York, NY, 10002",252 South St Unit 60L,New York,New York,10002.0,709.0,
+875855,for_sale,1750000.0,2.0,2.0,,"580 Carroll St Apt 3C, Brooklyn, NY, 11215",580 Carroll St Apt 3C,Brooklyn,New York,11215.0,1270.0,2013-01-10
+819666,for_sale,1168000.0,4.0,3.0,0.04,"1653 Bay Ridge Pkwy, Brooklyn, NY, 11204",1653 Bay Ridge Pkwy,Brooklyn,New York,11204.0,1584.0,2004-07-07
+868400,for_sale,299888.0,,1.0,,"20 Continental Ave Apt 3D, Forest Hills, NY, 11375",20 Continental Ave Apt 3D,Forest Hills,New York,11375.0,,2019-01-28
+781913,for_sale,1250000.0,3.0,3.0,0.05,"50-47 46th St, Woodside, NY, 11377",50-47 46th St,Woodside,New York,11377.0,2000.0,2020-02-25
+785288,for_sale,640000.0,,1.0,,"210 E 15th St Apt 4K, New York City, NY, 10003",210 E 15th St Apt 4K,New York City,New York,10003.0,600.0,2016-08-16
+504169,for_sale,479999.0,3.0,2.0,0.03,"192 Maple Pkwy, Staten Island, NY, 10303",192 Maple Pkwy,Staten Island,New York,10303.0,1210.0,2004-07-01
+887742,for_sale,885000.0,,,0.06,"59-10 48th Ave, New York City, NY, 11377",59-10 48th Ave,New York City,New York,11377.0,1420.0,2006-06-19
+476877,for_sale,315000.0,2.0,2.0,,"36 Hamilton Ave Apt 6D, Staten Island, NY, 10301",36 Hamilton Ave Apt 6D,Staten Island,New York,10301.0,1100.0,
+768673,for_sale,1655555.0,15.0,9.0,0.2,"677 Grandview Ave, Ridgewood, NY, 11385",677 Grandview Ave,Ridgewood,New York,11385.0,,
+814216,for_sale,849000.0,2.0,1.0,,"88 Canal St Unit 7C, Manhattan, NY, 10002",88 Canal St Unit 7C,Manhattan,New York,10002.0,700.0,
+505660,for_sale,1080000.0,1.0,1.0,,"20 Pine St Apt 2414, New York City, NY, 10005",20 Pine St Apt 2414,New York City,New York,10005.0,991.0,
+735367,for_sale,495000.0,,1.0,,"26 E 38th St Apt 1F, New York, NY, 10016",26 E 38th St Apt 1F,New York,New York,10016.0,,
+887955,for_sale,2910000.0,2.0,3.0,,"101 Warren St Apt 1180, New York, NY, 10007",101 Warren St Apt 1180,New York,New York,10007.0,1473.0,2011-12-14
+867422,for_sale,2650000.0,2.0,3.0,,"211 Madison Ave Unit 16B, New York, NY, 10016",211 Madison Ave Unit 16B,New York,New York,10016.0,2010.0,2016-08-02
+843124,for_sale,675000.0,1.0,1.0,,"200 Pinehurst Ave Apt 5F, New York City, NY, 10033",200 Pinehurst Ave Apt 5F,New York City,New York,10033.0,850.0,2017-01-04
+782918,for_sale,4190000.0,2.0,3.0,,"1295 Madison Ave Unit 3B, New York, NY, 10128",1295 Madison Ave Unit 3B,New York,New York,10128.0,1772.0,
+838645,for_sale,5250000.0,4.0,4.0,,"1280 5th Ave Unit 8BC, New York City, NY, 10029",1280 5th Ave Unit 8BC,New York City,New York,10029.0,3100.0,
+786778,for_sale,565000.0,1.0,1.0,,"345 Clinton Ave Apt 3A, Brooklyn, NY, 11238",345 Clinton Ave Apt 3A,Brooklyn,New York,11238.0,,2016-03-02
+453313,for_sale,669990.0,5.0,4.0,0.74,"136 Rustic Rd, Centereach, NY, 11720",136 Rustic Rd,Centereach,New York,11720.0,2900.0,2005-04-05
+860503,for_sale,695000.0,1.0,1.0,,"245 E 24th St Ph D, New York City, NY, 10010",245 E 24th St Ph D,New York City,New York,10010.0,,
+902167,for_sale,375000.0,1.0,1.0,,"521 41st St Unit A6, New York, NY, 11232",521 41st St Unit A6,New York,New York,11232.0,500.0,2005-12-14
+904440,for_sale,599000.0,3.0,3.0,0.04,"74 Redwood Loop, Staten Island, NY, 10309",74 Redwood Loop,Staten Island,New York,10309.0,1740.0,2013-03-19
+769762,for_sale,999000.0,1.0,2.0,,"40 Broad St Apt 14D, New York City, NY, 10004",40 Broad St Apt 14D,New York City,New York,10004.0,831.0,2011-10-18
+774013,for_sale,799000.0,1.0,2.0,,"New York City, NY, 10001",,New York City,New York,10001.0,,2016-11-30
+497363,for_sale,225000.0,,1.0,0.34,"7101 Shore Rd Apt 1A, Brooklyn, NY, 11209",7101 Shore Rd Apt 1A,Brooklyn,New York,11209.0,400.0,
+742045,for_sale,1650000.0,1.0,1.0,,"164 Bank St Apt 7B, Manhattan, NY, 10014",164 Bank St Apt 7B,Manhattan,New York,10014.0,,2014-07-14
+867770,for_sale,2225000.0,2.0,2.0,,"250 E 21st St Unit 3B, New York, NY, 10010",250 E 21st St Unit 3B,New York,New York,10010.0,1043.0,
+901312,for_sale,1325000.0,2.0,2.0,,"357 W 29th St Apt 1A, New York, NY, 10001",357 W 29th St Apt 1A,New York,New York,10001.0,,2011-02-24
+741401,for_sale,5800000.0,4.0,4.0,,"196 E 75th St Unit 8EFGH, New York, NY, 10021",196 E 75th St Unit 8EFGH,New York,New York,10021.0,,2017-05-24
+865749,for_sale,1995000.0,2.0,1.0,0.22,"70 Remsen St Apt 11B, New York City, NY, 11201",70 Remsen St Apt 11B,New York City,New York,11201.0,,2015-08-18
+922113,for_sale,149999.0,,,,"120 Dehaven Dr Apt 430, Yonkers, NY, 10703",120 Dehaven Dr Apt 430,Yonkers,New York,10703.0,,
+767591,for_sale,1100000.0,6.0,5.0,0.07,"43-62 157th St, Flushing, NY, 11355",43-62 157th St,Flushing,New York,11355.0,,2005-01-05
+530234,for_sale,1250000.0,1.0,1.0,0.03,"18R Spring St Unit 3R, New York City, NY, 10012",18R Spring St Unit 3R,New York City,New York,10012.0,,
+499451,for_sale,799999.0,3.0,2.0,0.06,"329 Sheldon Ave, Staten Island, NY, 10312",329 Sheldon Ave,Staten Island,New York,10312.0,1390.0,2004-06-18
+735310,for_sale,1250000.0,,1.0,,"67 Park Ave Unit 1A, New York City, NY, 10016",67 Park Ave Unit 1A,New York City,New York,10016.0,,2017-04-18
+845013,for_sale,389000.0,1.0,1.0,,"7179 Peri Ln Unit 27S, Brooklyn, NY, 11234",7179 Peri Ln Unit 27S,Brooklyn,New York,11234.0,600.0,2018-06-22
+865411,for_sale,2210000.0,2.0,2.0,,"20 River Ter Apt 9L, New York City, NY, 10282",20 River Ter Apt 9L,New York City,New York,10282.0,1177.0,
+834938,for_sale,330000.0,2.0,1.0,,"138-10 77 Ave Unit 2FL, Kew Garden Hills, NY, 11367",138-10 77 Ave Unit 2FL,Kew Garden Hills,New York,11367.0,,
+783548,for_sale,1599000.0,12.0,6.0,0.06,"119 Freeman St, Brooklyn, NY, 11222",119 Freeman St,Brooklyn,New York,11222.0,4860.0,2010-02-26
+847707,for_sale,849000.0,6.0,3.0,0.12,"709 Hall St, Mamaroneck, NY, 10543",709 Hall St,Mamaroneck,New York,10543.0,2508.0,2018-09-04
+820806,for_sale,799000.0,1.0,1.0,0.3,"200 E 89th St Apt 12E, New York City, NY, 10128",200 E 89th St Apt 12E,New York City,New York,10128.0,562.0,2010-02-12
+812496,for_sale,55000000.0,6.0,8.0,,"2 E 67th St Unit 5FULLFLOOR, New York, NY, 10065",2 E 67th St Unit 5FULLFLOOR,New York,New York,10065.0,,
+763096,for_sale,595000.0,1.0,1.0,,"582 Marcy Ave Unit 3B, New York City, NY, 11211",582 Marcy Ave Unit 3B,New York City,New York,11211.0,709.0,
+809317,for_sale,799999.0,5.0,3.0,0.05,"132-06 101st St, Ozone Park, NY, 11417",132-06 101st St,Ozone Park,New York,11417.0,2000.0,2008-05-08
+844094,for_sale,139900.0,1.0,1.0,,"500 Tuckahoe Rd Apt 7B, Yonkers, NY, 10710",500 Tuckahoe Rd Apt 7B,Yonkers,New York,10710.0,750.0,
+898717,for_sale,5300000.0,3.0,3.0,,"166 Duane St Apt 9B, New York, NY, 10013",166 Duane St Apt 9B,New York,New York,10013.0,2670.0,1998-08-14
+802268,for_sale,299000.0,1.0,1.0,,"12399 Flatlands Ave Apt 2A, Brooklyn, NY, 11207",12399 Flatlands Ave Apt 2A,Brooklyn,New York,11207.0,643.0,
+519132,for_sale,1450000.0,5.0,4.0,2.9,"21 W Clarkstown Rd, New City, NY, 10956",21 W Clarkstown Rd,New City,New York,10956.0,4346.0,1995-01-11
+908512,for_sale,3800000.0,6.0,7.0,3.14,"28 Muchmore Rd, Harrison, NY, 10528",28 Muchmore Rd,Harrison,New York,10528.0,7141.0,1993-11-22
+912004,for_sale,2500000.0,3.0,3.0,,"300 Riverside Dr Apt 14A, New York, NY, 10025",300 Riverside Dr Apt 14A,New York,New York,10025.0,,
+825462,for_sale,485000.0,1.0,1.0,,"166 E 92nd St Apt 1B, New York, NY, 10128",166 E 92nd St Apt 1B,New York,New York,10128.0,,
+507297,for_sale,525000.0,,1.0,,"305 E 24th St Apt 9K, New York, NY, 10010",305 E 24th St Apt 9K,New York,New York,10010.0,,2012-08-13
+521525,for_sale,580000.0,2.0,2.0,,"102 Bradhurst Ave Apt 610, New York, NY, 10039",102 Bradhurst Ave Apt 610,New York,New York,10039.0,,2007-10-01
+873328,for_sale,1100000.0,6.0,2.0,0.06,"31-17 105 St, East Elmhurst, NY, 11369",31-17 105 St,East Elmhurst,New York,11369.0,,
+507333,for_sale,699000.0,3.0,2.0,0.06,"64 Victoria Rd, Staten Island, NY, 10312",64 Victoria Rd,Staten Island,New York,10312.0,1100.0,
+448830,for_sale,499900.0,3.0,3.0,5.54,"40 Cedar Ln, Pawling, NY, 12564",40 Cedar Ln,Pawling,New York,12564.0,1700.0,
+756227,for_sale,1295000.0,2.0,1.0,,"444 17th St Apt 3B, Brooklyn, NY, 11215",444 17th St Apt 3B,Brooklyn,New York,11215.0,,2017-03-13
+538009,for_sale,110000.0,2.0,1.0,,"30 S Cole Ave Apt 3C, Spring Valley, NY, 10977",30 S Cole Ave Apt 3C,Spring Valley,New York,10977.0,800.0,
+825769,for_sale,338888.0,2.0,1.0,,"140-33 34th Ave Unit 6F, Flushing, NY, 11354",140-33 34th Ave Unit 6F,Flushing,New York,11354.0,921.0,
+537678,for_sale,425000.0,2.0,2.0,0.2,"16 Schreiber Ln, Tappan, NY, 10983",16 Schreiber Ln,Tappan,New York,10983.0,1200.0,2000-01-13
+887813,for_sale,698000.0,1.0,1.0,,"2231 Adam Clayton Powell Jr Blvd Unit 620, New York City, NY, 10027",2231 Adam Clayton Powell Jr Blvd Unit 620,New York City,New York,10027.0,,
+894260,for_sale,269000.0,1.0,1.0,,"32-45 90th St Unit 107, East Elmhurst, NY, 11369",32-45 90th St Unit 107,East Elmhurst,New York,11369.0,,2017-05-01
+538013,for_sale,219000.0,1.0,1.0,,"101 Old Mamaroneck Rd Apt 1A2, White Plains, NY, 10605",101 Old Mamaroneck Rd Apt 1A2,White Plains,New York,10605.0,800.0,
+834437,for_sale,789000.0,3.0,2.0,0.09,"108 N 2nd St, New Hyde Park, NY, 11040",108 N 2nd St,New Hyde Park,New York,11040.0,1360.0,2012-07-31
+747388,for_sale,665000.0,2.0,2.0,,"627 Wilson Ave Apt 3, New York City, NY, 11207",627 Wilson Ave Apt 3,New York City,New York,11207.0,792.0,
+792698,for_sale,1150000.0,1.0,1.0,0.12,"14 W 14th St Apt 3D, New York City, NY, 10011",14 W 14th St Apt 3D,New York City,New York,10011.0,700.0,2010-10-27
+519474,for_sale,3975000.0,2.0,2.0,,"300 Central Park W Apt 12G2, New York, NY, 10024",300 Central Park W Apt 12G2,New York,New York,10024.0,,
+513321,for_sale,1699000.0,2.0,2.0,,"16 W 16th St Apt 10NS, New York City, NY, 10011",16 W 16th St Apt 10NS,New York City,New York,10011.0,,2015-06-22
+889742,for_sale,138000.0,1.0,1.0,,"2925 Matthews Ave Apt 6H, Bronx, NY, 10467",2925 Matthews Ave Apt 6H,Bronx,New York,10467.0,700.0,2011-09-02
+751743,for_sale,740000.0,1.0,2.0,,"50 Sutton Pl S Apt 9K, New York, NY, 10022",50 Sutton Pl S Apt 9K,New York,New York,10022.0,,
+820599,for_sale,2390000.0,4.0,3.0,0.09,"284 Bay 10th St, Brooklyn, NY, 11228",284 Bay 10th St,Brooklyn,New York,11228.0,2007.0,2018-12-07
+499310,for_sale,1625000.0,,5.0,0.05,"339 76th St, Brooklyn, NY, 11209",339 76th St,Brooklyn,New York,11209.0,,2015-11-10
+543356,for_sale,699000.0,,1.0,,"305 W 16th St Apt 5B, New York City, NY, 10011",305 W 16th St Apt 5B,New York City,New York,10011.0,438.0,2011-12-22
+768263,for_sale,769000.0,1.0,1.0,,"61 W 62nd St Apt 11H, New York, NY, 10023",61 W 62nd St Apt 11H,New York,New York,10023.0,750.0,2021-07-14
+346345,for_sale,319000.0,3.0,2.0,0.74,"79 Spring St, Cambridge, NY, 12816",79 Spring St,Cambridge,New York,12816.0,1582.0,
+567886,for_sale,160000.0,2.0,1.0,,"642 Locust St Apt 2C, Mount Vernon, NY, 10552",642 Locust St Apt 2C,Mount Vernon,New York,10552.0,1050.0,
+752760,for_sale,330000.0,1.0,1.0,,"244 E 90th St Apt 4B, New York City, NY, 10128",244 E 90th St Apt 4B,New York City,New York,10128.0,,2014-10-18
+506560,for_sale,780000.0,3.0,2.0,,"1369 Bay Ridge Ave Apt 2B, Brooklyn, NY, 11219",1369 Bay Ridge Ave Apt 2B,Brooklyn,New York,11219.0,1070.0,2015-05-21
+791842,for_sale,1400000.0,2.0,1.0,,"205 Third Ave Unit 12S, New York, NY, 10003",205 Third Ave Unit 12S,New York,New York,10003.0,,2016-11-14
+806458,for_sale,990000.0,2.0,1.0,,"407 Central Park W Apt 4C, New York City, NY, 10025",407 Central Park W Apt 4C,New York City,New York,10025.0,,2016-12-28
+568847,for_sale,23900000.0,24.0,19.0,,"27-29 W 69th St, New York, NY, 10023",27-29 W 69th St,New York,New York,10023.0,,
+840192,for_sale,595000.0,,1.0,,"55 Wall St Apt 708, New York, NY, 10005",55 Wall St Apt 708,New York,New York,10005.0,659.0,2008-01-17
+760132,for_sale,650000.0,2.0,1.0,1.85,"4-74 48th Ave Ph 2C, New York City, NY, 11109",4-74 48th Ave Ph 2C,New York City,New York,11109.0,952.0,
+790629,for_sale,175000.0,,1.0,,"2440 Amsterdam Ave Apt 1H, New York, NY, 10033",2440 Amsterdam Ave Apt 1H,New York,New York,10033.0,,
+911082,for_sale,825000.0,5.0,2.0,0.09,"123-11 Nellis St, Springfield Gardens, NY, 11413",123-11 Nellis St,Springfield Gardens,New York,11413.0,,2009-01-14
+755525,for_sale,1199000.0,2.0,2.0,,"233 E 69th St Apt 6D, New York, NY, 10021",233 E 69th St Apt 6D,New York,New York,10021.0,1200.0,2011-09-02
+486619,for_sale,699999.0,3.0,2.0,0.05,"3140 Arnow Pl, Bronx, NY, 10461",3140 Arnow Pl,Bronx,New York,10461.0,1906.0,1986-08-04
+556874,for_sale,1545000.0,1.0,1.0,,"421 Hudson St Apt 315, New York, NY, 10014",421 Hudson St Apt 315,New York,New York,10014.0,803.0,2018-06-18
+355761,for_sale,37500.0,,,0.51,"Seneca Dr, Plattsburgh, NY, 12901",Seneca Dr,Plattsburgh,New York,12901.0,,
+513429,for_sale,2480000.0,1.0,2.0,,"900 Park Ave Apt 14C, New York, NY, 10075",900 Park Ave Apt 14C,New York,New York,10075.0,1110.0,2018-09-12
+835426,for_sale,599000.0,4.0,3.0,0.05,"92-23 107th St, Richmond Hill, NY, 11418",92-23 107th St,Richmond Hill,New York,11418.0,,2004-10-13
+880338,for_sale,257500.0,1.0,1.0,,"226-48 Kingsbury Ave Unit Upper, Bayside, NY, 11364",226-48 Kingsbury Ave Unit Upper,Bayside,New York,11364.0,,
+749504,for_sale,1100000.0,1.0,1.0,,"2109 Broadway Apt 792, New York, NY, 10023",2109 Broadway Apt 792,New York,New York,10023.0,713.0,2007-03-09
+468156,for_sale,327000.0,2.0,2.0,1.06,"901A Elder Ave Unit 901A, Bronx, NY, 10473",901A Elder Ave Unit 901A,Bronx,New York,10473.0,848.0,
+565105,for_sale,995000.0,,1.0,,"2 W 67th St Unit 15G, New York, NY, 10023",2 W 67th St Unit 15G,New York,New York,10023.0,,2007-01-30
+913466,for_sale,1350000.0,,,0.05,"404 Hawthorne St, New York City, NY, 11203",404 Hawthorne St,New York City,New York,11203.0,3460.0,
+886400,for_sale,365000.0,1.0,1.0,,"100 Overlook Ter Apt 715, New York, NY, 10040",100 Overlook Ter Apt 715,New York,New York,10040.0,,2015-09-18
+889717,for_sale,745000.0,1.0,1.0,,"77 Seventh Ave Unit 6C, New York, NY, 10011",77 Seventh Ave Unit 6C,New York,New York,10011.0,625.0,2010-01-15
+759972,for_sale,219000.0,1.0,1.0,,"108-50 62 Dr Unit 5K, Forest Hills, NY, 11375",108-50 62 Dr Unit 5K,Forest Hills,New York,11375.0,500.0,
+55823,for_sale,279000.0,6.0,4.0,0.77,"261 Flints Crossing Rd, Canaan, NY, 12029",261 Flints Crossing Rd,Canaan,New York,12029.0,5082.0,
+749085,for_sale,849000.0,4.0,3.0,,"2011 E 33rd St Unit 2, Brooklyn, NY, 11234",2011 E 33rd St Unit 2,Brooklyn,New York,11234.0,,
+742701,for_sale,690000.0,,1.0,,"201 E 21st St Apt 8H, New York City, NY, 10010",201 E 21st St Apt 8H,New York City,New York,10010.0,,2012-01-17
+801260,for_sale,1400000.0,2.0,2.0,,"302 W 86th St Apt 12C, New York, NY, 10024",302 W 86th St Apt 12C,New York,New York,10024.0,,
+887430,for_sale,605000.0,2.0,2.0,0.06,"232 Hylan Blvd, Staten Island, NY, 10305",232 Hylan Blvd,Staten Island,New York,10305.0,1460.0,1993-04-29
+763716,for_sale,3650000.0,4.0,3.0,0.06,"359 Metropolitan Ave, Brooklyn, NY, 11211",359 Metropolitan Ave,Brooklyn,New York,11211.0,3188.0,
+905069,for_sale,895000.0,4.0,4.0,0.05,"6134 Delafield Ave, New York City, NY, 10471",6134 Delafield Ave,New York City,New York,10471.0,2550.0,1989-01-11
+855968,for_sale,5000000.0,3.0,3.0,,"870 5th Ave Apt 16E, Manhattan, NY, 10065",870 5th Ave Apt 16E,Manhattan,New York,10065.0,,
+750378,for_sale,1295000.0,2.0,2.0,,"305 E 72nd St Apt 2GN, New York, NY, 10021",305 E 72nd St Apt 2GN,New York,New York,10021.0,1200.0,2021-03-24
+747533,for_sale,3000000.0,,1.0,,"2116 3rd Ave, Manhattan, NY, 10029",2116 3rd Ave,Manhattan,New York,10029.0,1400.0,1981-08-21
+487627,for_sale,4455000.0,3.0,4.0,,"25 Park Row Apt 16C, New York, NY, 10038",25 Park Row Apt 16C,New York,New York,10038.0,2075.0,
+511635,for_sale,2590000.0,18.0,6.0,0.07,"468 Ralph Ave, Crown Heights, NY, 11233",468 Ralph Ave,Crown Heights,New York,11233.0,5627.0,
+837357,for_sale,349000.0,1.0,1.0,,"31-14 Crescent St Unit 5D, Astoria, NY, 11106",31-14 Crescent St Unit 5D,Astoria,New York,11106.0,,2016-07-25
+757340,for_sale,3395000.0,2.0,1.0,,"48 Great Jones St Unit 5R, New York, NY, 10012",48 Great Jones St Unit 5R,New York,New York,10012.0,2508.0,
+909843,for_sale,599900.0,4.0,2.0,0.23,"14 Buenta Way, Purdys, NY, 10578",14 Buenta Way,Purdys,New York,10578.0,1700.0,2005-04-11
+826936,for_sale,388000.0,2.0,1.0,,"43-34 Union St Unit 3F, Flushing, NY, 11355",43-34 Union St Unit 3F,Flushing,New York,11355.0,900.0,2007-03-01
+570382,for_sale,535000.0,1.0,1.0,,"170 E 94th St Apt 5E, New York, NY, 10128",170 E 94th St Apt 5E,New York,New York,10128.0,,2017-09-22
+876335,for_sale,1499000.0,5.0,6.0,0.09,"17 Firwood Rd, Port Washington, NY, 11050",17 Firwood Rd,Port Washington,New York,11050.0,,
+512272,for_sale,2098000.0,8.0,5.0,0.06,"83-55 116th St, Kew Gardens, NY, 11418",83-55 116th St,Kew Gardens,New York,11418.0,4200.0,2006-03-16
+863976,for_sale,550000.0,2.0,2.0,0.04,"10 Bay Street Lndg Apt 8I, Staten Island, NY, 10301",10 Bay Street Lndg Apt 8I,Staten Island,New York,10301.0,1590.0,
+785261,for_sale,420000.0,2.0,2.0,,"8703 Bedell Ln Unit 603, Brooklyn, NY, 11236",8703 Bedell Ln Unit 603,Brooklyn,New York,11236.0,1040.0,2005-08-05
+466600,for_sale,825000.0,1.0,1.0,,"21 S Portland Ave Apt 4R, New York, NY, 11217",21 S Portland Ave Apt 4R,New York,New York,11217.0,,2011-09-19
+795244,for_sale,2600000.0,3.0,3.0,,"250 E 87th St Apt 17B, New York City, NY, 10128",250 E 87th St Apt 17B,New York City,New York,10128.0,,2007-10-23
+890948,for_sale,842000.0,2.0,2.0,,"1238 63rd St Unit D443, Brooklyn, NY, 11219",1238 63rd St Unit D443,Brooklyn,New York,11219.0,890.0,
+793804,for_sale,689999.0,3.0,2.0,0.05,"202-19 109th Ave, Jamaica, NY, 11412",202-19 109th Ave,Jamaica,New York,11412.0,1496.0,
+871567,for_sale,300000.0,2.0,1.0,,"83-30 98th St Unit 2A, Woodhaven, NY, 11421",83-30 98th St Unit 2A,Woodhaven,New York,11421.0,,
+853447,for_sale,635000.0,1.0,1.0,0.2,"1326 Madison Ave Apt 3, New York City, NY, 10128",1326 Madison Ave Apt 3,New York City,New York,10128.0,750.0,2019-03-25
+860275,for_sale,1250000.0,1.0,1.0,0.03,"18R Spring St Unit 3R, New York City, NY, 10012",18R Spring St Unit 3R,New York City,New York,10012.0,,
+912642,for_sale,970000.0,2.0,3.0,,"171 Great Neck Rd Apt 4E, Great Neck, NY, 11021",171 Great Neck Rd Apt 4E,Great Neck,New York,11021.0,1087.0,
+537636,for_sale,119000.0,1.0,1.0,,"11 Balint Dr Apt 244, Yonkers, NY, 10710",11 Balint Dr Apt 244,Yonkers,New York,10710.0,800.0,
+832202,for_sale,625000.0,1.0,1.0,,"25-40 Shore Blvd Unit 2B, Astoria, NY, 11102",25-40 Shore Blvd Unit 2B,Astoria,New York,11102.0,,2015-12-07
+844882,for_sale,1295000.0,1.0,1.0,,"429 Kent Ave Unit 832, New York City, NY, 11249",429 Kent Ave Unit 832,New York City,New York,11249.0,835.0,
+467022,for_sale,4495000.0,3.0,4.0,,"1212 Fifth Ave Unit 2A, New York, NY, 10029",1212 Fifth Ave Unit 2A,New York,New York,10029.0,,2013-10-16
+504954,for_sale,1699000.0,1.0,2.0,,"1 Main St Apt 4F, Brooklyn, NY, 11201",1 Main St Apt 4F,Brooklyn,New York,11201.0,1293.0,2013-12-13
+856103,for_sale,850000.0,1.0,1.0,,"165 E 72nd St Apt 6G, New York City, NY, 10021",165 E 72nd St Apt 6G,New York City,New York,10021.0,900.0,
+865025,for_sale,2725000.0,1.0,2.0,,"500 W 22nd St Unit 5A, New York City, NY, 10011",500 W 22nd St Unit 5A,New York City,New York,10011.0,1153.0,
+484396,for_sale,749000.0,5.0,3.0,0.06,"62 Buchanan Pl, Bronx, NY, 10453",62 Buchanan Pl,Bronx,New York,10453.0,,
+825032,for_sale,328000.0,3.0,1.0,,"56-21 Douglaston Pkwy Unit Upper, Douglaston, NY, 11362",56-21 Douglaston Pkwy Unit Upper,Douglaston,New York,11362.0,,
+864673,for_sale,679000.0,,1.0,,"500 W 43rd St Apt 21G, New York City, NY, 10036",500 W 43rd St Apt 21G,New York City,New York,10036.0,415.0,2018-03-30
+570395,for_sale,2425000.0,2.0,2.0,,"1 W End Ave Apt 18G, New York, NY, 10023",1 W End Ave Apt 18G,New York,New York,10023.0,1194.0,2017-10-05
+744210,for_sale,470000.0,,1.0,,"170 W 74th St Apt 908, New York City, NY, 10023",170 W 74th St Apt 908,New York City,New York,10023.0,,2015-05-20
+786941,for_sale,302000.0,2.0,1.0,,"12421 Flatlands Ave Apt 4L, Brooklyn, NY, 11208",12421 Flatlands Ave Apt 4L,Brooklyn,New York,11208.0,808.0,
+889732,for_sale,6900000.0,2.0,3.0,,"25 W 28th St Ph 41D, New York, NY, 10001",25 W 28th St Ph 41D,New York,New York,10001.0,1848.0,
+859794,for_sale,2995000.0,5.0,4.0,0.09,"643 17th St, New York City, NY, 11218",643 17th St,New York City,New York,11218.0,3168.0,2015-05-21
+792609,for_sale,449000.0,2.0,1.0,,"51-40 30 Ave Unit 2C, Woodside, NY, 11377",51-40 30 Ave Unit 2C,Woodside,New York,11377.0,,2004-12-30
+749583,for_sale,700000.0,2.0,2.0,,"26 E 19th St Apt 4B, Brooklyn, NY, 11226",26 E 19th St Apt 4B,Brooklyn,New York,11226.0,658.0,2018-09-26
+817168,for_sale,1150000.0,2.0,1.0,,"315 E 88th St Apt 5G, New York City, NY, 10128",315 E 88th St Apt 5G,New York City,New York,10128.0,,
+810751,for_sale,548888.0,4.0,2.0,,"143-40 Roosevelt Ave Unit 1F, Flushing, NY, 11354",143-40 Roosevelt Ave Unit 1F,Flushing,New York,11354.0,1400.0,2014-12-23
+818179,for_sale,619000.0,2.0,2.0,0.06,"2839 W 28th St, Brooklyn, NY, 11224",2839 W 28th St,Brooklyn,New York,11224.0,1120.0,1990-12-06
+528805,for_sale,2700000.0,1.0,2.0,,"354 Broome St Apt 4C, New York City, NY, 10013",354 Broome St Apt 4C,New York City,New York,10013.0,1633.0,2021-03-09
+921480,for_sale,158000.0,,1.0,,"294 Bronxville Rd Apt 6C, Bronxville, NY, 10708",294 Bronxville Rd Apt 6C,Bronxville,New York,10708.0,539.0,
+817897,for_sale,629000.0,2.0,2.0,,"43 Harbor Ln, New Rochelle, NY, 10805",43 Harbor Ln,New Rochelle,New York,10805.0,1300.0,1991-07-15
+553049,for_sale,1300000.0,3.0,2.0,0.07,"1830 E 28th St, Brooklyn, NY, 11229",1830 E 28th St,Brooklyn,New York,11229.0,1400.0,
+583335,for_sale,1049000.0,4.0,4.0,0.09,"841 Marcy Ave, Staten Island, NY, 10309",841 Marcy Ave,Staten Island,New York,10309.0,2352.0,2016-08-31
+555593,for_sale,482500.0,3.0,3.0,0.05,"86 Beach St, Staten Island, NY, 10304",86 Beach St,Staten Island,New York,10304.0,1080.0,2001-03-29
+813213,for_sale,1450000.0,8.0,5.0,0.09,"1606 Williamsbridge Rd, Bronx, NY, 10461",1606 Williamsbridge Rd,Bronx,New York,10461.0,2502.0,2016-11-01
+802037,for_sale,549000.0,2.0,1.0,0.04,"160-04 Baisley Blvd, Jamaica, NY, 11434",160-04 Baisley Blvd,Jamaica,New York,11434.0,,2017-06-20
+758849,for_sale,2400000.0,3.0,3.0,0.11,"111-11 76th Dr, Forest Hills, NY, 11375",111-11 76th Dr,Forest Hills,New York,11375.0,,2006-02-22
+499863,for_sale,525000.0,3.0,3.0,0.02,"12 Deirdre Ct, Staten Island, NY, 10304",12 Deirdre Ct,Staten Island,New York,10304.0,1650.0,2004-04-27
+827382,for_sale,650000.0,1.0,1.0,,"335 W 21st St Apt 2FE, New York, NY, 10011",335 W 21st St Apt 2FE,New York,New York,10011.0,,2019-02-08
+565517,for_sale,849000.0,1.0,1.0,,"590 W End Ave Apt 3B, New York City, NY, 10024",590 W End Ave Apt 3B,New York City,New York,10024.0,,2012-03-26
+559158,for_sale,378888.0,2.0,1.0,,"63-45 Saunders St Unit 4C, Rego Park, NY, 11374",63-45 Saunders St Unit 4C,Rego Park,New York,11374.0,,2014-10-25
+573044,for_sale,425000.0,1.0,1.0,0.33,"870 W 181st St Apt 34, New York City, NY, 10033",870 W 181st St Apt 34,New York City,New York,10033.0,,2015-07-08
+777565,for_sale,739000.0,3.0,2.0,0.04,"25-28 Humphrey St, East Elmhurst, NY, 11369",25-28 Humphrey St,East Elmhurst,New York,11369.0,,2021-12-09
+515390,for_sale,1195000.0,6.0,6.0,0.05,"1023 Elder Ave, Bronx, NY, 10472",1023 Elder Ave,Bronx,New York,10472.0,3258.0,2009-07-02
+564771,for_sale,179498.0,1.0,1.0,,"5601 Riverdale Ave Apt 7S, Bronx, NY, 10471",5601 Riverdale Ave Apt 7S,Bronx,New York,10471.0,750.0,2010-12-20
+916219,for_sale,975000.0,1.0,1.0,,"41 W 72nd St Apt 8C, Manhattan, NY, 10023",41 W 72nd St Apt 8C,Manhattan,New York,10023.0,638.0,2008-11-03
+746022,for_sale,189000.0,1.0,1.0,,"2150 E Tremont Ave Apt 7G, Bronx, NY, 10462",2150 E Tremont Ave Apt 7G,Bronx,New York,10462.0,655.0,2011-06-17
+754324,for_sale,865000.0,1.0,1.0,,"301 E 79th St Apt 5P, New York, NY, 10075",301 E 79th St Apt 5P,New York,New York,10075.0,654.0,2008-12-22
+891071,for_sale,995000.0,1.0,1.0,,"250 E 21st St Unit 3E, New York, NY, 10010",250 E 21st St Unit 3E,New York,New York,10010.0,617.0,
+718762,for_sale,499999.0,3.0,1.0,0.09,"4 North St, Staten Island, NY, 10302",4 North St,Staten Island,New York,10302.0,1470.0,2017-09-01
+787476,for_sale,2495000.0,2.0,2.0,0.32,"305 W 16th St # C, New York City, NY, 10011",305 W 16th St # C,New York City,New York,10011.0,1001.0,
+716572,for_sale,7205000.0,3.0,4.0,,"1 Wall St Unit 1901, New York City, NY, 10005",1 Wall St Unit 1901,New York City,New York,10005.0,2493.0,
+788400,for_sale,1195000.0,1.0,1.0,,"100 W 81st St Apt 1D, New York City, NY, 10024",100 W 81st St Apt 1D,New York City,New York,10024.0,,2015-09-09
+871717,for_sale,5950000.0,24.0,17.0,0.1,"29-12 Newtown Ave, Astoria, NY, 11102",29-12 Newtown Ave,Astoria,New York,11102.0,,
+818387,for_sale,339000.0,2.0,1.0,,"32-40 92 St Unit B508, East Elmhurst, NY, 11369",32-40 92 St Unit B508,East Elmhurst,New York,11369.0,,2011-05-19
+553153,for_sale,730000.0,3.0,2.0,0.04,"4126 Paulding Ave, Bronx, NY, 10466",4126 Paulding Ave,Bronx,New York,10466.0,1813.0,2017-02-24
+491445,for_sale,1858000.0,6.0,4.0,0.09,"53-16 199th St, Fresh Meadows, NY, 11365",53-16 199th St,Fresh Meadows,New York,11365.0,2288.0,2010-02-11
+568746,for_sale,129900.0,1.0,1.0,,"70 Locust Ave Apt B112, New Rochelle, NY, 10801",70 Locust Ave Apt B112,New Rochelle,New York,10801.0,725.0,
+841583,for_sale,999000.0,3.0,6.0,0.09,"216-11 136th Rd, Springfield Gardens, NY, 11413",216-11 136th Rd,Springfield Gardens,New York,11413.0,1960.0,2003-09-08
+891262,for_sale,1550000.0,1.0,1.0,,"200 Chambers St Apt 7F, New York City, NY, 10007",200 Chambers St Apt 7F,New York City,New York,10007.0,,2007-05-11
+912411,for_sale,1430000.0,1.0,1.0,,"238 E 3rd St Apt 1B, Manhattan, NY, 10009",238 E 3rd St Apt 1B,Manhattan,New York,10009.0,816.0,
+497394,for_sale,1125000.0,2.0,2.0,1.04,"21 S End Ave Apt 226, New York City, NY, 10280",21 S End Ave Apt 226,New York City,New York,10280.0,1004.0,2004-03-31
+818808,for_sale,659000.0,3.0,3.0,0.11,"21 Cornell Pl, Staten Island, NY, 10304",21 Cornell Pl,Staten Island,New York,10304.0,1692.0,2013-07-17
+539287,for_sale,115000.0,1.0,1.0,,"530 Riverdale Ave Apt 3K, Yonkers, NY, 10705",530 Riverdale Ave Apt 3K,Yonkers,New York,10705.0,800.0,
+739538,for_sale,759000.0,4.0,3.0,0.05,"163-53 Mathias Ave, Jamaica, NY, 11433",163-53 Mathias Ave,Jamaica,New York,11433.0,,2021-06-28
+773250,for_sale,1150000.0,2.0,2.0,,"408 8th Ave Apt 8A, New York City, NY, 10001",408 8th Ave Apt 8A,New York City,New York,10001.0,,1996-07-30
+768041,for_sale,975000.0,1.0,1.0,,"311 E 38th St Apt 7F, New York, NY, 10016",311 E 38th St Apt 7F,New York,New York,10016.0,804.0,2022-02-10
+358527,for_sale,24000.0,,,2.0,"County Route 56, Ticonderoga, NY, 12883",County Route 56,Ticonderoga,New York,12883.0,,
+543546,for_sale,749000.0,,3.0,0.3,"331 Jewett Ave, Staten Island, NY, 10302",331 Jewett Ave,Staten Island,New York,10302.0,,1997-01-30
+736177,for_sale,785000.0,1.0,1.0,0.06,"362 W 127th St Apt 5A, New York City, NY, 10027",362 W 127th St Apt 5A,New York City,New York,10027.0,809.0,2017-10-10
+877457,for_sale,1175000.0,1.0,2.0,,"40 Broad St Ph 3B, New York, NY, 10004",40 Broad St Ph 3B,New York,New York,10004.0,964.0,
+736449,for_sale,545000.0,,1.0,0.19,"181 E 101st St Unit 705, New York City, NY, 10029",181 E 101st St Unit 705,New York City,New York,10029.0,425.0,
+470442,for_sale,4500000.0,3.0,3.0,,"555 Park Ave Fl 6E, New York, NY, 10065",555 Park Ave Fl 6E,New York,New York,10065.0,,
+484318,for_sale,550000.0,1.0,1.0,,"345 E 81st St Apt 7H, New York, NY, 10028",345 E 81st St Apt 7H,New York,New York,10028.0,,2006-12-19
+816012,for_sale,825000.0,2.0,1.0,,"815 8th Ave Apt 4F, New York, NY, 11215",815 8th Ave Apt 4F,New York,New York,11215.0,,2017-11-24
+838983,for_sale,635000.0,1.0,1.0,,"779 Riverside Dr Apt B43, Manhattan, NY, 10032",779 Riverside Dr Apt B43,Manhattan,New York,10032.0,814.0,2009-12-17
+799497,for_sale,1395000.0,1.0,2.0,,"44 Cheever Pl Unit 401, New York, NY, 11231",44 Cheever Pl Unit 401,New York,New York,11231.0,1014.0,
+877399,for_sale,1128000.0,3.0,2.0,0.09,"58-07 217th St, Bayside, NY, 11364",58-07 217th St,Bayside,New York,11364.0,,
+583226,for_sale,599000.0,3.0,2.0,0.09,"11 Wilson Ave, Staten Island, NY, 10308",11 Wilson Ave,Staten Island,New York,10308.0,1040.0,
+513100,for_sale,1249000.0,2.0,2.0,,"27 Quincy St Apt 2A, Brooklyn, NY, 11238",27 Quincy St Apt 2A,Brooklyn,New York,11238.0,1100.0,2011-09-15
+801387,for_sale,258000.0,1.0,1.0,,"47-14 217th St Unit 2D, Bayside, NY, 11361",47-14 217th St Unit 2D,Bayside,New York,11361.0,,2009-01-20
+814461,for_sale,5195000.0,6.0,7.0,0.61,"1 Beach Ave, Larchmont, NY, 10538",1 Beach Ave,Larchmont,New York,10538.0,8596.0,2004-08-16
+815970,for_sale,649999.0,3.0,2.0,0.06,"135 Corbin Ave, Staten Island, NY, 10308",135 Corbin Ave,Staten Island,New York,10308.0,1258.0,
+827608,for_sale,425000.0,2.0,1.0,,"42-30 Douglaston Pkwy Unit 5L, Douglaston, NY, 11363",42-30 Douglaston Pkwy Unit 5L,Douglaston,New York,11363.0,,2006-04-04
+917841,for_sale,195000.0,,,0.98,"634 Catherine St, Peekskill, NY, 10566",634 Catherine St,Peekskill,New York,10566.0,,
+795716,for_sale,420000.0,2.0,1.0,,"64 39th Ave Unit 33, New York City, NY, 11377",64 39th Ave Unit 33,New York City,New York,11377.0,,
+764031,for_sale,1495000.0,,1.0,,"259 Elizabeth St Unit C, New York City, NY, 10012",259 Elizabeth St Unit C,New York City,New York,10012.0,,
+797876,for_sale,549000.0,3.0,2.0,0.09,"1619 Harding Park, Bronx, NY, 10473",1619 Harding Park,Bronx,New York,10473.0,1155.0,2019-09-23
+738402,for_sale,289000.0,2.0,1.0,,"83-75 Woodhaven Blvd Unit 5S, Woodhaven, NY, 11421",83-75 Woodhaven Blvd Unit 5S,Woodhaven,New York,11421.0,,
+827998,for_sale,1495000.0,3.0,2.0,,"221 E 78th St Unit 2HJ, New York, NY, 10075",221 E 78th St Unit 2HJ,New York,New York,10075.0,,2015-11-09
+793010,for_sale,799000.0,2.0,2.0,,"535 Throop Ave Apt 2, Brooklyn, NY, 11221",535 Throop Ave Apt 2,Brooklyn,New York,11221.0,1059.0,2016-12-22
+495768,for_sale,925000.0,1.0,2.0,,"75 Wall St Apt 27B, New York, NY, 10005",75 Wall St Apt 27B,New York,New York,10005.0,811.0,2009-01-06
+859325,for_sale,825000.0,2.0,1.0,,"815 8th Ave Apt 4F, New York, NY, 11215",815 8th Ave Apt 4F,New York,New York,11215.0,,2017-11-24
+839959,for_sale,550000.0,1.0,1.0,,"4-74 48th Ave Unit 27J, New York City, NY, 11109",4-74 48th Ave Unit 27J,New York City,New York,11109.0,700.0,
+895404,for_sale,595000.0,1.0,1.0,,"1230 Park Ave Apt 11A, New York, NY, 10128",1230 Park Ave Apt 11A,New York,New York,10128.0,,2009-12-29
+359100,for_sale,90000.0,3.0,1.0,0.34,"5 Ferris Ct, Plattsburgh, NY, 12901",5 Ferris Ct,Plattsburgh,New York,12901.0,925.0,2018-11-21
+768458,for_sale,4650000.0,5.0,3.0,,"41 2nd Pl, New York, NY, 11231",41 2nd Pl,New York,New York,11231.0,,1989-11-24
+830253,for_sale,865555.0,5.0,3.0,0.05,"7446 65th St, Glendale, NY, 11385",7446 65th St,Glendale,New York,11385.0,,2004-07-04
+752709,for_sale,4995000.0,4.0,5.0,,"326 Leonard St, New York City, NY, 11211",326 Leonard St,New York City,New York,11211.0,4000.0,2019-06-28
+812081,for_sale,2380000.0,5.0,5.0,0.09,"108-42 66th Rd, Forest Hills, NY, 11375",108-42 66th Rd,Forest Hills,New York,11375.0,2300.0,2016-07-07
+533596,for_sale,149999.0,1.0,1.0,0.08,"6 Crescent Dr Apt 22, Thiells, NY, 10984",6 Crescent Dr Apt 22,Thiells,New York,10984.0,799.0,2018-09-20
+570358,for_sale,599000.0,2.0,2.0,0.25,"120 Weyman Ave, New Rochelle, NY, 10805",120 Weyman Ave,New Rochelle,New York,10805.0,1261.0,2000-11-15
+569053,for_sale,375500.0,3.0,2.0,,"327 Palmer Ter Apt 1A, Mamaroneck, NY, 10543",327 Palmer Ter Apt 1A,Mamaroneck,New York,10543.0,1100.0,
+837862,for_sale,340000.0,1.0,1.0,,"35-55 29th St Unit 5C, Astoria, NY, 11106",35-55 29th St Unit 5C,Astoria,New York,11106.0,,2015-09-30
+511141,for_sale,1399000.0,11.0,6.0,0.05,"48-19 47th St, Woodside, NY, 11377",48-19 47th St,Woodside,New York,11377.0,2375.0,
+556396,for_sale,655000.0,,1.0,,"20 West St Apt 19C, New York City, NY, 10004",20 West St Apt 19C,New York City,New York,10004.0,,2006-08-14
+802419,for_sale,775000.0,2.0,3.0,0.03,"58-57 57th Rd, Maspeth, NY, 11378",58-57 57th Rd,Maspeth,New York,11378.0,,
+346354,for_sale,25000.0,,,0.22,"26 Saratoga St, Hoosick, NY, 12090",26 Saratoga St,Hoosick,New York,12090.0,,
+492165,for_sale,1299000.0,4.0,2.0,0.04,"43-17 25 Ave, Astoria, NY, 11103",43-17 25 Ave,Astoria,New York,11103.0,1616.0,
+775347,for_sale,660000.0,3.0,1.0,0.03,"61-27 Cooper Ave, Glendale, NY, 11385",61-27 Cooper Ave,Glendale,New York,11385.0,1118.0,
+909515,for_sale,525000.0,3.0,2.0,0.95,"2504 Ridge St, Yorktown Heights, NY, 10598",2504 Ridge St,Yorktown Heights,New York,10598.0,1700.0,1996-09-04
+854502,for_sale,7800000.0,2.0,3.0,,"25 W 28th St Ph 42A, New York, NY, 10001",25 W 28th St Ph 42A,New York,New York,10001.0,1750.0,
+855086,for_sale,525000.0,2.0,1.0,,"68-20 Burns St Unit D2, New York, NY, 11375",68-20 Burns St Unit D2,New York,New York,11375.0,,
+552402,for_sale,249900.0,1.0,1.0,,"2390 Palisade Ave Apt 1G, Bronx, NY, 10463",2390 Palisade Ave Apt 1G,Bronx,New York,10463.0,850.0,2007-11-05
+773131,for_sale,875000.0,2.0,2.0,,"6 Renaissance Ct Apt B, Brooklyn, NY, 11206",6 Renaissance Ct Apt B,Brooklyn,New York,11206.0,,
+477529,for_sale,1500000.0,,6.0,0.05,"727 59th St, Brooklyn, NY, 11220",727 59th St,Brooklyn,New York,11220.0,4800.0,
+58468,for_sale,339000.0,4.0,5.0,0.51,"5 Main St, New Lebanon, NY, 12125",5 Main St,New Lebanon,New York,12125.0,3133.0,2019-09-11
+784884,for_sale,269000.0,1.0,1.0,0.15,"501 W 156th St Apt 62, New York City, NY, 10032",501 W 156th St Apt 62,New York City,New York,10032.0,,2016-10-25
+823388,for_sale,700000.0,2.0,2.0,,"26 E 19th St Apt 4B, Brooklyn, NY, 11226",26 E 19th St Apt 4B,Brooklyn,New York,11226.0,658.0,2018-09-26
+466137,for_sale,565000.0,,1.0,,"88 Greenwich St Apt 628, New York City, NY, 10006",88 Greenwich St Apt 628,New York City,New York,10006.0,569.0,2015-03-13
+801135,for_sale,315000.0,3.0,1.0,,"155 84 St Unit 21, Howard Beach, NY, 11414",155 84 St Unit 21,Howard Beach,New York,11414.0,,2013-02-22
+850485,for_sale,845000.0,1.0,1.0,,"205 E 78th St Apt 5F, New York, NY, 10075",205 E 78th St Apt 5F,New York,New York,10075.0,,2010-05-18
+874705,for_sale,238000.0,1.0,1.0,,"31-50 140 St Unit 4H, Flushing, NY, 11354",31-50 140 St Unit 4H,Flushing,New York,11354.0,,
+743358,for_sale,280000.0,,1.0,,"431 E 82nd St Apt 1A, New York City, NY, 10028",431 E 82nd St Apt 1A,New York City,New York,10028.0,,2015-10-27
+742383,for_sale,1600000.0,1.0,2.0,,"133 W 22nd St Apt 4E, New York City, NY, 10011",133 W 22nd St Apt 4E,New York City,New York,10011.0,894.0,2021-12-09
+374441,for_sale,17900.0,,,5.1,"430 Mountain Side Meadow Way, Hebron, NY, 12865",430 Mountain Side Meadow Way,Hebron,New York,12865.0,,
+567408,for_sale,139000.0,2.0,1.0,,"154 Radford St Apt 4C, Yonkers, NY, 10705",154 Radford St Apt 4C,Yonkers,New York,10705.0,850.0,
+899110,for_sale,1488000.0,,3.0,0.07,"165 Battery Ave, Brooklyn, NY, 11209",165 Battery Ave,Brooklyn,New York,11209.0,,1999-12-15
+901125,for_sale,3100000.0,,,,"2759 Whitman Dr, Brooklyn, NY, 11234",2759 Whitman Dr,Brooklyn,New York,11234.0,,2004-11-09
+768258,for_sale,995000.0,1.0,1.0,,"165 W 91st St Apt 5H, New York, NY, 10024",165 W 91st St Apt 5H,New York,New York,10024.0,749.0,2020-11-02
+886672,for_sale,679000.0,3.0,1.0,0.06,"71-71 71st St, Glendale, NY, 11385",71-71 71st St,Glendale,New York,11385.0,1320.0,2003-03-11
+491689,for_sale,6200000.0,3.0,3.0,,"206 E 73rd St # E, New York, NY, 10021",206 E 73rd St # E,New York,New York,10021.0,2440.0,
+793988,for_sale,995000.0,1.0,1.0,0.05,"58 St Marks Pl Unit 206, New York City, NY, 11217",58 St Marks Pl Unit 206,New York City,New York,11217.0,650.0,
+760401,for_sale,325000.0,,1.0,,"130 Hicks St Apt 1F, New York City, NY, 11201",130 Hicks St Apt 1F,New York City,New York,11201.0,,
+539797,for_sale,1050000.0,4.0,3.0,0.03,"2202 Newkirk Ave, Brooklyn, NY, 11226",2202 Newkirk Ave,Brooklyn,New York,11226.0,,2000-12-20
+831800,for_sale,419000.0,1.0,1.0,,"22-27 76 St Unit 2A, East Elmhurst, NY, 11370",22-27 76 St Unit 2A,East Elmhurst,New York,11370.0,677.0,2004-10-21
+818089,for_sale,189999.0,2.0,2.0,,"66 Edgewater Park Unit 66A, Bronx, NY, 10465",66 Edgewater Park Unit 66A,Bronx,New York,10465.0,700.0,2016-09-28
+844552,for_sale,540000.0,1.0,1.0,,"215 Adams St Apt 14E, New York, NY, 11201",215 Adams St Apt 14E,New York,New York,11201.0,630.0,2015-09-09
+781094,for_sale,18000000.0,3.0,4.0,,"22 Bond St Ph 1, New York City, NY, 10012",22 Bond St Ph 1,New York City,New York,10012.0,3840.0,
+808861,for_sale,72000.0,1.0,1.0,,"1103 Franklin Ave Apt 20, Bronx, NY, 10456",1103 Franklin Ave Apt 20,Bronx,New York,10456.0,650.0,
+566253,for_sale,31950000.0,4.0,6.0,,"217 W 57th St Apt 83E, New York, NY, 10019",217 W 57th St Apt 83E,New York,New York,10019.0,4295.0,
+822102,for_sale,239000.0,1.0,1.0,,"285 E 35th St Apt 6F, Brooklyn, NY, 11203",285 E 35th St Apt 6F,Brooklyn,New York,11203.0,,
+915914,for_sale,395000.0,1.0,1.0,,"43-55 Kissena Blvd Unit 6A, Flushing, NY, 11355",43-55 Kissena Blvd Unit 6A,Flushing,New York,11355.0,,
+910928,for_sale,625000.0,5.0,2.0,,"547 W 147th St Apt E4, New York, NY, 10031",547 W 147th St Apt E4,New York,New York,10031.0,1400.0,
+849967,for_sale,748000.0,4.0,2.0,0.09,"139 Bionia Ave, Staten Island, NY, 10305",139 Bionia Ave,Staten Island,New York,10305.0,2000.0,2015-08-17
+804497,for_sale,1098888.0,3.0,2.0,0.06,"67-07 Roosevelt Ave, Woodside, NY, 11377",67-07 Roosevelt Ave,Woodside,New York,11377.0,1680.0,2007-08-16
+486886,for_sale,259500.0,3.0,1.0,,"3555 Kings College Pl Apt 2H, Bronx, NY, 10467",3555 Kings College Pl Apt 2H,Bronx,New York,10467.0,1400.0,
+912304,for_sale,595000.0,2.0,2.0,,"7152 160th St Apt 1, Fresh Meadows, NY, 11365",7152 160th St Apt 1,Fresh Meadows,New York,11365.0,867.0,2007-06-07
+912107,for_sale,1195000.0,2.0,2.0,,"255 W End Ave Apt 6B, New York, NY, 10023",255 W End Ave Apt 6B,New York,New York,10023.0,,2010-06-09
+545380,for_sale,2110000.0,2.0,2.0,,"533 E 12th St Unit A2, New York City, NY, 10009",533 E 12th St Unit A2,New York City,New York,10009.0,1141.0,
+761754,for_sale,1399000.0,2.0,2.0,,"42 Tiffany Pl Apt 5C, Brooklyn, NY, 11231",42 Tiffany Pl Apt 5C,Brooklyn,New York,11231.0,1169.0,2017-09-28
+881499,for_sale,388000.0,1.0,1.0,,"59-11 Queens Blvd Unit 2E, New York, NY, 11377",59-11 Queens Blvd Unit 2E,New York,New York,11377.0,,
+531202,for_sale,1375000.0,1.0,1.0,,"420 W 25th St Apt 6B, New York City, NY, 10001",420 W 25th St Apt 6B,New York City,New York,10001.0,1036.0,2012-09-27
+545104,for_sale,1150000.0,,1.0,,"1 Wall St Unit 607, New York City, NY, 10005",1 Wall St Unit 607,New York City,New York,10005.0,656.0,
+806122,for_sale,3300000.0,2.0,2.0,,"925 Park Ave Unit 2A, New York City, NY, 10028",925 Park Ave Unit 2A,New York City,New York,10028.0,,2005-04-05
+498375,for_sale,950000.0,5.0,3.0,0.14,"987 Edgegrove Ave, Staten Island, NY, 10309",987 Edgegrove Ave,Staten Island,New York,10309.0,2823.0,2014-10-10
+745761,for_sale,629000.0,,1.0,,"1 Hanson Pl Apt 13E, New York City, NY, 11243",1 Hanson Pl Apt 13E,New York City,New York,11243.0,489.0,2011-05-26
+801558,for_sale,298000.0,2.0,1.0,,"84-50 169th St Unit 606, Queens, NY, 11432",84-50 169th St Unit 606,Queens,New York,11432.0,,2007-05-08
+921559,for_sale,2150000.0,4.0,4.0,6.72,"43 Reyburn Rd, Katonah, NY, 10536",43 Reyburn Rd,Katonah,New York,10536.0,4150.0,
+861067,for_sale,2425000.0,,2.0,,"784 Park Ave Unit 1EF, New York, NY, 10021",784 Park Ave Unit 1EF,New York,New York,10021.0,1597.0,
+787696,for_sale,3180000.0,4.0,5.0,0.26,"81-03 Utopia Pkwy, Jamaica, NY, 11432",81-03 Utopia Pkwy,Jamaica,New York,11432.0,4100.0,2013-01-10
+506448,for_sale,748000.0,4.0,3.0,0.11,"445 Sheffield St, New York City, NY, 10301",445 Sheffield St,New York City,New York,10301.0,1820.0,
+858889,for_sale,749000.0,1.0,1.0,,"132 W 71st St Apt 4, New York, NY, 10023",132 W 71st St Apt 4,New York,New York,10023.0,,2013-12-18
+847040,for_sale,4735990.0,3.0,4.0,,"40 E End Ave Apt 12B, New York, NY, 10028",40 E End Ave Apt 12B,New York,New York,10028.0,1959.0,
+811266,for_sale,2098000.0,8.0,5.0,0.06,"83-55 116th St, Kew Gardens, NY, 11418",83-55 116th St,Kew Gardens,New York,11418.0,4200.0,
+56861,for_sale,2850000.0,40.0,36.0,1.78,"1-7 Church St, Claverack, NY, 12565",1-7 Church St,Claverack,New York,12565.0,27443.0,
+777386,for_sale,698888.0,3.0,3.0,0.05,"107-16 93rd St, Ozone Park, NY, 11417",107-16 93rd St,Ozone Park,New York,11417.0,,2006-10-04
+484504,for_sale,485000.0,,1.0,,"27 E 65th St Apt 7C, New York City, NY, 10065",27 E 65th St Apt 7C,New York City,New York,10065.0,,2013-09-21
+741580,for_sale,1328440.0,1.0,1.0,0.49,"1 City Pt Apt 35J, New York City, NY, 11201",1 City Pt Apt 35J,New York City,New York,11201.0,792.0,
+542721,for_sale,749000.0,3.0,2.0,0.04,"2572 Pearsall Ave, Bronx, NY, 10469",2572 Pearsall Ave,Bronx,New York,10469.0,1762.0,1999-11-05
+741695,for_sale,999000.0,1.0,1.0,,"345 W 58th St Apt 11R, New York, NY, 10019",345 W 58th St Apt 11R,New York,New York,10019.0,,2012-02-10
+761758,for_sale,795000.0,2.0,1.0,,"80 LA Salle St Apt 2G, New York, NY, 10027",80 LA Salle St Apt 2G,New York,New York,10027.0,,
+470374,for_sale,1395000.0,,,,"34 Woodbine St, Brooklyn, NY, 11221",34 Woodbine St,Brooklyn,New York,11221.0,,2018-09-27
+466866,for_sale,1400000.0,7.0,3.0,0.04,"98 Wyona St, New York City, NY, 11207",98 Wyona St,New York City,New York,11207.0,800.0,1999-09-03
+616669,for_sale,950000.0,5.0,3.0,0.14,"987 Edgegrove Ave, Staten Island, NY, 10309",987 Edgegrove Ave,Staten Island,New York,10309.0,2823.0,2014-10-10
+530849,for_sale,795000.0,1.0,1.0,,"205 W 54th St Apt 4C, New York City, NY, 10019",205 W 54th St Apt 4C,New York City,New York,10019.0,,
+753397,for_sale,450000.0,1.0,1.0,,"420 E 72nd St Apt 3E, New York City, NY, 10021",420 E 72nd St Apt 3E,New York City,New York,10021.0,,
+762091,for_sale,820000.0,1.0,1.0,,"192 Spencer St Apt 4G, Brooklyn, NY, 11205",192 Spencer St Apt 4G,Brooklyn,New York,11205.0,805.0,
+882203,for_sale,3299000.0,2.0,2.0,,"117 E 57th St Unit 41CD, New York City, NY, 10022",117 E 57th St Unit 41CD,New York City,New York,10022.0,1800.0,
+833163,for_sale,685000.0,2.0,2.0,0.03,"24-40 86th St, East Elmhurst, NY, 11369",24-40 86th St,East Elmhurst,New York,11369.0,1500.0,2020-01-29
+489668,for_sale,3500000.0,8.0,8.0,0.05,"1483 Bedford Ave, Brooklyn, NY, 11216",1483 Bedford Ave,Brooklyn,New York,11216.0,5440.0,
+768927,for_sale,858888.0,3.0,2.0,0.05,"2809 56th Pl, Woodside, NY, 11377",2809 56th Pl,Woodside,New York,11377.0,1627.0,
+798019,for_sale,800000.0,8.0,3.0,0.02,"1700 E New York Ave, Brownville, NY, 11212",1700 E New York Ave,Brownville,New York,11212.0,,2021-03-09
+845084,for_sale,199888.0,,1.0,,"61-20 Grand Central Pkwy Unit B9, Forest Hills, NY, 11375",61-20 Grand Central Pkwy Unit B9,Forest Hills,New York,11375.0,,
+898072,for_sale,1580000.0,8.0,3.0,0.11,"33 Van Nostrand Ave, Roslyn Heights, NY, 11577",33 Van Nostrand Ave,Roslyn Heights,New York,11577.0,,1990-05-04
+541024,for_sale,589000.0,2.0,2.0,0.47,"33 Highclere Ln, Valhalla, NY, 10595",33 Highclere Ln,Valhalla,New York,10595.0,1351.0,2015-03-31
+849576,for_sale,649999.0,3.0,2.0,0.06,"135 Corbin Ave, Staten Island, NY, 10308",135 Corbin Ave,Staten Island,New York,10308.0,1258.0,
+828405,for_sale,1450000.0,2.0,2.0,,"411 E 53rd St Apt 19A, New York, NY, 10022",411 E 53rd St Apt 19A,New York,New York,10022.0,1341.0,1987-06-02
+873451,for_sale,869000.0,3.0,2.0,,"12012 Rivera Ct Unit 20A, College Point, NY, 11356",12012 Rivera Ct Unit 20A,College Point,New York,11356.0,2200.0,1997-11-20
+858380,for_sale,575000.0,2.0,2.0,,"61-15 98th St Unit 11K, Rego Park, NY, 11374",61-15 98th St Unit 11K,Rego Park,New York,11374.0,1100.0,
+750333,for_sale,1950000.0,3.0,2.0,,"18 W 70th St Apt 3C, New York, NY, 10023",18 W 70th St Apt 3C,New York,New York,10023.0,,2017-07-11
+832631,for_sale,379000.0,2.0,1.0,,"204-15 35 Ave Unit Upper, Bayside, NY, 11361",204-15 35 Ave Unit Upper,Bayside,New York,11361.0,,2016-03-18
+873158,for_sale,690000.0,1.0,1.0,,"309 Cooper St Ph 4, New York City, NY, 11237",309 Cooper St Ph 4,New York City,New York,11237.0,705.0,
+870294,for_sale,775000.0,2.0,3.0,0.03,"58-57 57th Rd, Maspeth, NY, 11378",58-57 57th Rd,Maspeth,New York,11378.0,,
+850943,for_sale,719000.0,2.0,1.0,,"411 W 44th St Apt 22, New York, NY, 10036",411 W 44th St Apt 22,New York,New York,10036.0,,2016-09-07
+624392,for_sale,439000.0,4.0,3.0,2.15,"44 Sara Ln, Glen Spey, NY, 12737",44 Sara Ln,Glen Spey,New York,12737.0,2536.0,2018-11-28
+911461,for_sale,17000000.0,7.0,9.0,0.05,"119 E 71st St, New York City, NY, 10021",119 E 71st St,New York City,New York,10021.0,7600.0,2007-08-13
+848205,for_sale,2950000.0,2.0,3.0,,"108 Leonard St Apt 6E, New York, NY, 10013",108 Leonard St Apt 6E,New York,New York,10013.0,1301.0,2019-10-10
+747687,for_sale,1295000.0,5.0,5.0,0.07,"132 E 40th St, Brooklyn, NY, 11203",132 E 40th St,Brooklyn,New York,11203.0,,2021-06-07
+561739,for_sale,1299000.0,1.0,1.0,,"35 E 9th St Apt 62, New York, NY, 10003",35 E 9th St Apt 62,New York,New York,10003.0,,
+784834,for_sale,540000.0,,1.0,,"200 E 24th St Apt 601, New York, NY, 10010",200 E 24th St Apt 601,New York,New York,10010.0,,2014-12-16
+511229,for_sale,750000.0,3.0,3.0,0.06,"206 Virginia Ave, Staten Island, NY, 10305",206 Virginia Ave,Staten Island,New York,10305.0,1452.0,2018-06-22
+894963,for_sale,410000.0,,1.0,,"309 E 87th St Apt 2C, New York City, NY, 10128",309 E 87th St Apt 2C,New York City,New York,10128.0,,2018-05-21
+859940,for_sale,749000.0,4.0,3.0,0.05,"116-31 139 St, Jamaica, NY, 11436",116-31 139 St,Jamaica,New York,11436.0,,2022-02-11
+851215,for_sale,325000.0,4.0,4.0,,"90 Jackie Robinson Pkwy Unit Townhouse, Brooklyn, NY, 11207",90 Jackie Robinson Pkwy Unit Townhouse,Brooklyn,New York,11207.0,,
+897438,for_sale,2110000.0,2.0,2.0,,"533 E 12th St Unit A2, New York City, NY, 10009",533 E 12th St Unit A2,New York City,New York,10009.0,1141.0,
+887539,for_sale,758000.0,2.0,2.0,0.04,"59-40 Maspeth Ave, Flushing, NY, 11378",59-40 Maspeth Ave,Flushing,New York,11378.0,1000.0,2000-06-02
+878708,for_sale,625000.0,4.0,2.0,,"1534 Research Ave, Bronx, NY, 10465",1534 Research Ave,Bronx,New York,10465.0,,2019-05-02
+911252,for_sale,449000.0,4.0,2.0,0.12,"186 Bedford Ave, New Hyde Park, NY, 11040",186 Bedford Ave,New Hyde Park,New York,11040.0,1285.0,
+907714,for_sale,299000.0,2.0,1.0,,"3103 Fairfield Ave Apt 7E, Bronx, NY, 10463",3103 Fairfield Ave Apt 7E,Bronx,New York,10463.0,900.0,2017-02-22
+891195,for_sale,6900000.0,2.0,3.0,,"15 E 30th St Apt 56B, New York City, NY, 10016",15 E 30th St Apt 56B,New York City,New York,10016.0,2028.0,
+763414,for_sale,1010000.0,1.0,1.0,,"112 Fleet Pl Unit 6B, Brooklyn, NY, 11201",112 Fleet Pl Unit 6B,Brooklyn,New York,11201.0,818.0,
+770615,for_sale,1395000.0,2.0,2.0,,"201 E 66th St Apt 14A, New York, NY, 10065",201 E 66th St Apt 14A,New York,New York,10065.0,,2017-02-01
+887934,for_sale,375000.0,3.0,2.0,,"938 Union Ave Unit C, Bronx, NY, 10459",938 Union Ave Unit C,Bronx,New York,10459.0,1072.0,1995-03-06
+916762,for_sale,450000.0,2.0,2.0,,"2550 Independence Ave Apt 2J, Bronx, NY, 10463",2550 Independence Ave Apt 2J,Bronx,New York,10463.0,1050.0,
+913203,for_sale,3600000.0,3.0,3.0,,"121 W 20th St Apt 2A, New York City, NY, 10011",121 W 20th St Apt 2A,New York City,New York,10011.0,,2013-04-12
+740416,for_sale,580000.0,3.0,3.0,0.04,"11642 Lincoln St, Jamaica, NY, 11420",11642 Lincoln St,Jamaica,New York,11420.0,1316.0,2015-02-04
+865292,for_sale,23000000.0,5.0,7.0,,"1295 Madison Ave Unit Penthouse, New York City, NY, 10128",1295 Madison Ave Unit Penthouse,New York City,New York,10128.0,4179.0,
+804727,for_sale,2495000.0,2.0,2.0,,"32 E 76th St Apt 1405, New York, NY, 10021",32 E 76th St Apt 1405,New York,New York,10021.0,1308.0,2005-08-23
+903316,for_sale,698000.0,2.0,2.0,0.04,"1958 E 37th St, Brooklyn, NY, 11234",1958 E 37th St,Brooklyn,New York,11234.0,1008.0,2016-11-22
+821415,for_sale,400000.0,,1.0,0.11,"77 Mercer St Unit A, New York City, NY, 10012",77 Mercer St Unit A,New York City,New York,10012.0,948.0,1991-05-20
+838633,for_sale,2650000.0,2.0,2.0,,"682 6th Ave Unit 7, New York City, NY, 10010",682 6th Ave Unit 7,New York City,New York,10010.0,2200.0,
+519792,for_sale,850000.0,1.0,1.0,,"135 Perry St Apt 7, New York City, NY, 10014",135 Perry St Apt 7,New York City,New York,10014.0,,
+533447,for_sale,663000.0,3.0,3.0,0.08,"550 Mountainview Ave Unit 3, Valley Cottage, NY, 10989",550 Mountainview Ave Unit 3,Valley Cottage,New York,10989.0,2989.0,2003-11-04
+803263,for_sale,639000.0,3.0,1.0,0.06,"70-09 71st St, Glendale, NY, 11385",70-09 71st St,Glendale,New York,11385.0,1200.0,
+750762,for_sale,750000.0,5.0,3.0,0.04,"211 Autumn Ave, Brooklyn, NY, 11208",211 Autumn Ave,Brooklyn,New York,11208.0,2963.0,1995-02-08
+383976,for_sale,159000.0,3.0,1.0,0.38,"6087 Route 22, Millerton, NY, 12546",6087 Route 22,Millerton,New York,12546.0,1656.0,2009-08-03
+782985,for_sale,800000.0,1.0,1.0,,"165 W 66th St Apt 15K, New York, NY, 10023",165 W 66th St Apt 15K,New York,New York,10023.0,,2004-12-07
+744761,for_sale,325000.0,,1.0,,"1160 Third Ave Unit 3C, New York, NY, 10065",1160 Third Ave Unit 3C,New York,New York,10065.0,,2021-05-20
+745325,for_sale,3480000.0,5.0,3.0,0.04,"493 4th Ave, Brooklyn, NY, 11215",493 4th Ave,Brooklyn,New York,11215.0,1856.0,1991-04-26
+844717,for_sale,1259000.0,4.0,3.0,0.09,"87-41 96th St, Woodhaven, NY, 11421",87-41 96th St,Woodhaven,New York,11421.0,,
+839986,for_sale,950000.0,1.0,1.0,,"1991 Broadway Apt 5D, New York, NY, 10023",1991 Broadway Apt 5D,New York,New York,10023.0,637.0,2005-05-27
+844581,for_sale,379000.0,2.0,1.0,,"2465 Palisade Ave Apt 3B, New York City, NY, 10463",2465 Palisade Ave Apt 3B,New York City,New York,10463.0,1019.0,2004-09-24
+813908,for_sale,1750000.0,5.0,3.0,0.04,"267 Withers St, New York City, NY, 11211",267 Withers St,New York City,New York,11211.0,2016.0,2016-03-11
+913692,for_sale,1380000.0,6.0,2.0,0.05,"57-07 84 St, Elmhurst, NY, 11373",57-07 84 St,Elmhurst,New York,11373.0,,
+866542,for_sale,999999.0,2.0,2.0,,"531 Main St Apt 1209, New York, NY, 10044",531 Main St Apt 1209,New York,New York,10044.0,,
+511310,for_sale,5450000.0,3.0,3.0,,"33 Bleecker St Apt 6B, New York, NY, 10012",33 Bleecker St Apt 6B,New York,New York,10012.0,2600.0,
+778548,for_sale,995000.0,8.0,6.0,0.06,"14-11 Pinson St, Far Rockaway, NY, 11691",14-11 Pinson St,Far Rockaway,New York,11691.0,2886.0,2007-06-14
+792271,for_sale,1295000.0,1.0,1.0,,"25 Central Park W Apt 5U, New York, NY, 10023",25 Central Park W Apt 5U,New York,New York,10023.0,,2018-07-12
+867278,for_sale,189000.0,1.0,1.0,,"86-05 60th Rd Unit 1C, Elmhurst, NY, 11373",86-05 60th Rd Unit 1C,Elmhurst,New York,11373.0,400.0,
+528666,for_sale,665000.0,2.0,1.0,,"340 Haven Ave Apt 4B, Manhattan, NY, 10033",340 Haven Ave Apt 4B,Manhattan,New York,10033.0,910.0,2022-02-23
+799003,for_sale,1098888.0,3.0,2.0,0.06,"67-07 Roosevelt Ave, Woodside, NY, 11377",67-07 Roosevelt Ave,Woodside,New York,11377.0,1680.0,2007-08-16
+886898,for_sale,2795000.0,5.0,5.0,,"71 Midwood St, New York City, NY, 11225",71 Midwood St,New York City,New York,11225.0,,2020-07-07
+782688,for_sale,399000.0,2.0,1.0,,"43-10 Kissena Blvd Unit 6M, Flushing, NY, 11355",43-10 Kissena Blvd Unit 6M,Flushing,New York,11355.0,,
+754646,for_sale,999000.0,1.0,1.0,,"23-25 31st Ave Ph 7C, New York, NY, 11106",23-25 31st Ave Ph 7C,New York,New York,11106.0,760.0,2017-11-08
+867903,for_sale,725000.0,3.0,3.0,0.05,"2040 E 72nd St, Brooklyn, NY, 11234",2040 E 72nd St,Brooklyn,New York,11234.0,1036.0,2009-12-28
+785195,for_sale,575000.0,1.0,1.0,,"415 E 85th St Apt 10D, Manhattan, NY, 10028",415 E 85th St Apt 10D,Manhattan,New York,10028.0,,2012-12-07
+920069,for_sale,415000.0,,,3.3,"Chelsea View Lot 4, Newburgh, NY, 12550",Chelsea View Lot 4,Newburgh,New York,12550.0,,
+764789,for_sale,1199000.0,3.0,2.0,0.06,"111-72 43rd Ave, Flushing, NY, 11368",111-72 43rd Ave,Flushing,New York,11368.0,,2003-08-07
+758518,for_sale,799999.0,5.0,3.0,0.05,"132-06 101st St, Ozone Park, NY, 11417",132-06 101st St,Ozone Park,New York,11417.0,2000.0,2008-05-08
+510535,for_sale,4495000.0,5.0,5.0,,"130 E 18th St Unit 14RSTU, New York City, NY, 10003",130 E 18th St Unit 14RSTU,New York City,New York,10003.0,3300.0,
+834804,for_sale,1300000.0,6.0,4.0,0.11,"7820 90th Ave Unit 4, Woodhaven, NY, 11421",7820 90th Ave Unit 4,Woodhaven,New York,11421.0,5000.0,
+851344,for_sale,825000.0,2.0,1.0,,"321 E 12th St Apt 4, New York City, NY, 10003",321 E 12th St Apt 4,New York City,New York,10003.0,,2017-12-04
+916656,for_sale,199000.0,2.0,1.0,,"New York City, NY, 10463",,New York City,New York,10463.0,,
+553713,for_sale,1699000.0,1.0,2.0,,"1 Main St Apt 4F, Brooklyn, NY, 11201",1 Main St Apt 4F,Brooklyn,New York,11201.0,1293.0,2013-12-13
+808901,for_sale,5495000.0,5.0,5.0,0.05,"243 E 48th St, New York City, NY, 10017",243 E 48th St,New York City,New York,10017.0,3850.0,
+782497,for_sale,789000.0,3.0,3.0,0.06,"2266 E 70th St, Brooklyn, NY, 11234",2266 E 70th St,Brooklyn,New York,11234.0,1836.0,1983-11-01
+449085,for_sale,550000.0,5.0,4.0,3.0,"71 Sumner Ln, Pawling, NY, 12564",71 Sumner Ln,Pawling,New York,12564.0,3497.0,1986-08-20
+501682,for_sale,750000.0,3.0,2.0,,"715 Ocean Pkwy Apt 2D, Brooklyn, NY, 11230",715 Ocean Pkwy Apt 2D,Brooklyn,New York,11230.0,,2015-04-07
+854527,for_sale,599000.0,2.0,3.0,,"3113 Clarendon Rd, New York City, NY, 11226",3113 Clarendon Rd,New York City,New York,11226.0,1395.0,2008-01-02
+467573,for_sale,650000.0,,1.0,,"New York City, NY, 10019",,New York City,New York,10019.0,,2012-12-03
+740763,for_sale,795000.0,2.0,1.0,,"951 President St Apt 3R, Brooklyn, NY, 11215",951 President St Apt 3R,Brooklyn,New York,11215.0,,2017-10-18
+489519,for_sale,599000.0,4.0,3.0,0.05,"97-20 84th St, Ozone Park, NY, 11416",97-20 84th St,Ozone Park,New York,11416.0,,2022-03-10
+840647,for_sale,6975000.0,4.0,4.0,,"100 Vandam St Unit 9A, New York, NY, 10013",100 Vandam St Unit 9A,New York,New York,10013.0,2589.0,
+495533,for_sale,1725000.0,3.0,2.0,,"500 4th Ave Apt 12C, New York City, NY, 11215",500 4th Ave Apt 12C,New York City,New York,11215.0,1457.0,2010-09-03
+850425,for_sale,2399500.0,2.0,3.0,,"401 E 60th St Apt 14D, New York, NY, 10022",401 E 60th St Apt 14D,New York,New York,10022.0,1562.0,2008-07-22
+886421,for_sale,650000.0,1.0,2.0,,"425 E 78th St Apt 6G, New York, NY, 10075",425 E 78th St Apt 6G,New York,New York,10075.0,,2015-07-23
+840482,for_sale,1150000.0,2.0,2.0,,"45 Plaza St W Apt 6D, New York City, NY, 11217",45 Plaza St W Apt 6D,New York City,New York,11217.0,,
+807176,for_sale,369000.0,2.0,2.0,,"33-45 92nd St Unit 3J, Queens, NY, 11372",33-45 92nd St Unit 3J,Queens,New York,11372.0,,
+888190,for_sale,746000.0,,1.0,,"401 E 60th St Apt 6N, New York, NY, 10022",401 E 60th St Apt 6N,New York,New York,10022.0,,
+505462,for_sale,1500000.0,1.0,1.0,,"252 7th Ave Apt 4L, New York City, NY, 10001",252 7th Ave Apt 4L,New York City,New York,10001.0,980.0,2012-06-05
+917893,for_sale,650000.0,4.0,3.0,0.21,"134 Mitchell Rd, Somers, NY, 10589",134 Mitchell Rd,Somers,New York,10589.0,2675.0,1987-04-10
+904470,for_sale,1299999.0,4.0,3.0,0.1,"945 Ionia Ave, Staten Island, NY, 10309",945 Ionia Ave,Staten Island,New York,10309.0,2538.0,
+821208,for_sale,355000.0,1.0,1.0,,"39-65 52nd St Unit 2G, Woodside, NY, 11377",39-65 52nd St Unit 2G,Woodside,New York,11377.0,,
+913544,for_sale,638000.0,4.0,3.0,,"103-02 42 Ave Unit 1C, Corona, NY, 11368",103-02 42 Ave Unit 1C,Corona,New York,11368.0,1463.0,2011-09-14
+734563,for_sale,1600000.0,1.0,1.0,,"15 E 30th St Apt 25A, New York, NY, 10016",15 E 30th St Apt 25A,New York,New York,10016.0,938.0,
+800937,for_sale,819000.0,3.0,3.0,0.05,"215-25 Murdock Ave, Queens Village, NY, 11429",215-25 Murdock Ave,Queens Village,New York,11429.0,1554.0,2019-05-07
+887900,for_sale,258000.0,1.0,1.0,,"3215 Avenue H Unit 10H, Flatbush, NY, 11226",3215 Avenue H Unit 10H,Flatbush,New York,11226.0,,
+754854,for_sale,3195000.0,2.0,3.0,,"140 E 63rd St Apt 16B, New York, NY, 10065",140 E 63rd St Apt 16B,New York,New York,10065.0,1556.0,2010-09-29
+845324,for_sale,1150000.0,2.0,1.0,0.65,"140 Warren St Apt 4C, New York City, NY, 11201",140 Warren St Apt 4C,New York City,New York,11201.0,,2018-10-04
+544799,for_sale,450000.0,,1.0,,"305 E 40th St Apt 3V, New York, NY, 10016",305 E 40th St Apt 3V,New York,New York,10016.0,475.0,2015-03-26
+491283,for_sale,435000.0,1.0,1.0,,"221 E 18th St Apt 1C, Brooklyn, NY, 11226",221 E 18th St Apt 1C,Brooklyn,New York,11226.0,,2015-11-27
+818344,for_sale,999000.0,6.0,2.0,0.05,"76-33 85th Dr, Woodhaven, NY, 11421",76-33 85th Dr,Woodhaven,New York,11421.0,2292.0,1995-01-11
+460535,for_sale,895000.0,,,43.46,"Route 7, Copake, NY, 12516",Route 7,Copake,New York,12516.0,,
+822405,for_sale,425000.0,2.0,1.0,,"216-36 68 Ave Unit Duplex, Bayside, NY, 11364",216-36 68 Ave Unit Duplex,Bayside,New York,11364.0,,
+554126,for_sale,2300000.0,3.0,4.0,0.03,"291 22nd St, New York City, NY, 11215",291 22nd St,New York City,New York,11215.0,1964.0,2019-04-10
+785167,for_sale,550000.0,1.0,1.0,,"333 E 43rd St Apt 911, New York, NY, 10017",333 E 43rd St Apt 911,New York,New York,10017.0,,2018-02-23
+554792,for_sale,529000.0,2.0,2.0,,"77-34 113th St Unit 4F, Forest Hills, NY, 11375",77-34 113th St Unit 4F,Forest Hills,New York,11375.0,,2010-06-25
+807845,for_sale,895000.0,2.0,2.0,,"1831 Madison Ave Apt 9E, New York, NY, 10035",1831 Madison Ave Apt 9E,New York,New York,10035.0,,2018-01-08
+781136,for_sale,1150000.0,4.0,3.0,0.15,"773 Daniel St, Valley Stream, NY, 11581",773 Daniel St,Valley Stream,New York,11581.0,,2018-09-25
+759930,for_sale,680000.0,2.0,2.0,,"41-33 Parsons Blvd Unit 3B, Flushing, NY, 11355",41-33 Parsons Blvd Unit 3B,Flushing,New York,11355.0,1088.0,
+499307,for_sale,2675000.0,3.0,2.0,,"130 Fulton St Apt 10B, New York City, NY, 10038",130 Fulton St Apt 10B,New York City,New York,10038.0,2280.0,2008-06-26
+803570,for_sale,749000.0,,1.0,,"220 Riverside Blvd Apt 9W, New York City, NY, 10069",220 Riverside Blvd Apt 9W,New York City,New York,10069.0,,2007-10-30
+836680,for_sale,1875000.0,8.0,4.0,0.06,"125 N Linden St, Brooklyn, NY, 11221",125 N Linden St,Brooklyn,New York,11221.0,3500.0,2002-03-04
+838391,for_sale,598888.0,1.0,1.0,,"25-87 37th St Unit 2C, Long Island City, NY, 11103",25-87 37th St Unit 2C,Long Island City,New York,11103.0,636.0,2017-11-03
+776685,for_sale,6250000.0,3.0,4.0,,"30 Front St Unit 25B, Brooklyn, NY, 11201",30 Front St Unit 25B,Brooklyn,New York,11201.0,2690.0,
+824312,for_sale,1480000.0,2.0,2.0,,"155 15th St Apt 3A, Brooklyn, NY, 11215",155 15th St Apt 3A,Brooklyn,New York,11215.0,1180.0,2013-02-25
+832006,for_sale,1649000.0,6.0,5.0,0.13,"84-04 Sutter Ave, Ozone Park, NY, 11417",84-04 Sutter Ave,Ozone Park,New York,11417.0,,2013-05-31
+736265,for_sale,1488000.0,4.0,3.0,0.54,"23-25 21 St, Astoria, NY, 11105",23-25 21 St,Astoria,New York,11105.0,,2011-01-07
+741410,for_sale,5995000.0,3.0,3.0,,"551 W 21st St Apt 7C, New York, NY, 10011",551 W 21st St Apt 7C,New York,New York,10011.0,3016.0,2021-10-07
+522991,for_sale,1395000.0,2.0,2.0,,"49 E 96th St Unit 4A, New York City, NY, 10128",49 E 96th St Unit 4A,New York City,New York,10128.0,,
+569613,for_sale,775000.0,,1.0,,"393 W 49th St Unit 1E, New York, NY, 10019",393 W 49th St Unit 1E,New York,New York,10019.0,632.0,
+740540,for_sale,648000.0,2.0,1.0,,"82-01 Britton Ave Unit 2P, Elmhurst, NY, 11373",82-01 Britton Ave Unit 2P,Elmhurst,New York,11373.0,950.0,2006-06-20
+529280,for_sale,320000.0,,1.0,,"301 E 63rd St Apt 5C, New York, NY, 10065",301 E 63rd St Apt 5C,New York,New York,10065.0,475.0,2016-11-29
+513129,for_sale,1680000.0,3.0,3.0,0.09,"57-06 146 St, Flushing, NY, 11355",57-06 146 St,Flushing,New York,11355.0,,2015-09-17
+785188,for_sale,289000.0,1.0,1.0,,"27110 Grand Central Pkwy Apt 3T, Floral Park, NY, 11005",27110 Grand Central Pkwy Apt 3T,Floral Park,New York,11005.0,830.0,2018-11-09
+750690,for_sale,599000.0,1.0,1.0,,"95 Quincy St Unit 4R, Brooklyn, NY, 11238",95 Quincy St Unit 4R,Brooklyn,New York,11238.0,476.0,
+792518,for_sale,535000.0,2.0,1.0,0.04,"89-42 Desarc Rd, Ozone Park, NY, 11417",89-42 Desarc Rd,Ozone Park,New York,11417.0,1000.0,2007-01-18
+540926,for_sale,3000000.0,3.0,3.0,,"11 Hoyt St Apt 38F, New York City, NY, 11201",11 Hoyt St Apt 38F,New York City,New York,11201.0,1743.0,
+833989,for_sale,3500000.0,3.0,3.0,,"325 W End Ave Apt 2C, New York City, NY, 10023",325 W End Ave Apt 2C,New York City,New York,10023.0,,2016-02-09
+563435,for_sale,469000.0,3.0,2.0,,"4555 Henry Hudson Pkwy W Unit AG3, Bronx, NY, 10471",4555 Henry Hudson Pkwy W Unit AG3,Bronx,New York,10471.0,1313.0,2017-06-07
+496909,for_sale,499000.0,2.0,2.0,0.03,"101 Richmond Hill Rd Unit Townhouse, New York City, NY, 10314",101 Richmond Hill Rd Unit Townhouse,New York City,New York,10314.0,1350.0,
+521176,for_sale,1845000.0,2.0,2.0,,"230 W 78th St Apt 2B, New York, NY, 10024",230 W 78th St Apt 2B,New York,New York,10024.0,1227.0,2011-12-02
+530003,for_sale,2295000.0,4.0,5.0,,"425 E 58th St Apt 4H, New York, NY, 10022",425 E 58th St Apt 4H,New York,New York,10022.0,2900.0,2005-08-01
+808715,for_sale,440000.0,1.0,1.0,,"40 Tehama St Apt 4L, Brooklyn, NY, 11218",40 Tehama St Apt 4L,Brooklyn,New York,11218.0,,2014-09-12
+486457,for_sale,499000.0,,1.0,,"170 W End Ave Apt 19C, New York City, NY, 10023",170 W End Ave Apt 19C,New York City,New York,10023.0,,
+571662,for_sale,399999.0,3.0,2.0,,"60 White Oak St Units 1G & 1H, New Rochelle, NY, 10801",60 White Oak St Units 1G & 1H,New Rochelle,New York,10801.0,1800.0,
+535985,for_sale,1395000.0,2.0,3.0,,"250 S End Ave Apt 7B, New York, NY, 10280",250 S End Ave Apt 7B,New York,New York,10280.0,1175.0,2015-02-13
+557461,for_sale,1199000.0,1.0,1.0,,"121 E 23rd St Apt 20C, New York City, NY, 10010",121 E 23rd St Apt 20C,New York City,New York,10010.0,724.0,2016-07-01
+879473,for_sale,4950000.0,3.0,3.0,,"129 E 69th St Apt 10B, New York City, NY, 10021",129 E 69th St Apt 10B,New York City,New York,10021.0,,2018-02-05
+833997,for_sale,4190000.0,2.0,3.0,,"400 Park Ave S Apt 31C, New York City, NY, 10016",400 Park Ave S Apt 31C,New York City,New York,10016.0,1715.0,
+910954,for_sale,239000.0,1.0,1.0,,"524 W 152nd St Apt 1, New York, NY, 10031",524 W 152nd St Apt 1,New York,New York,10031.0,500.0,
+501059,for_sale,2600000.0,,,,"127 Park Pl, Brooklyn, NY, 11217",127 Park Pl,Brooklyn,New York,11217.0,,2017-06-16
+522247,for_sale,400000.0,2.0,1.0,,"1775 Madison Ave Unit 5AD, New York City, NY, 10035",1775 Madison Ave Unit 5AD,New York City,New York,10035.0,600.0,
+565508,for_sale,659000.0,1.0,1.0,,"214 Riverside Dr Apt 613, New York City, NY, 10025",214 Riverside Dr Apt 613,New York City,New York,10025.0,,2022-02-02
+555939,for_sale,869000.0,6.0,3.0,0.04,"483 Jersey St, Staten Island, NY, 10301",483 Jersey St,Staten Island,New York,10301.0,3078.0,2016-10-18
+530166,for_sale,1390000.0,5.0,3.0,0.03,"20-45 31st St, Astoria, NY, 11105",20-45 31st St,Astoria,New York,11105.0,1728.0,2007-12-24
+789493,for_sale,340000.0,2.0,1.0,,"209-15 18 Ave Unit 6K, Bayside, NY, 11360",209-15 18 Ave Unit 6K,Bayside,New York,11360.0,1025.0,
+769226,for_sale,278000.0,1.0,1.0,,"90-11 35th Ave Unit 3A, Jackson Heights, NY, 11372",90-11 35th Ave Unit 3A,Jackson Heights,New York,11372.0,700.0,2017-07-11
+788267,for_sale,650000.0,2.0,1.0,0.45,"330 W 145th St Apt 309, New York City, NY, 10039",330 W 145th St Apt 309,New York City,New York,10039.0,,2012-01-03
+483559,for_sale,600000.0,,1.0,0.73,"7 E 14th St Apt 804, New York City, NY, 10003",7 E 14th St Apt 804,New York City,New York,10003.0,,2017-05-04
+563916,for_sale,495000.0,1.0,1.0,,"105 E 38th St Apt 1B, New York City, NY, 10016",105 E 38th St Apt 1B,New York City,New York,10016.0,,2012-09-13
+837048,for_sale,209000.0,,1.0,,"37-51 86 St Unit 6F, Jackson Heights, NY, 11372",37-51 86 St Unit 6F,Jackson Heights,New York,11372.0,450.0,2004-08-18
+917520,for_sale,70000.0,,,9.54,"468 Route 301, Cold Spring, NY, 10516",468 Route 301,Cold Spring,New York,10516.0,,
+558767,for_sale,3250000.0,2.0,2.0,,"135 W 4th St Apt 2W, New York City, NY, 10012",135 W 4th St Apt 2W,New York City,New York,10012.0,1807.0,
+500786,for_sale,1200000.0,5.0,5.0,0.14,"140 Hawley Ave, Staten Island, NY, 10312",140 Hawley Ave,Staten Island,New York,10312.0,2724.0,2007-04-24
+767787,for_sale,1179000.0,2.0,2.0,,"100 Congress St Apt 401, New York City, NY, 11201",100 Congress St Apt 401,New York City,New York,11201.0,965.0,2016-04-29
+764262,for_sale,1258000.0,3.0,2.0,0.09,"149-19 46th Ave, Flushing, NY, 11355",149-19 46th Ave,Flushing,New York,11355.0,2648.0,2012-01-09
+358556,for_sale,179000.0,4.0,3.0,0.43,"196 Lake St, Rouses Point, NY, 12979",196 Lake St,Rouses Point,New York,12979.0,2675.0,2017-02-28
+527886,for_sale,2150000.0,1.0,1.0,,"299 W 12th St Apt 3K, New York, NY, 10014",299 W 12th St Apt 3K,New York,New York,10014.0,867.0,2014-09-10
+355466,for_sale,255000.0,,,3.88,"N Bowl Ln, Plattsburgh, NY, 12901",N Bowl Ln,Plattsburgh,New York,12901.0,,
+795585,for_sale,869000.0,4.0,4.0,0.08,"29 Ashford St, Brooklyn, NY, 11207",29 Ashford St,Brooklyn,New York,11207.0,2047.0,1984-02-01
+744283,for_sale,1050000.0,2.0,1.0,,"140 W 71st St Unit 8BC, New York, NY, 10023",140 W 71st St Unit 8BC,New York,New York,10023.0,,
+818750,for_sale,720000.0,,1.0,,"450 E 83rd St Apt 2F, New York, NY, 10028",450 E 83rd St Apt 2F,New York,New York,10028.0,626.0,2010-07-09
+857433,for_sale,2500000.0,3.0,3.0,,"300 Riverside Dr Apt 14A, New York, NY, 10025",300 Riverside Dr Apt 14A,New York,New York,10025.0,,
+886944,for_sale,785000.0,1.0,1.0,0.06,"362 W 127th St Apt 5A, New York City, NY, 10027",362 W 127th St Apt 5A,New York City,New York,10027.0,809.0,2017-10-10
+886079,for_sale,139900.0,,1.0,,"2962 Decatur Ave Apt 5J, Bronx, NY, 10458",2962 Decatur Ave Apt 5J,Bronx,New York,10458.0,500.0,
+811096,for_sale,949000.0,6.0,4.0,0.05,"104-11 89th Ave, Richmond Hill, NY, 11418",104-11 89th Ave,Richmond Hill,New York,11418.0,,2010-11-08
+778389,for_sale,2249000.0,1.0,1.0,,"45 Christopher St Apt 12G, New York, NY, 10014",45 Christopher St Apt 12G,New York,New York,10014.0,,1999-07-26
+877922,for_sale,629000.0,,1.0,,"148 E 24th St Apt 3B, New York City, NY, 10010",148 E 24th St Apt 3B,New York City,New York,10010.0,,2012-08-29
+887941,for_sale,749000.0,6.0,3.0,0.09,"769 E 236th St, Bronx, NY, 10466",769 E 236th St,Bronx,New York,10466.0,2096.0,2003-08-13
+550284,for_sale,5950000.0,,,,"31 Morton St, New York, NY, 10014",31 Morton St,New York,New York,10014.0,,2016-03-21
+901293,for_sale,599000.0,,1.0,,"101 W 12th St Apt 12Z, New York, NY, 10011",101 W 12th St Apt 12Z,New York,New York,10011.0,,2013-05-03
+881491,for_sale,339000.0,2.0,1.0,,"117-14 Union Tpke Unit DA1, Kew Gardens, NY, 11415",117-14 Union Tpke Unit DA1,Kew Gardens,New York,11415.0,1250.0,2013-11-27
+740342,for_sale,649000.0,4.0,2.0,0.05,"115-36 217th St, Cambria Heights, NY, 11411",115-36 217th St,Cambria Heights,New York,11411.0,,2022-02-08
+913966,for_sale,1800000.0,8.0,5.0,0.11,"3-24 127th St, College Point, NY, 11356",3-24 127th St,College Point,New York,11356.0,,1987-10-26
+800348,for_sale,1885000.0,2.0,2.0,0.49,"1 City Pt Apt 15F, New York City, NY, 11201",1 City Pt Apt 15F,New York City,New York,11201.0,1185.0,
+567797,for_sale,989000.0,8.0,6.0,0.03,"463 E 181st St, Bronx, NY, 10457",463 E 181st St,Bronx,New York,10457.0,2779.0,2018-05-22
+747125,for_sale,3300000.0,2.0,3.0,0.06,"251 W 91st St Unit 19B, New York City, NY, 10024",251 W 91st St Unit 19B,New York City,New York,10024.0,1477.0,
+568477,for_sale,360000.0,1.0,1.0,,"50 Columbus Ave Apt 316, Tuckahoe, NY, 10707",50 Columbus Ave Apt 316,Tuckahoe,New York,10707.0,750.0,2018-02-26
+753341,for_sale,1995000.0,1.0,2.0,,"108 Leonard St Apt 11K, New York, NY, 10013",108 Leonard St Apt 11K,New York,New York,10013.0,945.0,2020-06-05
+862147,for_sale,875000.0,4.0,3.0,0.06,"99-11 98th St, Ozone Park, NY, 11417",99-11 98th St,Ozone Park,New York,11417.0,,
+867105,for_sale,3500000.0,2.0,3.0,,"100 Barclay St Apt 15L, New York, NY, 10007",100 Barclay St Apt 15L,New York,New York,10007.0,1613.0,
+356186,for_sale,1295000.0,4.0,6.0,1.8,"219 Farrell Rd, Willsboro, NY, 12996",219 Farrell Rd,Willsboro,New York,12996.0,7639.0,2010-06-25
+784124,for_sale,1575000.0,2.0,2.0,0.21,"27-21 44th Dr Unit 205, New York City, NY, 11101",27-21 44th Dr Unit 205,New York City,New York,11101.0,996.0,2017-11-01
+795169,for_sale,12700000.0,6.0,4.0,,"127 62nd St, New York, NY, 10065",127 62nd St,New York,New York,10065.0,,
+781114,for_sale,789000.0,1.0,1.0,,"320 Riverside Dr Unit 1D, Manhattan, NY, 10025",320 Riverside Dr Unit 1D,Manhattan,New York,10025.0,800.0,2016-08-30
+448208,for_sale,632200.0,,,31.61,"Skunks Misery Rd, Millerton, NY, 12546",Skunks Misery Rd,Millerton,New York,12546.0,,
+227868,for_sale,1950000.0,,,2.37,"148 Tuthill Rd, Montauk, NY, 11954",148 Tuthill Rd,Montauk,New York,11954.0,,2008-01-23
+746030,for_sale,338000.0,2.0,1.0,,"75-10 Yellowstone Blvd Unit 6F, Rego Park, NY, 11374",75-10 Yellowstone Blvd Unit 6F,Rego Park,New York,11374.0,925.0,2004-10-25
+762970,for_sale,7995000.0,4.0,5.0,,"300 Central Park W Apt 22D, New York, NY, 10024",300 Central Park W Apt 22D,New York,New York,10024.0,,
+821664,for_sale,699000.0,2.0,3.0,,"1 Kensington Gate Apt 210, Great Neck, NY, 11021",1 Kensington Gate Apt 210,Great Neck,New York,11021.0,,
+825007,for_sale,348000.0,2.0,2.0,,"33-45 92nd St Unit 3J, Queens, NY, 11372",33-45 92nd St Unit 3J,Queens,New York,11372.0,,
+849050,for_sale,999000.0,4.0,2.0,0.05,"1823 Avenue X, Brooklyn, NY, 11235",1823 Avenue X,Brooklyn,New York,11235.0,2180.0,
+556692,for_sale,459000.0,,1.0,,"304 W 75th St Apt 11F, New York, NY, 10023",304 W 75th St Apt 11F,New York,New York,10023.0,,
+732302,for_sale,2520000.0,2.0,3.0,,"202 Broome St Unit 12B, New York City, NY, 10002",202 Broome St Unit 12B,New York City,New York,10002.0,1244.0,
+490137,for_sale,559000.0,2.0,2.0,,"65-60 Wetherole St Unit 4G, Rego Park, NY, 11374",65-60 Wetherole St Unit 4G,Rego Park,New York,11374.0,,2005-10-25
+579316,for_sale,729000.0,3.0,2.0,,"2357 E 19th St Apt 1, Brooklyn, NY, 11229",2357 E 19th St Apt 1,Brooklyn,New York,11229.0,1700.0,2015-05-11
+870620,for_sale,2395000.0,,,,"406 E 119th St, New York, NY, 10035",406 E 119th St,New York,New York,10035.0,9342.0,
+500155,for_sale,380000.0,1.0,1.0,,"7101 Colonial Rd Apt R1E, Brooklyn, NY, 11209",7101 Colonial Rd Apt R1E,Brooklyn,New York,11209.0,855.0,2017-03-14
+835937,for_sale,785000.0,,4.0,0.04,"1075 Barbey St, Brooklyn, NY, 11207",1075 Barbey St,Brooklyn,New York,11207.0,,
+737502,for_sale,725000.0,2.0,3.0,,"457 W 57th St Unit 810, Manhattan, NY, 10019",457 W 57th St Unit 810,Manhattan,New York,10019.0,,
+778428,for_sale,2609200.0,3.0,3.0,,"20 River Ter Apt 5M, New York City, NY, 10282",20 River Ter Apt 5M,New York City,New York,10282.0,1621.0,
+749620,for_sale,1395000.0,2.0,2.0,,"440 Kent Ave Apt 6D, Brooklyn, NY, 11249",440 Kent Ave Apt 6D,Brooklyn,New York,11249.0,1222.0,2013-12-19
+527686,for_sale,355000.0,2.0,1.0,,"3210 Arlington Ave Apt 3J, Bronx, NY, 10463",3210 Arlington Ave Apt 3J,Bronx,New York,10463.0,950.0,
+852810,for_sale,515000.0,3.0,2.0,,"117-14 Union Tpke Unit EF1, Kew Gardens, NY, 11415",117-14 Union Tpke Unit EF1,Kew Gardens,New York,11415.0,1250.0,2016-06-20
+563755,for_sale,535000.0,,1.0,,"100 Beekman St Apt 2A, New York, NY, 10038",100 Beekman St Apt 2A,New York,New York,10038.0,500.0,
+904302,for_sale,1049000.0,,3.0,0.04,"119 Bay 41st St, Brooklyn, NY, 11214",119 Bay 41st St,Brooklyn,New York,11214.0,1540.0,2011-01-28
+806897,for_sale,1690000.0,6.0,4.0,0.09,"133-22 233rd St, Jamaica, NY, 11422",133-22 233rd St,Jamaica,New York,11422.0,,2004-10-19
+511089,for_sale,1129000.0,3.0,2.0,,"514 E 82nd St Apt 1R, New York, NY, 10028",514 E 82nd St Apt 1R,New York,New York,10028.0,,
+532191,for_sale,940000.0,2.0,2.0,0.12,"57 Clubhouse Rd, Tuxedo Park, NY, 10987",57 Clubhouse Rd,Tuxedo Park,New York,10987.0,2192.0,2021-02-18
+533046,for_sale,768000.0,4.0,4.0,1.2,"66 Murray Dr, Chester, NY, 10918",66 Murray Dr,Chester,New York,10918.0,5084.0,2021-06-24
+579813,for_sale,389000.0,2.0,1.0,,"2928 W 5th St Apt 3E, Brooklyn, NY, 11224",2928 W 5th St Apt 3E,Brooklyn,New York,11224.0,900.0,2014-07-08
+803427,for_sale,3350000.0,6.0,8.0,,"238 E 60th St, New York City, NY, 10022",238 E 60th St,New York City,New York,10022.0,4780.0,
+486328,for_sale,545000.0,,1.0,,"235 E 40th St Apt 27I, New York, NY, 10016",235 E 40th St Apt 27I,New York,New York,10016.0,391.0,1987-02-19
+476951,for_sale,3380000.0,3.0,4.0,,"309 Carroll St, New York City, NY, 11231",309 Carroll St,New York City,New York,11231.0,2000.0,2005-07-20
+814408,for_sale,289000.0,2.0,1.0,,"1554 Unionport Rd Unit Terrace, Bronx, NY, 10462",1554 Unionport Rd Unit Terrace,Bronx,New York,10462.0,800.0,2000-03-10
+886541,for_sale,639000.0,3.0,2.0,0.05,"653 E 53rd St, Brooklyn, NY, 11203",653 E 53rd St,Brooklyn,New York,11203.0,,
+766658,for_sale,2695000.0,3.0,3.0,,"272 W 107th St Apt 7A, New York, NY, 10025",272 W 107th St Apt 7A,New York,New York,10025.0,1777.0,2010-07-21
+782137,for_sale,1338000.0,3.0,3.0,,"978 77th St, New York City, NY, 11228",978 77th St,New York City,New York,11228.0,,2013-02-13
+804094,for_sale,429000.0,1.0,1.0,,"18-05 215th St Unit 2K, Bayside, NY, 11360",18-05 215th St Unit 2K,Bayside,New York,11360.0,,2019-05-06
+814723,for_sale,595999.0,3.0,2.0,0.04,"21 Giordan Ct, Staten Island, NY, 10303",21 Giordan Ct,Staten Island,New York,10303.0,1716.0,2005-02-22
+785190,for_sale,1299000.0,3.0,3.0,0.03,"20-44 33rd St, Long Island City, NY, 11105",20-44 33rd St,Long Island City,New York,11105.0,,
+554057,for_sale,420000.0,2.0,2.0,,"8703 Bedell Ln Unit 603, Brooklyn, NY, 11236",8703 Bedell Ln Unit 603,Brooklyn,New York,11236.0,1040.0,2005-08-05
+915453,for_sale,1574900.0,4.0,5.0,,"6015 Independence Ave, Bronx, NY, 10471",6015 Independence Ave,Bronx,New York,10471.0,2244.0,2004-07-05
+487097,for_sale,850000.0,1.0,1.0,,"407 Park Ave S Apt 12E, New York, NY, 10016",407 Park Ave S Apt 12E,New York,New York,10016.0,725.0,2005-10-12
+529573,for_sale,950000.0,1.0,1.0,,"1991 Broadway Apt 5D, New York, NY, 10023",1991 Broadway Apt 5D,New York,New York,10023.0,637.0,2005-05-27
+465544,for_sale,850000.0,1.0,1.0,0.47,"345 E 81st St Apt 2N, New York City, NY, 10028",345 E 81st St Apt 2N,New York City,New York,10028.0,,
+784209,for_sale,750000.0,,1.0,,"550 Vanderbilt Ave Apt 712, Brooklyn, NY, 11238",550 Vanderbilt Ave Apt 712,Brooklyn,New York,11238.0,,
+909872,for_sale,1150000.0,2.0,3.0,,"5 Renaissance Sq Apt 15E, White Plains, NY, 10601",5 Renaissance Sq Apt 15E,White Plains,New York,10601.0,1734.0,
+878062,for_sale,1600000.0,8.0,3.0,0.09,"771 Westminster Rd, Brooklyn, NY, 11230",771 Westminster Rd,Brooklyn,New York,11230.0,3623.0,
+866023,for_sale,749000.0,3.0,2.0,,"1725 Stillwell Ave Apt C, Brooklyn, NY, 11223",1725 Stillwell Ave Apt C,Brooklyn,New York,11223.0,1039.0,2012-07-19
+833795,for_sale,2575000.0,2.0,3.0,,"150 W 56th St Apt 4303, New York, NY, 10019",150 W 56th St Apt 4303,New York,New York,10019.0,1148.0,2017-05-22
+896048,for_sale,1499000.0,4.0,4.0,0.17,"1 Carolina Rd, Little Neck, NY, 11362",1 Carolina Rd,Little Neck,New York,11362.0,,2015-03-12
+520888,for_sale,115000.0,,1.0,,"2630 Kingsbridge Ter Apt 4Q, Bronx, NY, 10463",2630 Kingsbridge Ter Apt 4Q,Bronx,New York,10463.0,500.0,2005-12-14
+872848,for_sale,775000.0,1.0,1.0,,"400 E 90th St Apt 18B, New York City, NY, 10128",400 E 90th St Apt 18B,New York City,New York,10128.0,589.0,2013-12-05
+553314,for_sale,775000.0,3.0,3.0,0.05,"1098 E 43rd St, Crown Heights, NY, 11213",1098 E 43rd St,Crown Heights,New York,11213.0,,
+823114,for_sale,1199000.0,6.0,5.0,0.05,"1813 Madison St, Flushing, NY, 11385",1813 Madison St,Flushing,New York,11385.0,3000.0,1998-01-29
+519877,for_sale,925000.0,1.0,1.0,,"270 W 124th St Apt 12A, New York, NY, 10027",270 W 124th St Apt 12A,New York,New York,10027.0,803.0,2011-12-21
+803797,for_sale,375000.0,1.0,1.0,,"17-85 215th St Unit 3J, Bayside, NY, 11360",17-85 215th St Unit 3J,Bayside,New York,11360.0,,
+573138,for_sale,175000.0,1.0,1.0,,"7 Fordham Hill Oval Apt 2A, Bronx, NY, 10468",7 Fordham Hill Oval Apt 2A,Bronx,New York,10468.0,950.0,2015-12-21
+801756,for_sale,949000.0,4.0,2.0,0.07,"22-57 92 St, East Elmhurst, NY, 11369",22-57 92 St,East Elmhurst,New York,11369.0,,1987-12-23
+898558,for_sale,2995000.0,2.0,2.0,,"254 Park Ave S Ph P, New York, NY, 10010",254 Park Ave S Ph P,New York,New York,10010.0,1673.0,
+761763,for_sale,725000.0,,1.0,,"99 Bank St Apt 5S, New York, NY, 10014",99 Bank St Apt 5S,New York,New York,10014.0,,2021-01-06
+542534,for_sale,718000.0,3.0,3.0,0.11,"546 Mountainview Ave Unit 1, Valley Cottage, NY, 10989",546 Mountainview Ave Unit 1,Valley Cottage,New York,10989.0,3044.0,2003-11-04
+787698,for_sale,2725000.0,4.0,4.0,0.04,"144 16th St, New York City, NY, 11215",144 16th St,New York City,New York,11215.0,1892.0,2012-06-21
+898814,for_sale,1750000.0,1.0,2.0,0.23,"155 W 18th St Apt 703, New York City, NY, 10011",155 W 18th St Apt 703,New York City,New York,10011.0,697.0,2016-10-25
+891372,for_sale,648888.0,3.0,3.0,0.04,"1003 Rensselaer Ave, Staten Island, NY, 10309",1003 Rensselaer Ave,Staten Island,New York,10309.0,1496.0,1991-12-31
+741736,for_sale,599000.0,,1.0,,"77 W 55th St Apt 5D, New York City, NY, 10019",77 W 55th St Apt 5D,New York City,New York,10019.0,600.0,1990-02-22
+742853,for_sale,515000.0,2.0,1.0,,"319 E 105th St Apt 3D, New York, NY, 10029",319 E 105th St Apt 3D,New York,New York,10029.0,721.0,2016-04-07
+490647,for_sale,9595000.0,3.0,4.0,,"30 Riverside Blvd Apt 37F, New York, NY, 10069",30 Riverside Blvd Apt 37F,New York,New York,10069.0,2895.0,
+510165,for_sale,2698000.0,3.0,3.0,0.2,"110-24 69th Rd, Forest Hills, NY, 11375",110-24 69th Rd,Forest Hills,New York,11375.0,,2019-11-15
+526465,for_sale,949999.0,7.0,4.0,,"82 Bellevue Pl, Yonkers, NY, 10703",82 Bellevue Pl,Yonkers,New York,10703.0,4036.0,
+751047,for_sale,1700000.0,3.0,2.0,,"5-49 Borden Ave Unit 12K, New York City, NY, 11101",5-49 Borden Ave Unit 12K,New York City,New York,11101.0,,2016-03-09
+526968,for_sale,1250000.0,2.0,1.0,,"522 W End Ave Apt 1C, New York, NY, 10024",522 W End Ave Apt 1C,New York,New York,10024.0,,2015-05-21
+829395,for_sale,399000.0,2.0,1.0,,"99-31 64 Ave Unit E10, Rego Park, NY, 11374",99-31 64 Ave Unit E10,Rego Park,New York,11374.0,,
+551977,for_sale,738000.0,1.0,1.0,,"117 Kingsland Ave Apt 3C, Brooklyn, NY, 11222",117 Kingsland Ave Apt 3C,Brooklyn,New York,11222.0,660.0,2013-03-22
+560016,for_sale,600000.0,1.0,1.0,,"429 W 24th St Apt 2A, New York, NY, 10011",429 W 24th St Apt 2A,New York,New York,10011.0,650.0,2007-10-31
+716977,for_sale,499000.0,3.0,2.0,,"25 Irving Pl, Staten Island, NY, 10304",25 Irving Pl,Staten Island,New York,10304.0,1440.0,2003-02-28
+776241,for_sale,3199000.0,3.0,3.0,,"29 W 15th St Apt 7, New York, NY, 10011",29 W 15th St Apt 7,New York,New York,10011.0,,2007-10-01
+540929,for_sale,299000.0,3.0,2.0,,"480 Riverdale Ave Apt 7L, Yonkers, NY, 10705",480 Riverdale Ave Apt 7L,Yonkers,New York,10705.0,1250.0,
+790006,for_sale,1165000.0,2.0,2.0,,"50 Lexington Ave Apt 6C, New York City, NY, 10010",50 Lexington Ave Apt 6C,New York City,New York,10010.0,,2017-08-16
+501227,for_sale,3750000.0,5.0,4.0,0.04,"903 Union St, New York City, NY, 11215",903 Union St,New York City,New York,11215.0,3800.0,1994-08-05
+824967,for_sale,189000.0,,1.0,,"74-45 Yellowstone Blvd Unit 1A, Rego Park, NY, 11374",74-45 Yellowstone Blvd Unit 1A,Rego Park,New York,11374.0,550.0,
+771274,for_sale,339000.0,1.0,1.0,,"62-64 Saunders St Unit 4F, Rego Park, NY, 11374",62-64 Saunders St Unit 4F,Rego Park,New York,11374.0,,2009-09-23
+527121,for_sale,450000.0,2.0,2.0,,"2550 Independence Ave Apt 2J, Bronx, NY, 10463",2550 Independence Ave Apt 2J,Bronx,New York,10463.0,1050.0,
+853034,for_sale,725000.0,1.0,1.0,,"225 E 57th St Apt 9L, New York, NY, 10022",225 E 57th St Apt 9L,New York,New York,10022.0,,2020-06-10
+911618,for_sale,999000.0,,2.0,,"1165 Park Ave Unit 1C, New York, NY, 10128",1165 Park Ave Unit 1C,New York,New York,10128.0,1100.0,
+916632,for_sale,350000.0,2.0,1.0,,"New York City, NY, 10463",,New York City,New York,10463.0,,
+815881,for_sale,949000.0,2.0,1.0,,"504 Grand St Apt H13, New York City, NY, 10002",504 Grand St Apt H13,New York City,New York,10002.0,,2006-08-07
+850895,for_sale,289000.0,1.0,1.0,,"61-40 Saunders St Unit A5, Rego Park, NY, 11374",61-40 Saunders St Unit A5,Rego Park,New York,11374.0,,2007-07-20
+551907,for_sale,575000.0,1.0,1.0,,"223 Howard Ave Unit 3A, Brooklyn, NY, 11233",223 Howard Ave Unit 3A,Brooklyn,New York,11233.0,,
+558584,for_sale,599000.0,3.0,3.0,,"4032 Bronxwood Ave, Bronx, NY, 10466",4032 Bronxwood Ave,Bronx,New York,10466.0,1512.0,
+558917,for_sale,1250000.0,1.0,1.0,,"222 Riverside Dr Unit 9E, New York City, NY, 10025",222 Riverside Dr Unit 9E,New York City,New York,10025.0,965.0,2016-10-04
+748893,for_sale,13650000.0,4.0,5.0,,"200 Amsterdam Ave Unit 36A, New York, NY, 10023",200 Amsterdam Ave Unit 36A,New York,New York,10023.0,3188.0,
+488920,for_sale,501000.0,3.0,1.0,0.04,"98 Lewis Ave, Brooklyn, NY, 11206",98 Lewis Ave,Brooklyn,New York,11206.0,,
+774801,for_sale,549000.0,1.0,1.0,,"315 E 77th St Apt 4E, New York, NY, 10075",315 E 77th St Apt 4E,New York,New York,10075.0,,2014-10-16
+915654,for_sale,2850000.0,2.0,2.0,0.11,"92 Warren St Unit 4E, New York City, NY, 10007",92 Warren St Unit 4E,New York City,New York,10007.0,1641.0,
+552817,for_sale,434998.0,1.0,1.0,,"19-19 24 Ave Unit R101, Astoria, NY, 11105",19-19 24 Ave Unit R101,Astoria,New York,11105.0,,2017-12-15
+840808,for_sale,1100000.0,3.0,2.0,,"467 W 163rd St Apt 6, Manhattan, NY, 10032",467 W 163rd St Apt 6,Manhattan,New York,10032.0,1270.0,2018-09-17
+478165,for_sale,5400000.0,4.0,5.0,,"10 Little St W Ph 1C, New York City, NY, 10004",10 Little St W Ph 1C,New York City,New York,10004.0,3042.0,2012-02-16
+814929,for_sale,650000.0,3.0,2.0,0.05,"5119 Avenue J, Brooklyn, NY, 11234",5119 Avenue J,Brooklyn,New York,11234.0,1781.0,2009-11-09
+761390,for_sale,4500000.0,3.0,3.0,,"555 Park Ave Fl 6E, New York, NY, 10065",555 Park Ave Fl 6E,New York,New York,10065.0,,
+901423,for_sale,795000.0,2.0,1.0,,"240 E 30th St Apt 3C, New York, NY, 10016",240 E 30th St Apt 3C,New York,New York,10016.0,,
+547875,for_sale,890000.0,1.0,1.0,,"166 E 63rd St Apt 11K, New York City, NY, 10065",166 E 63rd St Apt 11K,New York City,New York,10065.0,790.0,1993-02-08
+774328,for_sale,2495000.0,3.0,3.0,,"2300 Eighth Ave Unit 9F, New York, NY, 10027",2300 Eighth Ave Unit 9F,New York,New York,10027.0,1810.0,
+761135,for_sale,4995000.0,5.0,3.0,,"440 W End Ave Unit 14CD, New York, NY, 10024",440 W End Ave Unit 14CD,New York,New York,10024.0,,
+920371,for_sale,599000.0,4.0,3.0,0.75,"55 Swan Hollow Rd, New Windsor, NY, 12553",55 Swan Hollow Rd,New Windsor,New York,12553.0,2900.0,2018-01-05
+814213,for_sale,854900.0,3.0,2.0,0.13,"5 Berkley St, Staten Island, NY, 10312",5 Berkley St,Staten Island,New York,10312.0,1092.0,
+795220,for_sale,599999.0,2.0,2.0,0.07,"168-20 Linden Blvd, Jamaica, NY, 11434",168-20 Linden Blvd,Jamaica,New York,11434.0,,2002-04-04
+719161,for_sale,780000.0,1.0,1.0,,"165 Christopher St Unit L-L, New York City, NY, 10014",165 Christopher St Unit L-L,New York City,New York,10014.0,,
+777324,for_sale,3385000.0,3.0,2.0,,"1065 Lexington Ave Unit 7A, New York, NY, 10021",1065 Lexington Ave Unit 7A,New York,New York,10021.0,,2014-08-04
+860281,for_sale,1999000.0,3.0,3.0,,"40 E 80th St Unit 8AF, Manhattan, NY, 10075",40 E 80th St Unit 8AF,Manhattan,New York,10075.0,,
+512658,for_sale,495000.0,,1.0,,"123 E 37th St Unit 1A, New York City, NY, 10016",123 E 37th St Unit 1A,New York City,New York,10016.0,575.0,2016-04-07
+467689,for_sale,1880000.0,9.0,5.0,0.05,"52-10 94th St, Elmhurst, NY, 11373",52-10 94th St,Elmhurst,New York,11373.0,3360.0,
+835546,for_sale,2950000.0,3.0,3.0,0.06,"45 Garnet St Unit 3B, New York City, NY, 11231",45 Garnet St Unit 3B,New York City,New York,11231.0,2014.0,
+828289,for_sale,559000.0,3.0,3.0,0.05,"665 E 52nd St, Brooklyn, NY, 11203",665 E 52nd St,Brooklyn,New York,11203.0,2480.0,
+846168,for_sale,1750000.0,5.0,3.0,0.04,"837 Hancock St, New York City, NY, 11233",837 Hancock St,New York City,New York,11233.0,2199.0,1988-10-25
+543157,for_sale,1095000.0,1.0,1.0,,"60 Riverside Dr Apt 17E, New York, NY, 10024",60 Riverside Dr Apt 17E,New York,New York,10024.0,,2004-08-25
+735375,for_sale,1275000.0,1.0,1.0,,"425 Fifth Ave Unit 31E, New York, NY, 10016",425 Fifth Ave Unit 31E,New York,New York,10016.0,844.0,2017-10-23
+737886,for_sale,825000.0,1.0,2.0,,"25 Sutton Pl S Apt 2R, New York, NY, 10022",25 Sutton Pl S Apt 2R,New York,New York,10022.0,,2013-01-08
+810174,for_sale,1699000.0,,1.0,,"275 W 10th St Apt 8D, New York, NY, 10014",275 W 10th St Apt 8D,New York,New York,10014.0,705.0,2020-07-31
+770745,for_sale,780000.0,3.0,3.0,0.09,"145-37 179th St, Jamaica, NY, 11434",145-37 179th St,Jamaica,New York,11434.0,1396.0,2013-09-25
+467031,for_sale,795000.0,,1.0,,"106 Central Park S Apt 20L, New York, NY, 10019",106 Central Park S Apt 20L,New York,New York,10019.0,595.0,2013-09-17
+865703,for_sale,600000.0,6.0,4.0,0.06,"716 E 89th St, Brooklyn, NY, 11236",716 E 89th St,Brooklyn,New York,11236.0,3553.0,2007-01-11
+468497,for_sale,899000.0,1.0,1.0,,"345 W 58th St Apt 12X, New York City, NY, 10019",345 W 58th St Apt 12X,New York City,New York,10019.0,,2008-05-02
+844374,for_sale,230000.0,2.0,1.0,,"2105 Wallace Ave Apt 5G, Bronx, NY, 10462",2105 Wallace Ave Apt 5G,Bronx,New York,10462.0,925.0,2016-08-12
+541636,for_sale,639000.0,4.0,2.0,0.07,"489 Van Duzer St, Staten Island, NY, 10304",489 Van Duzer St,Staten Island,New York,10304.0,1729.0,2018-09-13
+870899,for_sale,425000.0,,1.0,,"200 E 36th St Apt 4E, New York, NY, 10016",200 E 36th St Apt 4E,New York,New York,10016.0,575.0,
+65208,for_sale,489900.0,3.0,2.0,10.0,"46 Middle Rd, Austerlitz, NY, 12017",46 Middle Rd,Austerlitz,New York,12017.0,1152.0,2000-12-04
+884301,for_sale,2650000.0,6.0,3.0,0.04,"103 Monitor St, Brooklyn, NY, 11222",103 Monitor St,Brooklyn,New York,11222.0,,
+896586,for_sale,1850000.0,1.0,2.0,,"115 4th Ave Apt 5B, New York City, NY, 10003",115 4th Ave Apt 5B,New York City,New York,10003.0,1175.0,1992-07-16
+907146,for_sale,100000.0,,,0.17,"224 Oak St, Yonkers, NY, 10701",224 Oak St,Yonkers,New York,10701.0,,1989-12-01
+720116,for_sale,1899000.0,5.0,3.0,0.08,"234 77th St, Brooklyn, NY, 11209",234 77th St,Brooklyn,New York,11209.0,2586.0,2009-05-28
+512781,for_sale,598000.0,3.0,2.0,0.07,"49 Church Ave, Staten Island, NY, 10314",49 Church Ave,Staten Island,New York,10314.0,1312.0,1995-01-26
+790918,for_sale,669000.0,2.0,1.0,0.27,"250 Cabrini Blvd Apt 3F, New York City, NY, 10033",250 Cabrini Blvd Apt 3F,New York City,New York,10033.0,870.0,2015-05-08
+842187,for_sale,1150000.0,2.0,2.0,,"557 Atlantic Ave Apt 4GS, New York City, NY, 11217",557 Atlantic Ave Apt 4GS,New York City,New York,11217.0,1069.0,
+813097,for_sale,369000.0,2.0,1.0,1.22,"11 Alden Rd Apt 2A, Larchmont, NY, 10538",11 Alden Rd Apt 2A,Larchmont,New York,10538.0,1030.0,
+750192,for_sale,375000.0,3.0,2.0,,"207 W 144th St Apt 5C, New York, NY, 10030",207 W 144th St Apt 5C,New York,New York,10030.0,1100.0,2019-03-28
+477530,for_sale,7950000.0,4.0,4.0,,"350 W Broadway Apt 5, New York, NY, 10013",350 W Broadway Apt 5,New York,New York,10013.0,3539.0,2012-04-02
+833210,for_sale,1300000.0,,3.0,0.04,"New York City, NY, 10027",,New York City,New York,10027.0,3840.0,
+922651,for_sale,925000.0,3.0,3.0,0.23,"16 Standish Dr, Scarsdale, NY, 10583",16 Standish Dr,Scarsdale,New York,10583.0,2120.0,2016-06-20
+503217,for_sale,1152735.0,1.0,1.0,0.49,"1 City Pt Apt 35K, New York City, NY, 11201",1 City Pt Apt 35K,New York City,New York,11201.0,728.0,
+542517,for_sale,3750000.0,2.0,3.0,,"205 E 16th St Apt 4A, New York, NY, 10003",205 E 16th St Apt 4A,New York,New York,10003.0,2100.0,2018-07-03
+476931,for_sale,309000.0,1.0,1.0,,"7609 4th Ave Apt F7, New York City, NY, 11209",7609 4th Ave Apt F7,New York City,New York,11209.0,650.0,2017-08-09
+908275,for_sale,179000.0,1.0,1.0,,"120 N Broadway Apt 11C, Irvington, NY, 10533",120 N Broadway Apt 11C,Irvington,New York,10533.0,780.0,
+871680,for_sale,1385000.0,2.0,2.0,,"245 W 107th St Apt 15G, Manhattan, NY, 10025",245 W 107th St Apt 15G,Manhattan,New York,10025.0,,
+515455,for_sale,250000.0,2.0,1.0,,"204-15 Foothill Ave Unit A58, Hollis, NY, 11423",204-15 Foothill Ave Unit A58,Hollis,New York,11423.0,,
+530823,for_sale,775000.0,1.0,1.0,,"400 E 90th St Apt 18B, New York City, NY, 10128",400 E 90th St Apt 18B,New York City,New York,10128.0,589.0,2013-12-05
+778247,for_sale,740000.0,,1.0,,"117 E 57th St Apt 41F, New York, NY, 10022",117 E 57th St Apt 41F,New York,New York,10022.0,514.0,1998-06-19
+488708,for_sale,219000.0,1.0,1.0,,"2390 Palisade Ave Apt 2G, Bronx, NY, 10463",2390 Palisade Ave Apt 2G,Bronx,New York,10463.0,850.0,
+504564,for_sale,1500000.0,2.0,2.0,,"4 Sutton Pl Unit 7, New York, NY, 10022",4 Sutton Pl Unit 7,New York,New York,10022.0,,
+502858,for_sale,850000.0,3.0,2.0,,"2727 Palisade Ave Apt 10H, New York City, NY, 10463",2727 Palisade Ave Apt 10H,New York City,New York,10463.0,,
+888554,for_sale,4250000.0,2.0,3.0,,"115 Central Park W Apt 15H, New York, NY, 10023",115 Central Park W Apt 15H,New York,New York,10023.0,2370.0,
+874096,for_sale,2500000.0,3.0,3.0,,"50 Pine St Apt 2, New York, NY, 10005",50 Pine St Apt 2,New York,New York,10005.0,2729.0,
+750696,for_sale,215000.0,3.0,2.0,0.81,"24 Allen Cir, Stuyvesant, NY, 12173",24 Allen Cir,Stuyvesant,New York,12173.0,2108.0,
+539646,for_sale,850000.0,1.0,1.0,,"165 E 72nd St Apt 6G, New York City, NY, 10021",165 E 72nd St Apt 6G,New York City,New York,10021.0,900.0,
+868984,for_sale,195000.0,1.0,1.0,,"139-15 83 Ave Unit A304, Briarwood, NY, 11435",139-15 83 Ave Unit A304,Briarwood,New York,11435.0,,
+802759,for_sale,799000.0,4.0,2.0,0.05,"202 E 59th St, Brooklyn, NY, 11203",202 E 59th St,Brooklyn,New York,11203.0,1905.0,2022-01-27
+529847,for_sale,7995000.0,4.0,4.0,,"351 E 51st St Ph 7B, New York, NY, 10022",351 E 51st St Ph 7B,New York,New York,10022.0,2367.0,
+551433,for_sale,1060000.0,10.0,3.0,0.04,"320 55th St, Brooklyn, NY, 11220",320 55th St,Brooklyn,New York,11220.0,,2000-01-05
+508889,for_sale,1425000.0,3.0,4.0,0.09,"82-46 Bell Blvd, Hollis Hills, NY, 11427",82-46 Bell Blvd,Hollis Hills,New York,11427.0,,2005-08-16
+358781,for_sale,159900.0,3.0,1.0,1.2,"397 Military Tpke, Plattsburgh, NY, 12901",397 Military Tpke,Plattsburgh,New York,12901.0,2814.0,
+806058,for_sale,750000.0,5.0,3.0,0.05,"Bronx, NY, 10457",,Bronx,New York,10457.0,2400.0,1994-12-15
+735497,for_sale,1850000.0,3.0,2.0,0.83,"370 E 76th St Apt B1703, New York City, NY, 10021",370 E 76th St Apt B1703,New York City,New York,10021.0,,
+555329,for_sale,240000.0,1.0,1.0,,"196-48 69th Ave Unit 2ND, Fresh Meadows, NY, 11365",196-48 69th Ave Unit 2ND,Fresh Meadows,New York,11365.0,,2018-03-30
+519821,for_sale,550000.0,2.0,1.0,,"860 W 181st St Apt 8, New York City, NY, 10033",860 W 181st St Apt 8,New York City,New York,10033.0,,
+879042,for_sale,819888.0,3.0,3.0,0.11,"28 Beach Rd, Great Neck, NY, 11023",28 Beach Rd,Great Neck,New York,11023.0,,2016-04-04
+740407,for_sale,498000.0,1.0,1.0,,"35-40 82nd St Unit 5J, New York City, NY, 11372",35-40 82nd St Unit 5J,New York City,New York,11372.0,898.0,2017-09-21
+772502,for_sale,1495000.0,,1.0,,"200 Chambers St Apt 5E, New York City, NY, 10007",200 Chambers St Apt 5E,New York City,New York,10007.0,754.0,2007-04-02
+533636,for_sale,375000.0,2.0,2.0,,"2 Salisbury Pt Apt 5A, Nyack, NY, 10960",2 Salisbury Pt Apt 5A,Nyack,New York,10960.0,1280.0,
+774680,for_sale,449000.0,,1.0,,"411 /421 Manhattan Ave Unit B2, New York, NY, 10026",411 /421 Manhattan Ave Unit B2,New York,New York,10026.0,392.0,
+794343,for_sale,249000.0,1.0,1.0,,"78-08 Cloverdale Blvd Unit A, Bayside, NY, 11364",78-08 Cloverdale Blvd Unit A,Bayside,New York,11364.0,690.0,
+484889,for_sale,1900000.0,2.0,2.0,,"305 W 98th St Apt 1EN, New York City, NY, 10025",305 W 98th St Apt 1EN,New York City,New York,10025.0,1404.0,
+745987,for_sale,410000.0,,1.0,,"301 E 22nd St Apt 3B, New York City, NY, 10010",301 E 22nd St Apt 3B,New York City,New York,10010.0,,2011-12-16
+755969,for_sale,1550000.0,3.0,2.0,,"96 Schermerhorn St Unit 1BC, Brooklyn, NY, 11201",96 Schermerhorn St Unit 1BC,Brooklyn,New York,11201.0,1600.0,
+797828,for_sale,299000.0,2.0,1.0,,"850 Home St Unit 1E, Bronx, NY, 10459",850 Home St Unit 1E,Bronx,New York,10459.0,1017.0,2011-04-13
+804290,for_sale,629000.0,3.0,2.0,0.04,"115-10 135 Ave, South Ozone Park, NY, 11420",115-10 135 Ave,South Ozone Park,New York,11420.0,,
+471442,for_sale,1495000.0,3.0,1.0,,"712 8th Ave Apt 1R, New York City, NY, 11215",712 8th Ave Apt 1R,New York City,New York,11215.0,1050.0,2012-07-18
+881290,for_sale,218000.0,,1.0,,"102-30 Queens Blvd Unit Lb, Forest Hills, NY, 11375",102-30 Queens Blvd Unit Lb,Forest Hills,New York,11375.0,625.0,
+783033,for_sale,1315600.0,1.0,1.0,,"20 River Ter Apt 17H, New York City, NY, 10282",20 River Ter Apt 17H,New York City,New York,10282.0,852.0,
+484955,for_sale,775000.0,1.0,1.0,,"316 W 84th St Apt 5E, New York City, NY, 10024",316 W 84th St Apt 5E,New York City,New York,10024.0,750.0,
+778058,for_sale,1850000.0,3.0,4.0,0.09,"76-31 171st St, Fresh Meadows, NY, 11366",76-31 171st St,Fresh Meadows,New York,11366.0,2181.0,2004-11-08
+771592,for_sale,675000.0,1.0,1.0,,"242 E 25th St Apt 10A, New York City, NY, 10010",242 E 25th St Apt 10A,New York City,New York,10010.0,720.0,2016-07-26
+912771,for_sale,299000.0,2.0,1.0,,"850 Home St Unit 1E, Bronx, NY, 10459",850 Home St Unit 1E,Bronx,New York,10459.0,1017.0,2011-04-13
+775061,for_sale,10950000.0,24.0,22.0,0.07,"148-150 Clinton St, New York City, NY, 11201",148-150 Clinton St,New York City,New York,11201.0,15512.0,
+737963,for_sale,749990.0,2.0,2.0,0.04,"209-36 45th Rd, Flushing, NY, 11361",209-36 45th Rd,Flushing,New York,11361.0,,2018-09-05
+804153,for_sale,1080000.0,3.0,2.0,0.09,"106-10 32nd Ave, East Elmhurst, NY, 11369",106-10 32nd Ave,East Elmhurst,New York,11369.0,,
+919572,for_sale,410000.0,2.0,3.0,,"13 Wildwood Rd, Katonah, NY, 10536",13 Wildwood Rd,Katonah,New York,10536.0,1400.0,1996-08-21
+751097,for_sale,1480000.0,2.0,2.0,,"155 15th St Apt 3A, Brooklyn, NY, 11215",155 15th St Apt 3A,Brooklyn,New York,11215.0,1180.0,2013-02-25
+821921,for_sale,2850000.0,3.0,3.0,,"130 Carroll St Unit 3, New York, NY, 11231",130 Carroll St Unit 3,New York,New York,11231.0,1844.0,
+470320,for_sale,5995000.0,3.0,3.0,,"225 Fifth Ave Unit 3BC, New York, NY, 10010",225 Fifth Ave Unit 3BC,New York,New York,10010.0,2665.0,
+770857,for_sale,10995000.0,4.0,5.0,,"36 Bleecker St Apt 5A, New York City, NY, 10012",36 Bleecker St Apt 5A,New York City,New York,10012.0,3280.0,2015-10-14
+567311,for_sale,1999000.0,2.0,2.0,,"55 Central Park W Apt 3G, Manhattan, NY, 10023",55 Central Park W Apt 3G,Manhattan,New York,10023.0,1535.0,
+531589,for_sale,1100000.0,5.0,3.0,1.7,"32 North St, Washingtonville, NY, 10992",32 North St,Washingtonville,New York,10992.0,3638.0,2003-09-17
+906138,for_sale,435000.0,3.0,3.0,,"1200 Midland Ave Apt 8A, Bronxville, NY, 10708",1200 Midland Ave Apt 8A,Bronxville,New York,10708.0,1800.0,
+549629,for_sale,760000.0,3.0,3.0,0.06,"36 Nehring Ave, Staten Island, NY, 10314",36 Nehring Ave,Staten Island,New York,10314.0,1768.0,2014-06-06
+767446,for_sale,3950000.0,1.0,2.0,,"25 W 28th St Ph 41C, New York, NY, 10001",25 W 28th St Ph 41C,New York,New York,10001.0,989.0,
+485867,for_sale,958800.0,3.0,3.0,0.05,"2545 83rd St, Jackson Heights, NY, 11370",2545 83rd St,Jackson Heights,New York,11370.0,1504.0,2018-10-26
+469628,for_sale,875000.0,1.0,1.0,,"492 Henry St Apt 6D, New York, NY, 11231",492 Henry St Apt 6D,New York,New York,11231.0,925.0,
+823692,for_sale,765000.0,1.0,1.0,,"7 E 14th St Apt 1229, New York, NY, 10003",7 E 14th St Apt 1229,New York,New York,10003.0,,
+827599,for_sale,2995000.0,3.0,2.0,,"705 Driggs Ave Apt 16, New York, NY, 11211",705 Driggs Ave Apt 16,New York,New York,11211.0,1853.0,2015-08-12
+788504,for_sale,435000.0,,1.0,0.27,"66 Madison Ave Apt 4G, New York City, NY, 10016",66 Madison Ave Apt 4G,New York City,New York,10016.0,,2005-12-08
+811197,for_sale,3800000.0,4.0,5.0,,"425 E 58th St Apt 36H, New York City, NY, 10022",425 E 58th St Apt 36H,New York City,New York,10022.0,2900.0,
+563172,for_sale,925000.0,1.0,1.0,,"60 Gramercy Park N Apt 2C, New York, NY, 10010",60 Gramercy Park N Apt 2C,New York,New York,10010.0,,
+546837,for_sale,2850000.0,2.0,2.0,,"421 W 54th St Apt 4C, New York, NY, 10019",421 W 54th St Apt 4C,New York,New York,10019.0,1912.0,2008-07-02
+850288,for_sale,848000.0,3.0,2.0,0.05,"2233 E 29th St, Brooklyn, NY, 11229",2233 E 29th St,Brooklyn,New York,11229.0,1854.0,
+878681,for_sale,665000.0,,1.0,,"9 Barrow St Apt 3H, New York City, NY, 10014",9 Barrow St Apt 3H,New York City,New York,10014.0,,2017-09-19
+514719,for_sale,2565000.0,2.0,2.0,,"165 Lexington Ave Unit 10B, New York, NY, 10016",165 Lexington Ave Unit 10B,New York,New York,10016.0,1303.0,
+869424,for_sale,4190000.0,2.0,3.0,,"1295 Madison Ave Unit 3B, New York, NY, 10128",1295 Madison Ave Unit 3B,New York,New York,10128.0,1772.0,
+764633,for_sale,1250000.0,1.0,1.0,,"222 Riverside Dr Unit 9E, New York City, NY, 10025",222 Riverside Dr Unit 9E,New York City,New York,10025.0,965.0,2016-10-04
+487396,for_sale,849000.0,3.0,2.0,0.05,"81-39 77th Ave, Glendale, NY, 11385",81-39 77th Ave,Glendale,New York,11385.0,1224.0,
+899633,for_sale,425000.0,,,0.03,"2781 Coyle St Lot 150, Brooklyn, NY, 11235",2781 Coyle St Lot 150,Brooklyn,New York,11235.0,,
+867064,for_sale,1999000.0,4.0,4.0,0.08,"2901 Avenue R, Brooklyn, NY, 11229",2901 Avenue R,Brooklyn,New York,11229.0,,2015-08-13
+526099,for_sale,800000.0,,1.0,,"69 Fifth Ave Unit 2C, New York, NY, 10003",69 Fifth Ave Unit 2C,New York,New York,10003.0,,
+884828,for_sale,1995000.0,3.0,2.0,,"296 W 10th St Apt 5N, New York City, NY, 10014",296 W 10th St Apt 5N,New York City,New York,10014.0,1310.0,
+489784,for_sale,1930000.0,5.0,3.0,0.06,"1156 Sterling Pl, New York City, NY, 11213",1156 Sterling Pl,New York City,New York,11213.0,3509.0,
+813481,for_sale,895000.0,5.0,3.0,0.07,"3743 Neptune Ave, Brooklyn, NY, 11224",3743 Neptune Ave,Brooklyn,New York,11224.0,2234.0,
+888322,for_sale,474000.0,1.0,1.0,,"57 W 93rd St Apt 1E, New York, NY, 10025",57 W 93rd St Apt 1E,New York,New York,10025.0,,2014-09-04
+824002,for_sale,340000.0,1.0,1.0,,"720 W 173rd St Apt 54, Manhattan, NY, 10032",720 W 173rd St Apt 54,Manhattan,New York,10032.0,,2006-09-21
+566129,for_sale,1650000.0,1.0,1.0,0.18,"150 W 82nd St Apt 9G, New York City, NY, 10024",150 W 82nd St Apt 9G,New York City,New York,10024.0,764.0,
+843529,for_sale,255000.0,3.0,2.0,,"11 Park Ave Apt 2L, Mount Vernon, NY, 10550",11 Park Ave Apt 2L,Mount Vernon,New York,10550.0,1350.0,
+752348,for_sale,1690000.0,2.0,2.0,,"60 W 13th St Apt 13A, New York City, NY, 10011",60 W 13th St Apt 13A,New York City,New York,10011.0,1200.0,2015-03-11
+552192,for_sale,2075000.0,2.0,2.0,0.41,"215 N 10th St Unit 4I, New York City, NY, 11211",215 N 10th St Unit 4I,New York City,New York,11211.0,1182.0,
+907615,for_sale,5480000.0,7.0,7.0,1.26,"6 Beechwood Rd, Bronxville, NY, 10708",6 Beechwood Rd,Bronxville,New York,10708.0,6727.0,
+807808,for_sale,759999.0,2.0,2.0,,"531 Main St Apt 1104, New York City, NY, 10044",531 Main St Apt 1104,New York City,New York,10044.0,988.0,2015-09-18
+883085,for_sale,995000.0,1.0,1.0,,"170 W 23rd St Apt 2A, New York City, NY, 10011",170 W 23rd St Apt 2A,New York City,New York,10011.0,,2014-01-13
+804519,for_sale,1200000.0,1.0,1.0,,"161 W 16th St Apt 10K, New York, NY, 10011",161 W 16th St Apt 10K,New York,New York,10011.0,775.0,
+885892,for_sale,9500000.0,3.0,4.0,,"820 Park Ave Units 10 & 11S, New York, NY, 10021",820 Park Ave Units 10 & 11S,New York,New York,10021.0,,
+906728,for_sale,199900.0,1.0,1.0,,"900 Palmer Rd Apt 8K, Bronxville, NY, 10708",900 Palmer Rd Apt 8K,Bronxville,New York,10708.0,950.0,
+758545,for_sale,4150000.0,3.0,3.0,,"60 E 13th St Apt 2E, New York, NY, 10003",60 E 13th St Apt 2E,New York,New York,10003.0,2575.0,
+830570,for_sale,829000.0,2.0,1.0,,"440 E 79th St Apt 5K, New York City, NY, 10075",440 E 79th St Apt 5K,New York City,New York,10075.0,,2017-01-03
+782759,for_sale,935000.0,2.0,2.0,,"707 Willoughby Ave Apt 5C, Brooklyn, NY, 11206",707 Willoughby Ave Apt 5C,Brooklyn,New York,11206.0,886.0,
+521177,for_sale,14995000.0,4.0,7.0,,"100 11th Ave Units 17 & 18A, New York City, NY, 10011",100 11th Ave Units 17 & 18A,New York City,New York,10011.0,8372.0,
+744718,for_sale,839000.0,2.0,1.0,,"77 Fulton St Apt 4D, New York, NY, 10038",77 Fulton St Apt 4D,New York,New York,10038.0,,2017-05-22
+835721,for_sale,1199999.0,4.0,3.0,0.14,"2282 Hoffman Ave, Elmont, NY, 11003",2282 Hoffman Ave,Elmont,New York,11003.0,2816.0,2020-03-24
+914603,for_sale,799000.0,2.0,2.0,0.07,"243-50 Mayda Rd, Jamaica, NY, 11422",243-50 Mayda Rd,Jamaica,New York,11422.0,,1999-11-24
+811973,for_sale,875000.0,1.0,2.0,,"45 Sutton Pl S Apt 15G, New York, NY, 10022",45 Sutton Pl S Apt 15G,New York,New York,10022.0,1100.0,2013-06-21
+750979,for_sale,349000.0,3.0,2.0,,"80-15 Main St Unit 1B, Briarwood, NY, 11435",80-15 Main St Unit 1B,Briarwood,New York,11435.0,,2005-11-23
+466770,for_sale,879000.0,7.0,4.0,0.05,"2306 Bassford Ave, Bronx, NY, 10458",2306 Bassford Ave,Bronx,New York,10458.0,3374.0,2020-10-23
+746129,for_sale,299990.0,1.0,1.0,,"37-31 73rd St Unit 1F, Jackson Heights, NY, 11372",37-31 73rd St Unit 1F,Jackson Heights,New York,11372.0,780.0,
+581623,for_sale,649000.0,2.0,2.0,,"151 Beach 96th St Apt 2B, Rockaway Beach, NY, 11693",151 Beach 96th St Apt 2B,Rockaway Beach,New York,11693.0,1510.0,2016-10-13
+559063,for_sale,168000.0,1.0,1.0,1.35,"4784 Boston Post Rd Apt A45, Pelham, NY, 10803",4784 Boston Post Rd Apt A45,Pelham,New York,10803.0,806.0,
+570491,for_sale,178000.0,1.0,1.0,,"3125 Tibbett Ave Apt 9E, Bronx, NY, 10463",3125 Tibbett Ave Apt 9E,Bronx,New York,10463.0,700.0,
+821149,for_sale,4275000.0,2.0,3.0,,"565 Broome St Apt S11C, New York City, NY, 10013",565 Broome St Apt S11C,New York City,New York,10013.0,1681.0,2019-06-14
+767559,for_sale,2100000.0,3.0,2.0,,"165 Christopher St Unit 4CD, New York, NY, 10014",165 Christopher St Unit 4CD,New York,New York,10014.0,,
+759746,for_sale,3500000.0,3.0,3.0,,"325 W End Ave Apt 2C, New York City, NY, 10023",325 W End Ave Apt 2C,New York City,New York,10023.0,,2016-02-09
+841389,for_sale,725000.0,,2.0,,"55 Greene Ave Ste 2B, New York, NY, 11238",55 Greene Ave Ste 2B,New York,New York,11238.0,840.0,
+761488,for_sale,1695000.0,2.0,2.0,,"1280 Fifth Ave Unit 12C, New York, NY, 10029",1280 Fifth Ave Unit 12C,New York,New York,10029.0,1344.0,2013-07-31
+551848,for_sale,498000.0,,1.0,,"372 Fifth Ave Unit 9D, New York, NY, 10018",372 Fifth Ave Unit 9D,New York,New York,10018.0,500.0,2006-11-24
+549013,for_sale,1699000.0,1.0,1.0,,"260 Park Ave S Apt 8K, New York, NY, 10010",260 Park Ave S Apt 8K,New York,New York,10010.0,917.0,2014-08-11
+906089,for_sale,178999.0,1.0,1.0,,"4410 Cayuga Ave Apt 4A, Bronx, NY, 10471",4410 Cayuga Ave Apt 4A,Bronx,New York,10471.0,800.0,
+869968,for_sale,1095000.0,2.0,1.0,,"345 E 81st St Apt 11E, Manhattan, NY, 10028",345 E 81st St Apt 11E,Manhattan,New York,10028.0,,2016-11-29
+753308,for_sale,1395000.0,2.0,2.0,,"49 E 96th St Unit 4A, New York City, NY, 10128",49 E 96th St Unit 4A,New York City,New York,10128.0,,
+901139,for_sale,1775000.0,2.0,2.0,,"420 W 25th St Apt 8H, New York, NY, 10001",420 W 25th St Apt 8H,New York,New York,10001.0,1257.0,2008-06-10
+58891,for_sale,495000.0,3.0,2.0,0.21,"96 SW Colony Rd, Copake, NY, 12529",96 SW Colony Rd,Copake,New York,12529.0,1167.0,
+542768,for_sale,479000.0,2.0,2.0,0.03,"17 Stratford Ct, Staten Island, NY, 10314",17 Stratford Ct,Staten Island,New York,10314.0,1284.0,
+888909,for_sale,450000.0,1.0,1.0,,"119 E 30th St Apt 2R, New York, NY, 10016",119 E 30th St Apt 2R,New York,New York,10016.0,,
+842738,for_sale,1850000.0,2.0,2.0,,"670 W End Ave Apt 15E, New York, NY, 10025",670 W End Ave Apt 15E,New York,New York,10025.0,,
+817651,for_sale,1525000.0,,2.0,,"345 E 37th Unit Medical Office Condo St Unit 313, Manhattan, NY, 10016",345 E 37th Unit Medical Office Condo St Unit 313,Manhattan,New York,10016.0,2205.0,
+748930,for_sale,1398000.0,8.0,5.0,0.05,"101-05 81st St, Ozone Park, NY, 11416",101-05 81st St,Ozone Park,New York,11416.0,,
+564997,for_sale,7650000.0,5.0,4.0,,"137 Riverside Dr Units 6 & 7D, New York, NY, 10024",137 Riverside Dr Units 6 & 7D,New York,New York,10024.0,4317.0,
+508154,for_sale,915000.0,1.0,1.0,,"401 E 86th St Apt 17A, New York, NY, 10028",401 E 86th St Apt 17A,New York,New York,10028.0,900.0,2013-07-02
+810874,for_sale,537000.0,1.0,1.0,,"97-25 64th Ave Unit A7, Flushing, NY, 11374",97-25 64th Ave Unit A7,Flushing,New York,11374.0,760.0,
+436996,for_sale,2499000.0,3.0,2.0,0.58,"335 Soundview Rd, Orient, NY, 11957",335 Soundview Rd,Orient,New York,11957.0,,2001-05-22
+548497,for_sale,3895000.0,4.0,3.0,,"37 W 12th St Apt 6E, Manhattan, NY, 10011",37 W 12th St Apt 6E,Manhattan,New York,10011.0,,2010-04-09
+360113,for_sale,210000.0,4.0,2.0,0.28,"39 Durand St, Plattsburgh, NY, 12901",39 Durand St,Plattsburgh,New York,12901.0,2232.0,
+777955,for_sale,1950000.0,2.0,2.0,,"115 E 57th St Unit 25H, New York, NY, 10022",115 E 57th St Unit 25H,New York,New York,10022.0,,
+515591,for_sale,1148888.0,,,0.09,"2740 E 23rd St, Brooklyn, NY, 11235",2740 E 23rd St,Brooklyn,New York,11235.0,570.0,2001-03-22
+477268,for_sale,385000.0,2.0,2.0,,"215 Hart Blvd Apt 4G, Staten Island, NY, 10301",215 Hart Blvd Apt 4G,Staten Island,New York,10301.0,1145.0,2015-10-20
+551109,for_sale,649000.0,4.0,4.0,0.11,"194 Endicott Ave, Elmsford, NY, 10523",194 Endicott Ave,Elmsford,New York,10523.0,2204.0,
+782841,for_sale,1775000.0,2.0,2.0,,"420 W 25th St Apt 8H, New York, NY, 10001",420 W 25th St Apt 8H,New York,New York,10001.0,1257.0,2008-06-10
+777332,for_sale,695000.0,1.0,1.0,,"764 Metropolitan Ave Unit 1A, New York City, NY, 11211",764 Metropolitan Ave Unit 1A,New York City,New York,11211.0,741.0,
+796973,for_sale,399000.0,1.0,1.0,,"45-08 40th St Unit C53, Sunnyside, NY, 11104",45-08 40th St Unit C53,Sunnyside,New York,11104.0,,2012-11-19
+811582,for_sale,375000.0,2.0,1.0,,"260 Beach 81st St Apt 2S, Rockaway Beach, NY, 11693",260 Beach 81st St Apt 2S,Rockaway Beach,New York,11693.0,1047.0,2007-01-11
+483231,for_sale,937500.0,4.0,3.0,0.06,"1058 White Plains Rd Unit 2, Bronx, NY, 10472",1058 White Plains Rd Unit 2,Bronx,New York,10472.0,2585.0,
+812670,for_sale,389000.0,1.0,1.0,0.27,"720 W 173rd St Apt 5, New York, NY, 10032",720 W 173rd St Apt 5,New York,New York,10032.0,40720.0,2017-10-25
+876010,for_sale,615000.0,3.0,2.0,0.04,"139-25 34th Ave Unit 104, Flushing, NY, 11354",139-25 34th Ave Unit 104,Flushing,New York,11354.0,800.0,2018-10-24
+778216,for_sale,375000.0,1.0,1.0,,"531 E 87th St Apt 3C, New York City, NY, 10128",531 E 87th St Apt 3C,New York City,New York,10128.0,,
+540744,for_sale,615000.0,2.0,1.0,,"Crown Heights, NY, 11216",,Crown Heights,New York,11216.0,,2000-04-03
+503691,for_sale,4950000.0,6.0,3.0,,"859 Carroll St, New York, NY, 11215",859 Carroll St,New York,New York,11215.0,4368.0,
+830960,for_sale,489600.0,,1.0,,"567 Ocean Ave Apt A503, Brooklyn, NY, 11226",567 Ocean Ave Apt A503,Brooklyn,New York,11226.0,483.0,
+797577,for_sale,425000.0,2.0,1.0,,"446 Kingston Ave Apt C17, Crown Heights, NY, 11225",446 Kingston Ave Apt C17,Crown Heights,New York,11225.0,800.0,2014-05-29
+782508,for_sale,329000.0,1.0,1.0,,"37-51 86 St Unit 6N, Jackson Heights, NY, 11372",37-51 86 St Unit 6N,Jackson Heights,New York,11372.0,,2005-01-26
+512924,for_sale,209500.0,,1.0,,"330 Lenox Rd Apt 4U, Brooklyn, NY, 11226",330 Lenox Rd Apt 4U,Brooklyn,New York,11226.0,575.0,2017-09-19
+786245,for_sale,1800000.0,6.0,4.0,0.05,"86 Madison St, New York City, NY, 11216",86 Madison St,New York City,New York,11216.0,3336.0,
+481977,for_sale,768000.0,5.0,3.0,0.11,"185 Clove Rd, Staten Island, NY, 10310",185 Clove Rd,Staten Island,New York,10310.0,2200.0,2012-05-16
+753197,for_sale,1175000.0,1.0,2.0,,"55 Wall St Apt 944, New York, NY, 10005",55 Wall St Apt 944,New York,New York,10005.0,1104.0,2010-02-04
+526820,for_sale,1400000.0,2.0,2.0,,"307 W 82nd St Apt 1AB, New York City, NY, 10024",307 W 82nd St Apt 1AB,New York City,New York,10024.0,,2017-07-19
+767357,for_sale,1150000.0,1.0,1.0,,"50 King St Apt 8B, New York, NY, 10014",50 King St Apt 8B,New York,New York,10014.0,,2019-06-04
+849165,for_sale,405000.0,2.0,2.0,2.45,"85-09 151st Ave Unit 5H, Howard Beach, NY, 11414",85-09 151st Ave Unit 5H,Howard Beach,New York,11414.0,,
+742985,for_sale,7950000.0,2.0,2.0,,"481 Washington St Ph 7S, New York, NY, 10013",481 Washington St Ph 7S,New York,New York,10013.0,3052.0,
+827727,for_sale,299000.0,,1.0,,"100 LA Salle St Apt 19E, New York, NY, 10027",100 LA Salle St Apt 19E,New York,New York,10027.0,500.0,2012-09-26
+827067,for_sale,925000.0,2.0,1.0,,"254 W 25th St Apt 5B, Manhattan, NY, 10001",254 W 25th St Apt 5B,Manhattan,New York,10001.0,,
+884702,for_sale,7650000.0,2.0,3.0,,"37 E 12th St Apt 4, New York City, NY, 10003",37 E 12th St Apt 4,New York City,New York,10003.0,3028.0,2017-08-30
+57180,for_sale,2400000.0,4.0,4.0,100.94,"123 Cemetery Rd, New Lebanon, NY, 12125",123 Cemetery Rd,New Lebanon,New York,12125.0,3648.0,
+561731,for_sale,995000.0,1.0,1.0,,"635 W 42nd St Apt 12B, New York, NY, 10036",635 W 42nd St Apt 12B,New York,New York,10036.0,685.0,2016-12-14
+870281,for_sale,449999.0,2.0,1.0,,"301 E 63rd St Apt 14J, New York, NY, 10065",301 E 63rd St Apt 14J,New York,New York,10065.0,,2020-07-22
+770610,for_sale,395000.0,1.0,2.0,,"420 E 51st St Unit 1H, New York, NY, 10022",420 E 51st St Unit 1H,New York,New York,10022.0,,2018-12-05
+877427,for_sale,439000.0,3.0,2.0,0.07,"250 Gordon St, Staten Island, NY, 10304",250 Gordon St,Staten Island,New York,10304.0,1164.0,2007-06-20
+750096,for_sale,999999.0,1.0,1.0,,"235 W End Ave Apt 9D, New York, NY, 10023",235 W End Ave Apt 9D,New York,New York,10023.0,780.0,2017-11-03
+551918,for_sale,375000.0,,1.0,0.88,"150-38 Union Tpke Unit 4N, Flushing, NY, 11367",150-38 Union Tpke Unit 4N,Flushing,New York,11367.0,500.0,2001-02-08
+504490,for_sale,775000.0,1.0,1.0,,"316 W 84th St Apt 5E, New York City, NY, 10024",316 W 84th St Apt 5E,New York City,New York,10024.0,750.0,
+894530,for_sale,595900.0,3.0,2.0,0.12,"27 Hildreth Pl, Yonkers, NY, 10704",27 Hildreth Pl,Yonkers,New York,10704.0,1343.0,1996-08-28
+735990,for_sale,265000.0,2.0,1.0,,"144-75 Melbourne Ave Unit 2A, Flushing, NY, 11367",144-75 Melbourne Ave Unit 2A,Flushing,New York,11367.0,1000.0,
+886102,for_sale,450000.0,2.0,2.0,,"2550 Independence Ave Apt 2J, Bronx, NY, 10463",2550 Independence Ave Apt 2J,Bronx,New York,10463.0,1050.0,
+500801,for_sale,2573000.0,3.0,3.0,,"160 Imlay Unit Phd St Ph 1, Brooklyn, NY, 11231",160 Imlay Unit Phd St Ph 1,Brooklyn,New York,11231.0,2735.0,
+810256,for_sale,830000.0,4.0,3.0,0.04,"1465 E 93rd St, Brooklyn, NY, 11236",1465 E 93rd St,Brooklyn,New York,11236.0,,2007-09-18
+754124,for_sale,590000.0,1.0,1.0,,"95 Quincy St Unit 3F, Brooklyn, NY, 11238",95 Quincy St Unit 3F,Brooklyn,New York,11238.0,503.0,
+571173,for_sale,499999.0,8.0,2.0,0.1,"75 Horton Ave, New Rochelle, NY, 10801",75 Horton Ave,New Rochelle,New York,10801.0,2502.0,2000-10-13
+820331,for_sale,2650000.0,2.0,2.0,,"682 6th Ave Unit 7, New York City, NY, 10010",682 6th Ave Unit 7,New York City,New York,10010.0,2200.0,
+821810,for_sale,199900.0,,1.0,,"345 Webster Ave Apt 3A, Brooklyn, NY, 11230",345 Webster Ave Apt 3A,Brooklyn,New York,11230.0,450.0,2005-05-26
+892507,for_sale,2250000.0,3.0,3.0,,"195 Maple St, Brooklyn, NY, 11225",195 Maple St,Brooklyn,New York,11225.0,2580.0,1999-01-27
+492171,for_sale,5950000.0,24.0,17.0,0.1,"29-12 Newtown Ave, Astoria, NY, 11102",29-12 Newtown Ave,Astoria,New York,11102.0,,
+850535,for_sale,1995000.0,2.0,2.0,,"870 Fifth Ave Unit 2E, New York, NY, 10065",870 Fifth Ave Unit 2E,New York,New York,10065.0,,
+826095,for_sale,739000.0,3.0,3.0,0.06,"95-21 91st St, Jamaica, NY, 11416",95-21 91st St,Jamaica,New York,11416.0,,2021-05-26
+866938,for_sale,1379000.0,5.0,4.0,22.0,"2074 E 57th St, Brooklyn, NY, 11234",2074 E 57th St,Brooklyn,New York,11234.0,,1989-07-03
+505690,for_sale,450000.0,2.0,1.0,0.08,"169 Taylor St, Staten Island, NY, 10310",169 Taylor St,Staten Island,New York,10310.0,625.0,1997-02-27
+751243,for_sale,990000.0,3.0,2.0,0.05,"32-37 73rd St, New York City, NY, 11370",32-37 73rd St,New York City,New York,11370.0,1612.0,
+732170,for_sale,1325000.0,1.0,1.0,,"63 E 9th St Apt 4R, New York City, NY, 10003",63 E 9th St Apt 4R,New York City,New York,10003.0,850.0,2022-03-28
+844782,for_sale,1658800.0,6.0,2.0,0.06,"2340 E 24th St, Brooklyn, NY, 11229",2340 E 24th St,Brooklyn,New York,11229.0,2892.0,2019-11-12
+785742,for_sale,95000.0,1.0,1.0,,"1275 Grant Ave Apt 2E, Bronx, NY, 10456",1275 Grant Ave Apt 2E,Bronx,New York,10456.0,620.0,2010-08-18
+780739,for_sale,975000.0,1.0,1.0,,"11 W 69th St Apt 5C, New York, NY, 10023",11 W 69th St Apt 5C,New York,New York,10023.0,,2007-05-03
+501788,for_sale,799000.0,1.0,1.0,,"316 W 84th St Apt 4F, New York City, NY, 10024",316 W 84th St Apt 4F,New York City,New York,10024.0,,2008-05-28
+811594,for_sale,925000.0,4.0,2.0,0.07,"133-31 122nd St, South Ozone Park, NY, 11420",133-31 122nd St,South Ozone Park,New York,11420.0,,
+765893,for_sale,1625000.0,2.0,2.0,,"200 Riverside Blvd Apt 5C, New York City, NY, 10069",200 Riverside Blvd Apt 5C,New York City,New York,10069.0,1055.0,
+547562,for_sale,2450000.0,3.0,2.0,,"450 Warren St Unit 2E, New York City, NY, 11217",450 Warren St Unit 2E,New York City,New York,11217.0,1675.0,
+486286,for_sale,1495000.0,1.0,1.0,,"50 Bridge St Apt 412, Brooklyn, NY, 11201",50 Bridge St Apt 412,Brooklyn,New York,11201.0,1100.0,2017-01-20
+781016,for_sale,6950000.0,3.0,3.0,,"210 Central /B Park S Unit 12A, New York, NY, 10019",210 Central /B Park S Unit 12A,New York,New York,10019.0,,
+803330,for_sale,1729000.0,5.0,3.0,0.06,"34-11 75th St, Jackson Heights, NY, 11372",34-11 75th St,Jackson Heights,New York,11372.0,2612.0,1995-02-17
+488237,for_sale,7500000.0,3.0,3.0,,"10 E 22nd St Units 3 & 4, New York, NY, 10010",10 E 22nd St Units 3 & 4,New York,New York,10010.0,4000.0,
+904406,for_sale,689888.0,3.0,2.0,0.11,"421 Thornycroft Ave, Staten Island, NY, 10312",421 Thornycroft Ave,Staten Island,New York,10312.0,912.0,2004-11-15
+880901,for_sale,5750000.0,6.0,5.0,,"161 Dean St, Brooklyn, NY, 11217",161 Dean St,Brooklyn,New York,11217.0,3978.0,2002-04-01
+769673,for_sale,4400000.0,2.0,3.0,,"39 W 23rd St Apt 16B, New York City, NY, 10010",39 W 23rd St Apt 16B,New York City,New York,10010.0,1676.0,
+511500,for_sale,1795000.0,2.0,2.0,,"155 W 20th St Unit 5BC, New York, NY, 10011",155 W 20th St Unit 5BC,New York,New York,10011.0,1300.0,2018-09-12
+513304,for_sale,669999.0,3.0,2.0,0.05,"603 E 48th St, Brooklyn, NY, 11203",603 E 48th St,Brooklyn,New York,11203.0,1229.0,2013-04-05
+894480,for_sale,379000.0,2.0,1.0,,"90-50 Union Tpke Unit 10J, Glendale, NY, 11385",90-50 Union Tpke Unit 10J,Glendale,New York,11385.0,1100.0,
+556336,for_sale,1849000.0,7.0,4.0,0.06,"7611 16th Ave, Brooklyn, NY, 11214",7611 16th Ave,Brooklyn,New York,11214.0,2680.0,
+915753,for_sale,349000.0,3.0,2.0,,"80-15 Main St Unit 1B, Briarwood, NY, 11435",80-15 Main St Unit 1B,Briarwood,New York,11435.0,,2005-11-23
+849430,for_sale,2099000.0,5.0,5.0,0.34,"47 Annfield Ct, Staten Island, NY, 10304",47 Annfield Ct,Staten Island,New York,10304.0,6800.0,1998-08-28
+813767,for_sale,7250000.0,7.0,4.0,,"21 Schermerhorn St, New York City, NY, 11201",21 Schermerhorn St,New York City,New York,11201.0,5500.0,
+834471,for_sale,465000.0,3.0,2.0,,"90-60 Union Tpke Unit 1A, Glendale, NY, 11385",90-60 Union Tpke Unit 1A,Glendale,New York,11385.0,,
+774429,for_sale,745000.0,1.0,1.0,,"200 E 78th St Apt 16A, New York, NY, 10075",200 E 78th St Apt 16A,New York,New York,10075.0,,2005-03-23
+58908,for_sale,190000.0,1.0,1.0,0.5,"14 Old Route 22, Copake, NY, 12529",14 Old Route 22,Copake,New York,12529.0,418.0,
+744338,for_sale,10000000.0,4.0,5.0,0.12,"22 W 66th St Ph 25-26, New York City, NY, 10023",22 W 66th St Ph 25-26,New York City,New York,10023.0,3064.0,
+792219,for_sale,2800000.0,1.0,2.0,,"250 Van Brunt St, New York City, NY, 11231",250 Van Brunt St,New York City,New York,11231.0,,2007-03-02
+486335,for_sale,625000.0,,1.0,,"165 Christopher St Apt 5P, New York City, NY, 10014",165 Christopher St Apt 5P,New York City,New York,10014.0,500.0,2017-10-13
+837029,for_sale,630000.0,1.0,2.0,0.12,"425 E 78th St Apt 1A, New York City, NY, 10075",425 E 78th St Apt 1A,New York City,New York,10075.0,,2004-10-13
+864782,for_sale,1088000.0,3.0,2.0,0.04,"1234 77th St, Brooklyn, NY, 11228",1234 77th St,Brooklyn,New York,11228.0,2000.0,2016-09-16
+842687,for_sale,2500000.0,2.0,2.0,,"100 Riverside Dr Unit 10G, New York, NY, 10024",100 Riverside Dr Unit 10G,New York,New York,10024.0,1300.0,
+451509,for_sale,325000.0,2.0,3.0,0.34,"43 Hillside Ave, Wingdale, NY, 12594",43 Hillside Ave,Wingdale,New York,12594.0,2225.0,2010-01-11
+810887,for_sale,788000.0,3.0,2.0,0.04,"32-26 200th St, Bayside, NY, 11361",32-26 200th St,Bayside,New York,11361.0,,2002-07-19
+485010,for_sale,2250000.0,7.0,3.0,0.06,"34-22 29th St, Astoria, NY, 11106",34-22 29th St,Astoria,New York,11106.0,3796.0,
+476581,for_sale,325000.0,3.0,3.0,0.03,"339 Union Ave Unit 31, Staten Island, NY, 10303",339 Union Ave Unit 31,Staten Island,New York,10303.0,1677.0,2005-02-28
+836647,for_sale,3750000.0,4.0,3.0,,"269 W 87th St Unit 14A, New York, NY, 10024",269 W 87th St Unit 14A,New York,New York,10024.0,2454.0,
+869964,for_sale,875000.0,3.0,2.0,0.04,"19-54 81st St, East Elmhurst, NY, 11370",19-54 81st St,East Elmhurst,New York,11370.0,,
+818699,for_sale,628000.0,2.0,2.0,,"43-18 Robinson St Unit 3B, Flushing, NY, 11355",43-18 Robinson St Unit 3B,Flushing,New York,11355.0,742.0,2018-01-26
+778049,for_sale,419999.0,2.0,1.0,,"130 Lenox Ave Unit 307, New York City, NY, 10026",130 Lenox Ave Unit 307,New York City,New York,10026.0,,
+749037,for_sale,1145000.0,3.0,2.0,0.07,"119-55 7th Ave, College Point, NY, 11356",119-55 7th Ave,College Point,New York,11356.0,2456.0,
+512712,for_sale,2550000.0,7.0,4.0,0.07,"1614 64th St, Brooklyn, NY, 11204",1614 64th St,Brooklyn,New York,11204.0,3520.0,
+780038,for_sale,4500000.0,1.0,,,"129 Russell St Unit Commercial, Brooklyn, NY, 11222",129 Russell St Unit Commercial,Brooklyn,New York,11222.0,5400.0,
+748404,for_sale,875000.0,1.0,1.0,,"492 Henry St Apt 6D, New York, NY, 11231",492 Henry St Apt 6D,New York,New York,11231.0,925.0,
+844447,for_sale,3875000.0,3.0,3.0,0.16,"39 E 79th St Apt 2B, New York City, NY, 10075",39 E 79th St Apt 2B,New York City,New York,10075.0,2102.0,
+859930,for_sale,599000.0,2.0,1.0,,"2345 60th St Unit 4B, Brooklyn, NY, 11204",2345 60th St Unit 4B,Brooklyn,New York,11204.0,719.0,
+839738,for_sale,850000.0,1.0,1.0,,"17 Convent Ave Unit 3AA, New York, NY, 10027",17 Convent Ave Unit 3AA,New York,New York,10027.0,739.0,
+902864,for_sale,410000.0,1.0,1.0,0.02,"9707 4th Ave Apt 2U, Brooklyn, NY, 11209",9707 4th Ave Apt 2U,Brooklyn,New York,11209.0,780.0,
+786915,for_sale,785000.0,1.0,1.0,,"424 E 52nd St Apt 9E, New York, NY, 10022",424 E 52nd St Apt 9E,New York,New York,10022.0,892.0,2019-07-16
+758467,for_sale,19050000.0,5.0,7.0,,"1 Wall St Units 3404 & 3405, New York City, NY, 10005",1 Wall St Units 3404 & 3405,New York City,New York,10005.0,5852.0,
+891862,for_sale,349900.0,3.0,2.0,0.03,"11 Roe St, Staten Island, NY, 10310",11 Roe St,Staten Island,New York,10310.0,1350.0,2003-01-27
+907353,for_sale,235000.0,1.0,1.0,,"5700 Arlington Ave Apt 7M, Bronx, NY, 10471",5700 Arlington Ave Apt 7M,Bronx,New York,10471.0,,
+904017,for_sale,609000.0,3.0,3.0,0.06,"2145 Victory Blvd, Staten Island, NY, 10314",2145 Victory Blvd,Staten Island,New York,10314.0,1260.0,2001-06-28
+848791,for_sale,650000.0,1.0,1.0,,"401 E 89th St Apt 12F, New York, NY, 10128",401 E 89th St Apt 12F,New York,New York,10128.0,,
+772364,for_sale,1350000.0,1.0,2.0,,"97 Grattan St Unit 1B, New York City, NY, 11237",97 Grattan St Unit 1B,New York City,New York,11237.0,1123.0,
+788906,for_sale,789000.0,3.0,3.0,0.06,"2266 E 70th St, Brooklyn, NY, 11234",2266 E 70th St,Brooklyn,New York,11234.0,1836.0,1983-11-01
+572850,for_sale,149000.0,1.0,1.0,,"11 Columbia Ave Apt C2, Hartsdale, NY, 10530",11 Columbia Ave Apt C2,Hartsdale,New York,10530.0,800.0,
+777528,for_sale,1290000.0,8.0,5.0,0.05,"457 Lincoln Ave, Brooklyn, NY, 11208",457 Lincoln Ave,Brooklyn,New York,11208.0,,2020-10-07
+734392,for_sale,545000.0,1.0,1.0,,"311 E 71st St Apt 10H, New York, NY, 10021",311 E 71st St Apt 10H,New York,New York,10021.0,,
+580274,for_sale,1129000.0,4.0,3.0,0.1,"2415 E 64th St, Brooklyn, NY, 11234",2415 E 64th St,Brooklyn,New York,11234.0,1899.0,1993-12-30
+811240,for_sale,899999.0,3.0,2.0,,"1138 Ocean Ave Apt 7G, New York, NY, 11230",1138 Ocean Ave Apt 7G,New York,New York,11230.0,1228.0,2012-05-09
+477179,for_sale,350000.0,2.0,2.0,,"32 Tiger Ct Unit 27, Staten Island, NY, 10314",32 Tiger Ct Unit 27,Staten Island,New York,10314.0,851.0,
+743039,for_sale,995000.0,2.0,1.0,,"1790 3rd Ave Apt 704, New York City, NY, 10029",1790 3rd Ave Apt 704,New York City,New York,10029.0,920.0,
+495116,for_sale,3995000.0,5.0,4.0,,"538 9th St, New York City, NY, 11215",538 9th St,New York City,New York,11215.0,,
+752918,for_sale,975000.0,6.0,3.0,0.06,"86-26 79 St, Woodhaven, NY, 11421",86-26 79 St,Woodhaven,New York,11421.0,,2006-08-15
+511250,for_sale,288000.0,2.0,1.0,,"220-16 Stronghurst Ave Unit 19-9, Queens Village, NY, 11427",220-16 Stronghurst Ave Unit 19-9,Queens Village,New York,11427.0,,
+488500,for_sale,595000.0,1.0,1.0,,"5 Tudor City Pl Apt 1825, New York City, NY, 10017",5 Tudor City Pl Apt 1825,New York City,New York,10017.0,,2007-08-28
+372954,for_sale,250000.0,1.0,2.0,2.35,"140 Binninger Rd, Salem, NY, 12865",140 Binninger Rd,Salem,New York,12865.0,1308.0,
+485068,for_sale,428000.0,1.0,1.0,11.12,"7009B Park Drive Dr E Unit B, Flushing, NY, 11367",7009B Park Drive Dr E Unit B,Flushing,New York,11367.0,635.0,2018-07-24
+789665,for_sale,5000000.0,,2.0,,"10 Park Ave Unit 2H, New York City, NY, 10016",10 Park Ave Unit 2H,New York City,New York,10016.0,,
+849054,for_sale,3350000.0,4.0,4.0,0.12,"55 Liberty St Unit 7AB, New York City, NY, 10005",55 Liberty St Unit 7AB,New York City,New York,10005.0,,
+737022,for_sale,700000.0,3.0,2.0,,"69-09 108th St Unit 110, Forest Hills, NY, 11375",69-09 108th St Unit 110,Forest Hills,New York,11375.0,1430.0,2015-01-28
+732022,for_sale,1495000.0,2.0,2.0,1.04,"60 E 9th St Apt 322, New York City, NY, 10003",60 E 9th St Apt 322,New York City,New York,10003.0,,
+825648,for_sale,525000.0,1.0,1.0,0.34,"280 Rector Pl Apt 3A, New York City, NY, 10280",280 Rector Pl Apt 3A,New York City,New York,10280.0,625.0,2013-07-19
+912256,for_sale,1250000.0,4.0,4.0,0.11,"1546 Robertson Pl, Bronx, NY, 10465",1546 Robertson Pl,Bronx,New York,10465.0,2396.0,2004-05-11
+478465,for_sale,959000.0,3.0,2.0,0.26,"138 St Pauls Ave, Staten Island, NY, 10301",138 St Pauls Ave,Staten Island,New York,10301.0,2016.0,2015-05-01
+909811,for_sale,695000.0,3.0,2.0,,"6 Chateaux Cir Apt 6B, Scarsdale, NY, 10583",6 Chateaux Cir Apt 6B,Scarsdale,New York,10583.0,1500.0,
+747115,for_sale,755000.0,1.0,1.0,,"160 W End Ave Apt 18J, Manhattan, NY, 10023",160 W End Ave Apt 18J,Manhattan,New York,10023.0,,
+737349,for_sale,1100000.0,6.0,2.0,0.04,"70-03 68th Pl, Glendale, NY, 11385",70-03 68th Pl,Glendale,New York,11385.0,2172.0,2013-06-20
+725648,for_sale,649000.0,3.0,2.0,0.06,"222 Woodrow Rd, Staten Island, NY, 10312",222 Woodrow Rd,Staten Island,New York,10312.0,1200.0,2009-07-21
+813920,for_sale,649000.0,,,,"200 E 27th St Apt 2X, New York, NY, 10016",200 E 27th St Apt 2X,New York,New York,10016.0,,2011-09-12
+742931,for_sale,1725000.0,1.0,2.0,,"49 Chambers St Apt 9G, New York, NY, 10007",49 Chambers St Apt 9G,New York,New York,10007.0,1149.0,
+810333,for_sale,599000.0,3.0,2.0,0.06,"115-45 167th St, Jamaica, NY, 11434",115-45 167th St,Jamaica,New York,11434.0,,
+719683,for_sale,358888.0,2.0,1.0,0.02,"145 Lincoln Ave Apt 1K, Staten Island, NY, 10306",145 Lincoln Ave Apt 1K,Staten Island,New York,10306.0,946.0,2006-06-22
+783575,for_sale,1400000.0,1.0,1.0,,"200 Chambers St Apt 7L, New York, NY, 10007",200 Chambers St Apt 7L,New York,New York,10007.0,625.0,2013-09-10
+562839,for_sale,4750000.0,4.0,3.0,,"1 Clinton St Apt 27B, New York, NY, 11201",1 Clinton St Apt 27B,New York,New York,11201.0,2563.0,
+799943,for_sale,850000.0,1.0,2.0,,"59 W 88th St Apt Bf, New York, NY, 10024",59 W 88th St Apt Bf,New York,New York,10024.0,834.0,2019-03-19
+493691,for_sale,699000.0,3.0,3.0,0.04,"1912 Radcliff Ave, Bronx, NY, 10462",1912 Radcliff Ave,Bronx,New York,10462.0,1782.0,2008-03-12
+515728,for_sale,3295000.0,,2.0,0.29,"7539 Shore Rd, Brooklyn, NY, 11209",7539 Shore Rd,Brooklyn,New York,11209.0,1794.0,2019-08-13
+910898,for_sale,599000.0,1.0,1.0,,"166-176 Seeley St Unit 2A, New York City, NY, 11218",166-176 Seeley St Unit 2A,New York City,New York,11218.0,,
+854703,for_sale,408888.0,2.0,1.0,,"66-10 Thornton Pl Unit 3, Rego Park, NY, 11374",66-10 Thornton Pl Unit 3,Rego Park,New York,11374.0,1000.0,
+864185,for_sale,659000.0,3.0,2.0,,"130 Lenox Ave Unit 616, New York City, NY, 10026",130 Lenox Ave Unit 616,New York City,New York,10026.0,1000.0,
+818984,for_sale,360000.0,2.0,1.0,,"5800 Arlington Ave Apt 10X, Bronx, NY, 10471",5800 Arlington Ave Apt 10X,Bronx,New York,10471.0,,2017-06-30
+847637,for_sale,219999.0,1.0,1.0,,"5 Whitehall Rd Unit 2L, Eastchester, NY, 10709",5 Whitehall Rd Unit 2L,Eastchester,New York,10709.0,721.0,
+822956,for_sale,449000.0,,1.0,,"185 W End Ave Apt 1B, New York City, NY, 10023",185 W End Ave Apt 1B,New York City,New York,10023.0,,
+876415,for_sale,539000.0,1.0,1.0,,"256 Winthrop St Unit 4A, New York, NY, 11225",256 Winthrop St Unit 4A,New York,New York,11225.0,588.0,
+862691,for_sale,825000.0,4.0,2.0,0.06,"137-28 94th St, Ozone Park, NY, 11417",137-28 94th St,Ozone Park,New York,11417.0,,1997-11-07
+920507,for_sale,225000.0,,,0.47,"149 S Main St, Pearl River, NY, 10965",149 S Main St,Pearl River,New York,10965.0,,
+555765,for_sale,1525000.0,5.0,2.0,0.05,"24-58 26th St, Astoria, NY, 11102",24-58 26th St,Astoria,New York,11102.0,,2005-01-10
+566230,for_sale,999999.0,5.0,4.0,1.0,"1 Winding Brook Dr, Larchmont, NY, 10538",1 Winding Brook Dr,Larchmont,New York,10538.0,3016.0,2021-12-17
+905134,for_sale,100000.0,,,0.17,"224 Oak St, Yonkers, NY, 10701",224 Oak St,Yonkers,New York,10701.0,,1989-12-01
+734729,for_sale,1075000.0,1.0,1.0,,"36 E 69th St Apt 3A, New York City, NY, 10021",36 E 69th St Apt 3A,New York City,New York,10021.0,,2012-03-16
+716247,for_sale,945000.0,1.0,1.0,,"333 Rector Pl Apt 1012, Manhattan, NY, 10280",333 Rector Pl Apt 1012,Manhattan,New York,10280.0,768.0,2012-07-30
+803500,for_sale,6250000.0,7.0,7.0,,"330 Convent Ave, New York City, NY, 10031",330 Convent Ave,New York City,New York,10031.0,6400.0,2006-06-12
+574376,for_sale,1495000.0,3.0,3.0,0.27,"118 Carleon Ave, Larchmont, NY, 10538",118 Carleon Ave,Larchmont,New York,10538.0,2914.0,1995-11-24
+879853,for_sale,299000.0,,1.0,,"345 E 61st St Apt 2B, New York, NY, 10065",345 E 61st St Apt 2B,New York,New York,10065.0,,2016-06-22
+909415,for_sale,3650000.0,6.0,8.0,3.39,"6 Sterling Rd S, Armonk, NY, 10504",6 Sterling Rd S,Armonk,New York,10504.0,7584.0,2001-02-28
+813597,for_sale,16000000.0,4.0,5.0,,"60 Collister St Apt 3A, New York City, NY, 10013",60 Collister St Apt 3A,New York City,New York,10013.0,5416.0,
+798126,for_sale,639000.0,4.0,3.0,,"439 Logan St, New York City, NY, 11208",439 Logan St,New York City,New York,11208.0,,2016-12-20
+456650,for_sale,449987.0,3.0,2.0,0.11,"14 Balin Ave, Centereach, NY, 11720",14 Balin Ave,Centereach,New York,11720.0,,2015-12-22

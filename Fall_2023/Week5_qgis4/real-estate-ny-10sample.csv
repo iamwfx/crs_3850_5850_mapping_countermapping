@@ -1,0 +1,11 @@
+,status,price,bed,bath,acre_lot,full_address,street,city,state,zip_code,house_size,sold_date
+524407,for_sale,1100000.0,1.0,1.0,,"2109 Broadway Apt 792, New York, NY, 10023",2109 Broadway Apt 792,New York,New York,10023.0,713.0,2007-03-09
+504897,for_sale,1147000.0,2.0,3.0,0.09,"361 Manhattan Ave Unit 1, New York City, NY, 10026",361 Manhattan Ave Unit 1,New York City,New York,10026.0,1400.0,
+736234,for_sale,2695000.0,7.0,6.0,,"688 Putnam Ave, New York, NY, 11221",688 Putnam Ave,New York,New York,11221.0,,1993-06-09
+554671,for_sale,1499000.0,4.0,3.0,0.07,"1531 W 10th St, Brooklyn, NY, 11204",1531 W 10th St,Brooklyn,New York,11204.0,1964.0,1982-12-01
+867085,for_sale,949000.0,1.0,1.0,,"143 Meserole St Apt 5A, Brooklyn, NY, 11206",143 Meserole St Apt 5A,Brooklyn,New York,11206.0,600.0,2017-11-30
+800407,for_sale,320000.0,1.0,1.0,,"99-60 63rd Rd Unit 3S, New York City, NY, 11374",99-60 63rd Rd Unit 3S,New York City,New York,11374.0,,
+897168,for_sale,2500000.0,2.0,2.0,,"211 W 18th St Apt 5, New York, NY, 10011",211 W 18th St Apt 5,New York,New York,10011.0,1310.0,2019-12-30
+720794,for_sale,1315600.0,1.0,1.0,,"20 River Ter Apt 17H, New York City, NY, 10282",20 River Ter Apt 17H,New York City,New York,10282.0,852.0,
+454148,for_sale,599000.0,5.0,4.0,0.37,"115 Lakeside Trl, Ridge, NY, 11961",115 Lakeside Trl,Ridge,New York,11961.0,,
+783543,for_sale,1229000.0,4.0,3.0,0.05,"Glendale, NY, 11385",,Glendale,New York,11385.0,,
