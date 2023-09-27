@@ -58,6 +58,7 @@ We are going to learn *just* enough Git to learn how to publish your map and web
 - Now you need to make this repo into a Github Page. The instructions for how to do this are on [this site](https://pages.github.com/)
   - We will be creating a **Project Site**
   - You are going to **Start from scratch**
+  - Select "Github Desktop" when it asks which git client you're using
   - At step 1: where the instructions tell you to "Create an index file", you're going to navigate to your `countermapping-webmaps` repo and select **Add file->Create new file**.
 
 <p align='center'>
