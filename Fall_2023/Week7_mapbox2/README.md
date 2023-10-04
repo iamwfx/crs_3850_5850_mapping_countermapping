@@ -6,9 +6,8 @@
 - Data-driven styling
 - CSS styling: sizing our elements
 - Interactivity: Layer selection
-- New topic
-- New topic 2
--
+
+
 # 0. READ ME: A note about web address nomenclature, case sensitivity, spaces, quotation marks, and indents
 
 **Anatomy of a web address**
