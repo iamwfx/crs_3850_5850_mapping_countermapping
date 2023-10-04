@@ -2,9 +2,11 @@
 # Week 7 - Data-driven styling and interactivity in Mapbox
 
 **Today we will cover**
+
 - Data-driven styling
 - CSS styling: sizing our elements
 - Interactivity: Layer selection
+- New topic
 
 # 0. READ ME: A note about web address nomenclature, case sensitivity, spaces, quotation marks, and indents
 
