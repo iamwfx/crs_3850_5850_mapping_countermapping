@@ -1,0 +1,629 @@
+--------------------------------------------------------------------------------
+Codebook for NHGIS data file 'nhgis0114_ds249_20205_blck_grp'
+--------------------------------------------------------------------------------
+ 
+Contents
+    - Data Summary
+    - Data Dictionary
+    - Citation and Use
+ 
+Additional documentation on NHGIS data sources is available at: 
+    https://www.nhgis.org/documentation/tabular-data 
+ 
+--------------------------------------------------------------------------------
+Data Summary
+--------------------------------------------------------------------------------
+ 
+Year:             2016-2020
+Geographic level: Block Group (by State--County--Census Tract)
+Extent:           New York
+Dataset:          2020 American Community Survey: 5-Year Data [2016-2020, Block Groups & Larger Areas]
+   NHGIS code:    2016_2020_ACS5a
+   NHGIS ID:      ds249
+Breakdown(s):     Geographic Subarea:
+                     Total area (00)
+Data type(s):     (E) Estimates
+                  (M) Margins of error
+ 
+Tables:
+ 
+1. Total Population
+   Universe:    Total population
+   Source code: B01003
+   NHGIS code:  AMPV
+ 
+2. Race
+   Universe:    Total population
+   Source code: B02001
+   NHGIS code:  AMPW
+ 
+3. Hispanic or Latino Origin by Race
+   Universe:    Total population
+   Source code: B03002
+   NHGIS code:  AMP3
+ 
+4. Educational Attainment for the Population 25 Years and Over
+   Universe:    Population 25 years and over
+   Source code: B15003
+   NHGIS code:  AMRZ
+ 
+5. Poverty Status in the Past 12 Months by Household Type by Age of Householder
+   Universe:    Households
+   Source code: B17017
+   NHGIS code:  AMR5
+ 
+6. Median Household Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars)
+   Universe:    Households
+   Source code: B19013
+   NHGIS code:  AMR8
+ 
+7. Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households
+   Universe:    Households
+   Source code: B19058
+   NHGIS code:  AMST
+ 
+8. Employment Status for the Population 16 Years and Over
+   Universe:    Population 16 years and over
+   Source code: B23025
+   NHGIS code:  AMT9
+ 
+9. Housing Units
+   Universe:    Housing units
+   Source code: B25001
+   NHGIS code:  AMUD
+ 
+10. Occupancy Status
+    Universe:    Housing units
+    Source code: B25002
+    NHGIS code:  AMUE
+ 
+11. Median Gross Rent (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25064
+    NHGIS code:  AMVZ
+ 
+12. Median Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25071
+    NHGIS code:  AMV6
+ 
+13. Median Value (Dollars)
+    Universe:    Owner-occupied housing units
+    Source code: B25077
+    NHGIS code:  AMWB
+ 
+14. Ratio of Income to Poverty Level in the Past 12 Months
+    Universe:    Population for whom poverty status is determined
+    Source code: C17002
+    NHGIS code:  AMZM
+ 
+--------------------------------------------------------------------------------
+Data Dictionary
+--------------------------------------------------------------------------------
+ 
+Context Fields 
+        GISJOIN:     GIS Join Match Code
+        YEAR:        Data File Year
+        STUSAB:      State Postal Abbreviation
+        REGIONA:     Region Code
+        DIVISIONA:   Division Code
+        STATE:       State Name
+        STATEA:      State Code
+        COUNTY:      County Name
+        COUNTYA:     County Code
+        CTY_SUBA:    County Subdivision Code
+        PLACEA:      Place Code
+        TRACTA:      Census Tract Code
+        BLCK_GRPA:   Block Group Code
+        C_CITYA:     Consolidated City Code
+        AIANHHA:     American Indian Area/Alaska Native Area/Hawaiian Home Land Code
+        RES_ONLYA:   American Indian Area/Alaska Native Area (Reservation or Statistical Entity Only) Code
+        TRUSTA:      American Indian Area (Off-Reservation Trust Land Only)/Hawaiian Home Land Code
+        AIHHTLI:     American Indian Trust Land/ Hawaiian Home Land Indicator
+        TRBL_SUBA:   Tribal Subdivision Code
+        AITS:        American Indian Tribal Subdivision (FIPS)
+        ANRCA:       Alaska Native Regional Corporation Code
+        CBSAA:       Core Based (Metropolitan/Micropolitan) Statistical Area [2003-Present] Code
+        CSAA:        Combined Statistical Area [2003-Present] Code
+        METDIVA:     Metropolitan Division [2003-Present] Code
+        MEMI:        Metropolitan/Micropolitan Indicator Flag
+        NECTAA:      New England City and Town Area [2003-Present] Code
+        C_NECTAA:    Combined New England City and Town Area [2003-Present] Code
+        NECTADIVA:   New England City and Town Area Division [2003-Present] Code
+        URB_AREAA:   Urban Area [1970-Present] Code
+        CDA:         Congressional District Code
+        STLEG_UPA:   State Legislative District (Upper Chamber) Code
+        STLEG_LOA:   State Legislative District (Lower Chamber) Code
+        ZCTAA:       5-Digit ZIP Code Tabulation Area [2000-Present] Code
+        SUBMCDA:     Subminor Civil Division [Puerto Rico] Code
+        SD_ELMA:     School District (Elementary) Code
+        SD_SECA:     School District (Secondary) Code
+        SD_UNIA:     School District (Unified) Code
+        UR:          Urban/Rural
+        PCI:         Principal City Indicator
+        PUMAA:       Public Use Microdata Sample Area (PUMA) Code
+        GEOID:       Census Geographic Identifier
+        TRBL_CTA:    Tribal Census Tract Code
+        TRBL_BGA:    Tribal Block Group Code
+ 
+Data Type (E):
+    Estimates
+ 
+        NAME_E:      Area Name
+ 
+    Table 1:     Total Population
+    Universe:    Total population
+    Source code: B01003
+    NHGIS code:  AMPV
+        AMPVE001:    Total
+ 
+    Table 2:     Race
+    Universe:    Total population
+    Source code: B02001
+    NHGIS code:  AMPW
+        AMPWE001:    Total
+        AMPWE002:    White alone
+        AMPWE003:    Black or African American alone
+        AMPWE004:    American Indian and Alaska Native alone
+        AMPWE005:    Asian alone
+        AMPWE006:    Native Hawaiian and Other Pacific Islander alone
+        AMPWE007:    Some other race alone
+        AMPWE008:    Two or more races
+        AMPWE009:    Two or more races: Two races including Some other race
+        AMPWE010:    Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 3:     Hispanic or Latino Origin by Race
+    Universe:    Total population
+    Source code: B03002
+    NHGIS code:  AMP3
+        AMP3E001:    Total
+        AMP3E002:    Not Hispanic or Latino
+        AMP3E003:    Not Hispanic or Latino: White alone
+        AMP3E004:    Not Hispanic or Latino: Black or African American alone
+        AMP3E005:    Not Hispanic or Latino: American Indian and Alaska Native alone
+        AMP3E006:    Not Hispanic or Latino: Asian alone
+        AMP3E007:    Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        AMP3E008:    Not Hispanic or Latino: Some other race alone
+        AMP3E009:    Not Hispanic or Latino: Two or more races
+        AMP3E010:    Not Hispanic or Latino: Two or more races: Two races including Some other race
+        AMP3E011:    Not Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+        AMP3E012:    Hispanic or Latino
+        AMP3E013:    Hispanic or Latino: White alone
+        AMP3E014:    Hispanic or Latino: Black or African American alone
+        AMP3E015:    Hispanic or Latino: American Indian and Alaska Native alone
+        AMP3E016:    Hispanic or Latino: Asian alone
+        AMP3E017:    Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        AMP3E018:    Hispanic or Latino: Some other race alone
+        AMP3E019:    Hispanic or Latino: Two or more races
+        AMP3E020:    Hispanic or Latino: Two or more races: Two races including Some other race
+        AMP3E021:    Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 4:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AMRZ
+        AMRZE001:    Total
+        AMRZE002:    No schooling completed
+        AMRZE003:    Nursery school
+        AMRZE004:    Kindergarten
+        AMRZE005:    1st grade
+        AMRZE006:    2nd grade
+        AMRZE007:    3rd grade
+        AMRZE008:    4th grade
+        AMRZE009:    5th grade
+        AMRZE010:    6th grade
+        AMRZE011:    7th grade
+        AMRZE012:    8th grade
+        AMRZE013:    9th grade
+        AMRZE014:    10th grade
+        AMRZE015:    11th grade
+        AMRZE016:    12th grade, no diploma
+        AMRZE017:    Regular high school diploma
+        AMRZE018:    GED or alternative credential
+        AMRZE019:    Some college, less than 1 year
+        AMRZE020:    Some college, 1 or more years, no degree
+        AMRZE021:    Associate's degree
+        AMRZE022:    Bachelor's degree
+        AMRZE023:    Master's degree
+        AMRZE024:    Professional school degree
+        AMRZE025:    Doctorate degree
+ 
+    Table 5:     Poverty Status in the Past 12 Months by Household Type by Age of Householder
+    Universe:    Households
+    Source code: B17017
+    NHGIS code:  AMR5
+        AMR5E001:    Total
+        AMR5E002:    Income in the past 12 months below poverty level
+        AMR5E003:    Income in the past 12 months below poverty level: Family households
+        AMR5E004:    Income in the past 12 months below poverty level: Family households: Married-couple family
+        AMR5E005:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder under 25 years
+        AMR5E006:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 25 to 44 years
+        AMR5E007:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 45 to 64 years
+        AMR5E008:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 65 years and over
+        AMR5E009:    Income in the past 12 months below poverty level: Family households: Other family
+        AMR5E010:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present
+        AMR5E011:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder under 25 years
+        AMR5E012:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 25 to 44 years
+        AMR5E013:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 45 to 64 years
+        AMR5E014:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 65 years and over
+        AMR5E015:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present
+        AMR5E016:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder under 25 years
+        AMR5E017:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 25 to 44 years
+        AMR5E018:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 45 to 64 years
+        AMR5E019:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 65 years and over
+        AMR5E020:    Income in the past 12 months below poverty level: Nonfamily households
+        AMR5E021:    Income in the past 12 months below poverty level: Nonfamily households: Male householder
+        AMR5E022:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder under 25 years
+        AMR5E023:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+        AMR5E024:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+        AMR5E025:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 65 years and over
+        AMR5E026:    Income in the past 12 months below poverty level: Nonfamily households: Female householder
+        AMR5E027:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder under 25 years
+        AMR5E028:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+        AMR5E029:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+        AMR5E030:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 65 years and over
+        AMR5E031:    Income in the past 12 months at or above poverty level
+        AMR5E032:    Income in the past 12 months at or above poverty level: Family households
+        AMR5E033:    Income in the past 12 months at or above poverty level: Family households: Married-couple family
+        AMR5E034:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder under 25 years
+        AMR5E035:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 25 to 44 years
+        AMR5E036:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 45 to 64 years
+        AMR5E037:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 65 years and over
+        AMR5E038:    Income in the past 12 months at or above poverty level: Family households: Other family
+        AMR5E039:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present
+        AMR5E040:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder under 25 years
+        AMR5E041:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 25 to 44 years
+        AMR5E042:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 45 to 64 years
+        AMR5E043:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 65 years and over
+        AMR5E044:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present
+        AMR5E045:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder under 25 years
+        AMR5E046:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 25 to 44 years
+        AMR5E047:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 45 to 64 years
+        AMR5E048:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 65 years and over
+        AMR5E049:    Income in the past 12 months at or above poverty level: Nonfamily households
+        AMR5E050:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder
+        AMR5E051:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder under 25 years
+        AMR5E052:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+        AMR5E053:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+        AMR5E054:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 65 years and over
+        AMR5E055:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder
+        AMR5E056:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder under 25 years
+        AMR5E057:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+        AMR5E058:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+        AMR5E059:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 65 years and over
+ 
+    Table 6:     Median Household Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AMR8
+        AMR8E001:    Median household income in the past 12 months (in 2020 inflation-adjusted dollars)
+ 
+    Table 7:     Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households
+    Universe:    Households
+    Source code: B19058
+    NHGIS code:  AMST
+        AMSTE001:    Total
+        AMSTE002:    With cash public assistance or Food Stamps/SNAP
+        AMSTE003:    No cash public assistance or Food Stamps/SNAP
+ 
+    Table 8:     Employment Status for the Population 16 Years and Over
+    Universe:    Population 16 years and over
+    Source code: B23025
+    NHGIS code:  AMT9
+        AMT9E001:    Total
+        AMT9E002:    In labor force
+        AMT9E003:    In labor force: Civilian labor force
+        AMT9E004:    In labor force: Civilian labor force: Employed
+        AMT9E005:    In labor force: Civilian labor force: Unemployed
+        AMT9E006:    In labor force: Armed Forces
+        AMT9E007:    Not in labor force
+ 
+    Table 9:     Housing Units
+    Universe:    Housing units
+    Source code: B25001
+    NHGIS code:  AMUD
+        AMUDE001:    Total
+ 
+    Table 10:    Occupancy Status
+    Universe:    Housing units
+    Source code: B25002
+    NHGIS code:  AMUE
+        AMUEE001:    Total
+        AMUEE002:    Occupied
+        AMUEE003:    Vacant
+ 
+    Table 11:    Median Gross Rent (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25064
+    NHGIS code:  AMVZ
+        AMVZE001:    Median gross rent
+ 
+    Table 12:    Median Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25071
+    NHGIS code:  AMV6
+        AMV6E001:    Median gross rent as a percentage of household income
+ 
+    Table 13:    Median Value (Dollars)
+    Universe:    Owner-occupied housing units
+    Source code: B25077
+    NHGIS code:  AMWB
+        AMWBE001:    Median value (dollars)
+ 
+    Table 14:    Ratio of Income to Poverty Level in the Past 12 Months
+    Universe:    Population for whom poverty status is determined
+    Source code: C17002
+    NHGIS code:  AMZM
+        AMZME001:    Total
+        AMZME002:    Under .50
+        AMZME003:    .50 to .99
+        AMZME004:    1.00 to 1.24
+        AMZME005:    1.25 to 1.49
+        AMZME006:    1.50 to 1.84
+        AMZME007:    1.85 to 1.99
+        AMZME008:    2.00 and over
+ 
+Data Type (M):
+    Margins of error
+ 
+        NAME_M:      Area Name
+ 
+    Table 1:     Total Population
+    Universe:    Total population
+    Source code: B01003
+    NHGIS code:  AMPV
+        AMPVM001:    Total
+ 
+    Table 2:     Race
+    Universe:    Total population
+    Source code: B02001
+    NHGIS code:  AMPW
+        AMPWM001:    Total
+        AMPWM002:    White alone
+        AMPWM003:    Black or African American alone
+        AMPWM004:    American Indian and Alaska Native alone
+        AMPWM005:    Asian alone
+        AMPWM006:    Native Hawaiian and Other Pacific Islander alone
+        AMPWM007:    Some other race alone
+        AMPWM008:    Two or more races
+        AMPWM009:    Two or more races: Two races including Some other race
+        AMPWM010:    Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 3:     Hispanic or Latino Origin by Race
+    Universe:    Total population
+    Source code: B03002
+    NHGIS code:  AMP3
+        AMP3M001:    Total
+        AMP3M002:    Not Hispanic or Latino
+        AMP3M003:    Not Hispanic or Latino: White alone
+        AMP3M004:    Not Hispanic or Latino: Black or African American alone
+        AMP3M005:    Not Hispanic or Latino: American Indian and Alaska Native alone
+        AMP3M006:    Not Hispanic or Latino: Asian alone
+        AMP3M007:    Not Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        AMP3M008:    Not Hispanic or Latino: Some other race alone
+        AMP3M009:    Not Hispanic or Latino: Two or more races
+        AMP3M010:    Not Hispanic or Latino: Two or more races: Two races including Some other race
+        AMP3M011:    Not Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+        AMP3M012:    Hispanic or Latino
+        AMP3M013:    Hispanic or Latino: White alone
+        AMP3M014:    Hispanic or Latino: Black or African American alone
+        AMP3M015:    Hispanic or Latino: American Indian and Alaska Native alone
+        AMP3M016:    Hispanic or Latino: Asian alone
+        AMP3M017:    Hispanic or Latino: Native Hawaiian and Other Pacific Islander alone
+        AMP3M018:    Hispanic or Latino: Some other race alone
+        AMP3M019:    Hispanic or Latino: Two or more races
+        AMP3M020:    Hispanic or Latino: Two or more races: Two races including Some other race
+        AMP3M021:    Hispanic or Latino: Two or more races: Two races excluding Some other race, and three or more races
+ 
+    Table 4:     Educational Attainment for the Population 25 Years and Over
+    Universe:    Population 25 years and over
+    Source code: B15003
+    NHGIS code:  AMRZ
+        AMRZM001:    Total
+        AMRZM002:    No schooling completed
+        AMRZM003:    Nursery school
+        AMRZM004:    Kindergarten
+        AMRZM005:    1st grade
+        AMRZM006:    2nd grade
+        AMRZM007:    3rd grade
+        AMRZM008:    4th grade
+        AMRZM009:    5th grade
+        AMRZM010:    6th grade
+        AMRZM011:    7th grade
+        AMRZM012:    8th grade
+        AMRZM013:    9th grade
+        AMRZM014:    10th grade
+        AMRZM015:    11th grade
+        AMRZM016:    12th grade, no diploma
+        AMRZM017:    Regular high school diploma
+        AMRZM018:    GED or alternative credential
+        AMRZM019:    Some college, less than 1 year
+        AMRZM020:    Some college, 1 or more years, no degree
+        AMRZM021:    Associate's degree
+        AMRZM022:    Bachelor's degree
+        AMRZM023:    Master's degree
+        AMRZM024:    Professional school degree
+        AMRZM025:    Doctorate degree
+ 
+    Table 5:     Poverty Status in the Past 12 Months by Household Type by Age of Householder
+    Universe:    Households
+    Source code: B17017
+    NHGIS code:  AMR5
+        AMR5M001:    Total
+        AMR5M002:    Income in the past 12 months below poverty level
+        AMR5M003:    Income in the past 12 months below poverty level: Family households
+        AMR5M004:    Income in the past 12 months below poverty level: Family households: Married-couple family
+        AMR5M005:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder under 25 years
+        AMR5M006:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 25 to 44 years
+        AMR5M007:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 45 to 64 years
+        AMR5M008:    Income in the past 12 months below poverty level: Family households: Married-couple family: Householder 65 years and over
+        AMR5M009:    Income in the past 12 months below poverty level: Family households: Other family
+        AMR5M010:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present
+        AMR5M011:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder under 25 years
+        AMR5M012:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 25 to 44 years
+        AMR5M013:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 45 to 64 years
+        AMR5M014:    Income in the past 12 months below poverty level: Family households: Other family: Male householder, no spouse present: Householder 65 years and over
+        AMR5M015:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present
+        AMR5M016:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder under 25 years
+        AMR5M017:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 25 to 44 years
+        AMR5M018:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 45 to 64 years
+        AMR5M019:    Income in the past 12 months below poverty level: Family households: Other family: Female householder, no spouse present: Householder 65 years and over
+        AMR5M020:    Income in the past 12 months below poverty level: Nonfamily households
+        AMR5M021:    Income in the past 12 months below poverty level: Nonfamily households: Male householder
+        AMR5M022:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder under 25 years
+        AMR5M023:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+        AMR5M024:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+        AMR5M025:    Income in the past 12 months below poverty level: Nonfamily households: Male householder: Householder 65 years and over
+        AMR5M026:    Income in the past 12 months below poverty level: Nonfamily households: Female householder
+        AMR5M027:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder under 25 years
+        AMR5M028:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+        AMR5M029:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+        AMR5M030:    Income in the past 12 months below poverty level: Nonfamily households: Female householder: Householder 65 years and over
+        AMR5M031:    Income in the past 12 months at or above poverty level
+        AMR5M032:    Income in the past 12 months at or above poverty level: Family households
+        AMR5M033:    Income in the past 12 months at or above poverty level: Family households: Married-couple family
+        AMR5M034:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder under 25 years
+        AMR5M035:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 25 to 44 years
+        AMR5M036:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 45 to 64 years
+        AMR5M037:    Income in the past 12 months at or above poverty level: Family households: Married-couple family: Householder 65 years and over
+        AMR5M038:    Income in the past 12 months at or above poverty level: Family households: Other family
+        AMR5M039:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present
+        AMR5M040:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder under 25 years
+        AMR5M041:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 25 to 44 years
+        AMR5M042:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 45 to 64 years
+        AMR5M043:    Income in the past 12 months at or above poverty level: Family households: Other family: Male householder, no spouse present: Householder 65 years and over
+        AMR5M044:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present
+        AMR5M045:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder under 25 years
+        AMR5M046:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 25 to 44 years
+        AMR5M047:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 45 to 64 years
+        AMR5M048:    Income in the past 12 months at or above poverty level: Family households: Other family: Female householder, no spouse present: Householder 65 years and over
+        AMR5M049:    Income in the past 12 months at or above poverty level: Nonfamily households
+        AMR5M050:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder
+        AMR5M051:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder under 25 years
+        AMR5M052:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 25 to 44 years
+        AMR5M053:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 45 to 64 years
+        AMR5M054:    Income in the past 12 months at or above poverty level: Nonfamily households: Male householder: Householder 65 years and over
+        AMR5M055:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder
+        AMR5M056:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder under 25 years
+        AMR5M057:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 25 to 44 years
+        AMR5M058:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 45 to 64 years
+        AMR5M059:    Income in the past 12 months at or above poverty level: Nonfamily households: Female householder: Householder 65 years and over
+ 
+    Table 6:     Median Household Income in the Past 12 Months (in 2020 Inflation-Adjusted Dollars)
+    Universe:    Households
+    Source code: B19013
+    NHGIS code:  AMR8
+        AMR8M001:    Median household income in the past 12 months (in 2020 inflation-adjusted dollars)
+ 
+    Table 7:     Public Assistance Income or Food Stamps/SNAP in the Past 12 Months for Households
+    Universe:    Households
+    Source code: B19058
+    NHGIS code:  AMST
+        AMSTM001:    Total
+        AMSTM002:    With cash public assistance or Food Stamps/SNAP
+        AMSTM003:    No cash public assistance or Food Stamps/SNAP
+ 
+    Table 8:     Employment Status for the Population 16 Years and Over
+    Universe:    Population 16 years and over
+    Source code: B23025
+    NHGIS code:  AMT9
+        AMT9M001:    Total
+        AMT9M002:    In labor force
+        AMT9M003:    In labor force: Civilian labor force
+        AMT9M004:    In labor force: Civilian labor force: Employed
+        AMT9M005:    In labor force: Civilian labor force: Unemployed
+        AMT9M006:    In labor force: Armed Forces
+        AMT9M007:    Not in labor force
+ 
+    Table 9:     Housing Units
+    Universe:    Housing units
+    Source code: B25001
+    NHGIS code:  AMUD
+        AMUDM001:    Total
+ 
+    Table 10:    Occupancy Status
+    Universe:    Housing units
+    Source code: B25002
+    NHGIS code:  AMUE
+        AMUEM001:    Total
+        AMUEM002:    Occupied
+        AMUEM003:    Vacant
+ 
+    Table 11:    Median Gross Rent (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25064
+    NHGIS code:  AMVZ
+        AMVZM001:    Median gross rent
+ 
+    Table 12:    Median Gross Rent as a Percentage of Household Income in the Past 12 Months (Dollars)
+    Universe:    Renter-occupied housing units paying cash rent
+    Source code: B25071
+    NHGIS code:  AMV6
+        AMV6M001:    Median gross rent as a percentage of household income
+ 
+    Table 13:    Median Value (Dollars)
+    Universe:    Owner-occupied housing units
+    Source code: B25077
+    NHGIS code:  AMWB
+        AMWBM001:    Median value (dollars)
+ 
+    Table 14:    Ratio of Income to Poverty Level in the Past 12 Months
+    Universe:    Population for whom poverty status is determined
+    Source code: C17002
+    NHGIS code:  AMZM
+        AMZMM001:    Total
+        AMZMM002:    Under .50
+        AMZMM003:    .50 to .99
+        AMZMM004:    1.00 to 1.24
+        AMZMM005:    1.25 to 1.49
+        AMZMM006:    1.50 to 1.84
+        AMZMM007:    1.85 to 1.99
+        AMZMM008:    2.00 and over
+ 
+--------------------------------------------------------------------------------
+Citation and Use of NHGIS Data
+--------------------------------------------------------------------------------
+ 
+All persons are granted a limited license to use this documentation and the
+accompanying data, subject to the following conditions:
+
+* REDISTRIBUTION: You will not redistribute the data without permission.
+
+  You may publish a subset of the data to meet journal requirements for accessing 
+  data related to a particular publication. Contact us for permission for any other 
+  redistribution; we will consider requests for free and commercial redistribution.
+
+* CITATION: You will cite NHGIS appropriately.
+
+    * Publications and research reports employing NHGIS data (either tabular or GIS) 
+      should include the following citation:
+
+        Steven Manson, Jonathan Schroeder, David Van Riper, Tracy Kugler, and Steven Ruggles. 
+        IPUMS National Historical Geographic Information System: Version 17.0 
+        [dataset]. Minneapolis, MN: IPUMS. 2022. 
+        http://doi.org/10.18128/D050.V17.0
+
+    * For policy briefs, online resources, or articles in the popular press, we 
+      recommend that you cite the use of NHGIS data as follows:
+
+        IPUMS NHGIS, University of Minnesota, www.nhgis.org.
+
+These terms of use are a legally binding agreement. You can use the data only in 
+accordance with these terms, and any other use is a violation of the agreement. 
+Violations may result in revocation of the agreement and prohibition from using other 
+IPUMS data. If IPUMS or our partners are harmed from your violation, you are 
+responsible for all damages, including reasonable attorney's fees and expenses.
+        
+In addition, we request that users send us a copy of any publications, research
+reports, or educational material making use of the data or documentation.
+
+Send electronic material to: nhgis@umn.edu
+
+Printed matter should be sent to:
+
+    IPUMS NHGIS
+    Institute for Social Research and Data Innovation
+    University of Minnesota
+    50 Willey Hall
+    225 19th Ave S
+    Minneapolis, MN 55455
