@@ -517,8 +517,8 @@ Inside this function, when our mouse enters an object, we are going to do the fo
 ```js
   // Here's that function that does the transformation
   function emptyToYesNo(val){
-    if (val == null || val == undefined){
-      return "No"} else {return "Yes"};
+    if (val.length > 1){
+	return "Yes"} else {return "No"};
   }
   const Address = e.features[0].properties.Address;
   const BBL = e.features[0].properties.BBL;
