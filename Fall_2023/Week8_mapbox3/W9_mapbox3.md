@@ -424,7 +424,7 @@ Add in the following parcel data layers:
 View the data in Mapbox studio [here](https://studio.mapbox.com/tilesets/iamwfx.ab4g098q/#10.23/40.7219/-73.8063) and see what columns are available.
 
 
-Notice that there is a column called `house_type`. It has the following possible categories:
+Notice that there is a column called `hous_type`. It has the following possible categories:
 
 - `coop`: co-op buildings
 - `homeless`: homeless shelters,
