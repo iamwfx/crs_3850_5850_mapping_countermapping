@@ -6,6 +6,9 @@
 - Data-driven styling
 - CSS styling: sizing our elements
 - Interactivity: Layer selection
+- New topic
+- New topic 2
+
 
 
 # 0. READ ME: A note about web address nomenclature, case sensitivity, spaces, quotation marks, and indents
@@ -411,7 +414,7 @@ The map looks like this. It hasn't really improved much.
 Part of the reason why I don't love this map is because I want to focus on the areas with more people in poverty, but most of the map has lower poverty. Let's try another strategy.
 
 - First, I'm going to (here, somewhat arbitrarily) create cut-off where I will filter out blocks that are below **300** people in poverty. In other words, below 300 the `fill-opacity` should be 0. (Try the `'step'` expression)
-- Second, I'm going to visualize the tracks with at least 300 people in poverty to be one color again (try this: `'transparent',300,'#f5ef42'`)
+- Second, I'm going to visualize the tracks with at least 300 people in poverty to be one color again (try this color: `#f5ef42`)
 
 You should now have a map that looks like this:
 <p align='center'>
