@@ -1,0 +1,2 @@
+images list:
+sandy1.png = U.S. Coast Guard via Getty Images from [https://www.theatlantic.com/photo/2012/11/hurricane-sandy-the-aftermath/100397/]
