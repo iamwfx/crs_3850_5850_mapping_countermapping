@@ -1,5 +1,5 @@
 
-# Week 12 - Mapbox Storytelling tools 2
+# Week 10 Wed - Mapbox Storytelling tools 2
 
 **Today we will cover**
 - How to sandwich maps in between full page elements
