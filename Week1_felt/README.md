@@ -68,3 +68,5 @@ Your map should address the following questions:
 - What new discovery did you find through the data? 
 - Why do you think this phenomenon exists? 
 - Do you think this phenomenon improves the quality of life in the city overall? Why or why not? 
+
+Here is [my map](https://felt.com/map/Zoning-in-Ithaca-9CKRG7EYwRRObABfQOJ9CbqA?loc=42.43616,-76.51007,14.45z&share=1) of an area zoned for mobile homes in Ithaca
