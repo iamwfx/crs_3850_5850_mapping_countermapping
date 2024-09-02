@@ -1,6 +1,7 @@
 
 # Week 2 - Introduction to QGIS
 **Today we will cover**
+
 - Installing the QGIS software onto you computer.
 - Downloading shapefile data
 - Creating a basic map from a shapefile dataset
