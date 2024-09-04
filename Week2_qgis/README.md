@@ -12,16 +12,13 @@
 
 ## 1.1 Installing QGIS
 QGIS is an open-source software (or OSS), which means that it's distributed with the source code (the underlying code that dictates how the software actually works). A wonderful aspect of open source is that it allows everyone who has access to the source code the ability to change or make additions to the source code and, by extension, to build tools and plug-ins for the software. OSS is also almost always free to use (though, of course, it's not free in the sense that it is often volunteers that create or contribute their spare time to OSS).
-<p align='center'>
-<img src="../Images/qgis_download_button.png" width="600">
-</p>
 
-Navigate to [QGIS's download page](https://qgis.org/en/site/) and click on the green "Download Now" button.
+Navigate to [QGIS's download page](https://qgis.org/en/site/) and click on the "Download" button.
 
 This should take you to a page where you will be able to install QGIS for your operating system such as Windows, Mac, or Linux (does anyone use Linux??).
 
-- If you have Windows: select the **latest release** of the QGIS Standalone Installer Version 3.32.
-- If you have a Mac: select the **latest release** of the QGIS macOS Installer Version 3.32
+- If you have Windows: select the **latest release** of the QGIS Standalone Installer Version 3.38.
+- If you have a Mac: select the **latest release** of the QGIS macOS Installer Version 3.38
 - If you are running Linux: select the appropriate distribution you have.
 
 Once you've downloaded your QGIS installer, you will need to install the software. The standard default install options should be fine.
@@ -67,7 +64,7 @@ Alright, now click on the blank page icon on the top left-hand corner to start a
 <img src="../Images/qgis_newproject.png" width="100">
 </p>
 
-Before we do anything, good practice is to save our project down. In your lab folder, save this project down as `Lab1` using the default `.QGZ` format.
+Before we do anything, it's good practice is to save our project down. In your lab folder, save this project down as `Lab1` using the default `.QGZ` format.
 
 Let's take a look at the general organization of your QGIS interface. The large right section is where your map will be. Your tools are at the top of the page. Your Browser and Layers sections are where you'll be managing your data.
 
@@ -79,22 +76,27 @@ In the Browser section, select navigate to where you have stored all the data we
 
 Now, click and drag all four of our datasets (parks, roads, borough boundaries, and evictions data) into the Layers section. You will notice that when you downloaded your spatial data there were five or so files, there When you drag in the borough layer `nybb`, just select the default projection and click OK.
 
-You'll notice that most of your downloads are folders. Each folder is called a **shapefiles**, which is kind of a misnomer because it's clearly a bundle of files. The shapefile is a specific file format created by ESRI and generally includes the following files:
+You'll notice that most of your downloads are folders. Each folder is called a **shapefile**, which is kind of a misnomer because it's clearly a bundle of files. The shapefile is a specific file format created by ESRI and generally includes the following files:
+
 -	.dbf: This has the attribute data as a table
 -	.shp: This is the actual geometry file
 -	.shx: This indexes the geometry
--	.prj: This file tells QGIS what the project of the file is.
+-	.prj: This file tells QGIS what the projection of the file is.
 
 
 ---
 #### A brief summary of projections and CRSs
-Look on the bottom right-hand corder of your screen. You should see a little globe with a hat, after which you'll see `OGC:CRS84` or more often `EPSG:xxxx`. This is the current projection system that we are using.
+Look at the bottom right-hand corner of your screen. You should see a little globe with a hat, after which you'll see `OGC:CRS84` or more often `EPSG:xxxx`. This is the current projection system that we are using.
 
 Ok, briefly, very very briefly, what is a coordinate reference system (CRS)?
 
-There are two different types of CRSs that together that tell us how the points in our dataset gets put on a flat 2-D map: 
-- The **geographic coordinate system** is the set of rules tells us where the data is on the Earth's surface. 
-- Once we know that, we need the **projected coordinate system** (aka the "projection") that tells us how the surface of earth (and these points on it) "unrolls" into a 2-D surface.
+A Coordinate Reference System (CRS) is a system that defines how the 2D map in your GIS relates to the Earth's surface. When you have a CRS, every location on earth can be specified by its coordinates. 
+
+
+There are two different types of CRSs that together that tell us how to locate places on earth: 
+
+- The **geographic coordinate system** uses the lat, long, and sometimes height to tell us this
+- Once we know that, we need the **projected coordinate system** that tells us how the surface of earth (and these points on it) "unrolls" into a 2-D surface.
 
 As you can see from this image below, there are many ways to flatten the Earth's surface.
 
@@ -180,6 +182,7 @@ Now click **Classify** next to the plus and minus buttons. You'll see that `Evic
 Hm, ok, still not super clear since the points are very big and there are a lot of evictions categorized as Possession.
 
 Let's try two things:
+
 - First, let's make these points smaller and get rid of the border. Go back to your layer styling and select the **Symbol** button. This should take you to familiar territory. Try restyling on your own.
 - Second, uncheck the box that says `Possession` in your Evictions layer. If do a google search for the difference between legal possession and eviction in NYC, we can see that legal possession is when a landlord keeps the renters' things while an eviction is when the Marshal takes the renters' things. This reveals some interesting questions for further exploration (this is not part of the assignment, just something to think about): Where are the Evictions (as opposed to Legal Possession) concentrated. Where are these areas? And why?
 
@@ -209,7 +212,7 @@ Now, under **Project** in the top menu, select **New Print Layout** and call the
 
 Select **Add Item -> Add Map**. Now click and drag from upper left corner to the lower right corner, so that your map fills the whole page. We've put the map on the right so that there's plenty of space on the right to add more information.
 
-Now, **Add Legend**, and click and drag your legend to be position in the lower right area:
+Now, **Add Legend**, and click and drag your legend to the position in the lower right area:
 <p align='center'>
 <img src="../Images/qgis_addlegend.png" width="600">
 </p>
