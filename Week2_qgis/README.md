@@ -210,9 +210,9 @@ Now, under **Project** in the top menu, select **New Print Layout** and call the
 <img src="../Images/qgis_blanklayout.png" width="600">
 </p>
 
-Select **Add Item -> Add Map**. Now click and drag from upper left corner to the lower right corner, so that your map fills the whole page. We've put the map on the right so that there's plenty of space on the right to add more information.
+Select **Add Item -> Add Map**. Now click and drag from upper left corner to the lower right corner, so that your map fills the whole page. We've put the map on the right so that there's plenty of space on the left to add more information.
 
-Now, **Add Legend**, and click and drag your legend to the position in the lower right area:
+Now, **Add Legend**, and click and drag your legend to the lower right area:
 <p align='center'>
 <img src="../Images/qgis_addlegend.png" width="600">
 </p>
