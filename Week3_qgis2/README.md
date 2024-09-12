@@ -166,7 +166,7 @@ Open up the attribute table of your **NY_blck_grp_2020** layer. You can see ther
 
 Now close out of the attribute table, right click on your **NY_blck_grp_2020** layer again and select **Filter..**.
 
-Now we'll write a short expression that filters for these counties. In the **Provider Specific Filter Expression** use this: `"COUNTYFP" = '005' OR "COUNTYFP" = '047'  OR  "COUNTYFP" = '061' OR  "COUNTYFP" = '081'OR  "COUNTYFP"  '085'`.
+Now we'll write a short expression that filters for these counties. In the **Provider Specific Filter Expression** use this: `"COUNTYFP" = '005' OR "COUNTYFP" = '047'  OR  "COUNTYFP" = '061' OR  "COUNTYFP" = '081' OR  "COUNTYFP" = '085'`.
 
 Zoom to your layer. You should see something like this:
 <p align='center'>
