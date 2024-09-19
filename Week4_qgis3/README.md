@@ -322,7 +322,7 @@ I added a **Positron** basemap from **QuickMapServices** and this is what I have
 - Looking through some of the owners of buildings with the highest number of code violations (you can just do this visually), add in text describing where the owners' tax billing addresses (possibly where they live) are.
 
 
-# Extra 5 pts (worth another lab): Case 2: Racial Dot Density Map
+# Extra credit (worth another lab): Case 2: Racial Dot Density Map
 **Note: You can hand this in at any point during the semester for the full 5 points**. 
 
 For this exercise, I'm going to outline the basic steps for creating a dot-density map in QGIS. They're not that difficult to make!
