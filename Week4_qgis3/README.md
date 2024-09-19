@@ -314,7 +314,7 @@ I added a **Positron** basemap from **QuickMapServices** and this is what I have
 - A quick Google search for one of them led me to this [article](https://www.syracuse.com/health/2022/06/ny-attorney-general-shuts-down-syracuse-landlord-accused-of-exposing-kids-to-lead-poisoning.html) 
 - Do all the owners live in Syracuse?
 
-**Step 11** We've filtered land use for rentals from 2020. Is it still a reliable dataset? Bring in this dataset from the [Syracuse Rental Registry](https://data.syr.gov/datasets/syracuse-rental-registry/explore) and do a visual comparison. Is there always a 1-to-1 overlap between the rentals from the land use dataset and the rentals from the rental registry? Is the rental registry reliable? ( Hint: Google it.)
+**Step 11** We've filtered land use for rentals from 2020. Is it still a reliable dataset? Bring in this dataset from the [Syracuse Rental Registry]([https://data.syr.gov/datasets/syracuse-rental-registry/explore](https://data-syr.opendata.arcgis.com/datasets/4d07491bc81b4d248f22de5da2641021_0/explore?location=43.046710%2C-76.133694%2C13.99) and do a visual comparison. Is there always a 1-to-1 overlap between the rentals from the land use dataset and the rentals from the rental registry? Is the rental registry reliable? ( Hint: Google it.)
 
 # DELIVERABLE #1
 
