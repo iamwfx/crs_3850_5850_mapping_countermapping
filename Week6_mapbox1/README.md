@@ -117,7 +117,8 @@ Next, install a text editor onto your computer. There are few commons ones that 
 <p align='center'>
 <img src="../Images/sublime_pc.png" width="1000">
 </p>
-- A list of all the pacakages that you can install should appear. Install the following packages (select +  `enter`):
+
+- A list of all the packages that you can install should appear. Install the following packages (select +  `enter`):
   - `BracketHighlighter`: This will allow you to more easily see whether and what's not closed!
   - `SublimeLinter`: A linter is a tool that flags syntax errors, bugs, and other lower-level kinds of errors in your code.
 
