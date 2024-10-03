@@ -124,7 +124,8 @@ Next, install a text editor onto your computer. There are few commons ones that 
 
 
 ### 1.1.4 Mapbox Account Set-up
-- Lastly, sign up for a mapbox account [here](https://account.mapbox.com/auth/signin/). You will need to check your email for a verification link, but there's no need to fill out that survey.
+- Lastly, sign up for a mapbox account [here](https://account.mapbox.com/auth/signin/) using your Cornell email. You will need to put in a billing address, but you don't need to include a credit card.
+- Check your email for a verification link, but there's no need to fill out that survey.
 - Once you've logged in, note that there's a **Default public token**.
 
 You are required to have an API key (here they call them tokens) to use Mapbox services. You can set the [scopes](https://docs.mapbox.com/accounts/guides/tokens/#scopes) of different tokens, meaning you can set which does has access to which APIs. Mapbox's free quotas are pretty generous, so even if you plan to use the free tier API token to service a website, it'll take a [bunch of requests](https://www.mapbox.com/pricing) before you'll have to start paying.
