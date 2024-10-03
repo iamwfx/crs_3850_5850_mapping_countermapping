@@ -111,6 +111,7 @@ Next, install a text editor onto your computer. There are few commons ones that 
 <p align='center'>
 <img src="../Images/sublime1.png" width="1000">
 </p>
+
 - Next, we are going to install a tool called **Package Control** that will allow us to install another plugin. The instructions for installing Package Control are [here](https://packagecontrol.io/installation).
 - In Sublime, go to **Preferences->Package Control** and Select `Package Control: Install Package`
 <p align='center'>
