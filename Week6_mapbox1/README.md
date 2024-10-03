@@ -165,7 +165,7 @@ All the pages we are going to create in this class have three basic components:
   - Sometimes, if the styling is pretty short, it may be embedded in the HTML file under the `<style>...</style>` tags
 - JS (Javascript): A file that codes the activity or interactivity of a website. For instance, if you want your map to change with a computer mouse action, you will code a `yourJScode.js` style to decsirbe how this works or embed the JS code into your HTML file.
 
-- In your `countermapping-webmaps` folder (i.e. your local repo), create a new folder called `Lab7`
+- In your `countermapping-webmaps` folder (i.e. your local repo), create a new folder called `Lab6`
 - In your text editor, create a new file called `index.html` and start off with the following code (below). Note that:
   - All of our "elements" are framed by their appropriate `<element>...</element>` tags to indicate the beginning and end of each type of element.
   - Also note:
