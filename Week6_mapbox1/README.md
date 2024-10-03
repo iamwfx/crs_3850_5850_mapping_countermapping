@@ -145,6 +145,7 @@ To begin, we are going to consider the impacts of a superstorm called Hurricane 
 <p align='center'>
 <img src="../Images/mapbox_tileset.png" width="1000">
 </p>
+
 - Click **New tileset** button to upload your Hurricane Sandy data. (Note the different file formats that Mapbox takes). It will take a few minutes for your dataset to upload. The larger the file is, the longer it will take. Note that the free tier only allows you `20 uploads per month | 300 MB per upload`.
   - **A note: Uploading through Chrome never works on my computer for some reason. I've got all kinds of pop-up and privacy blockers. If you run into the same issue, you can try another browser (I typically use Safari).**
 - The new file (the naming convention Mapbox uses is typically the file name and then a unique ID) should appear in your Custom tilesets. Click on your new dataset and check that the data upload worked. You should see something like the below:
