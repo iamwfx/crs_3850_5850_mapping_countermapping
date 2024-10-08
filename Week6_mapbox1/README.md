@@ -441,7 +441,7 @@ Your website `YOURUSERNAME.github.io/lab7/index.html` should now be updated with
 
 ## 2.1 Add NYCHA Developments Data
 
-- Add the New York City Housing Developments (NYCHA) [housing developments dataset](https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5) as another data source and layer.
+- Add the New York City Housing Developments (NYCHA) [housing developments dataset]([https://data.cityofnewyork.us/Housing-Development/Map-of-NYCHA-Developments/i9rv-hdr5](https://data.cityofnewyork.us/Housing-Development/NYCHA-Public-Housing-Developments-Map/npwq-dpkb) as another data source and layer.
 - Add text in your text box (where I've included some commented out text that says `INSERT TEXT HERE`) that describes what you are making a map of and what data sources you have used so far.
 - Optional: Take an existing map style and modify it to create your own map style that you think would be more appropriate for this project.
 
