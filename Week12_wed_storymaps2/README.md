@@ -26,7 +26,7 @@ Lab12
 
 **`config.js`**:
 
-```
+```js
 var config = {
     style:  'mapbox://styles/iamwfx/cjjx6bl926vgt2ss0l9dbpmxz',
     accessToken: 'UPDATE-WITH-YOUR-TOKEN',
@@ -131,7 +131,7 @@ var config = {
 
 **`index.html`**
 
-```
+```html
 <!DOCTYPE html>
 <html>
 <head>
