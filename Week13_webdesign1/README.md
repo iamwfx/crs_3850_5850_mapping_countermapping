@@ -36,11 +36,11 @@ Let's start with a basic `index.html` template.
 <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
 
 <!-- We are going to call the Mapbox GL javascript library, which will allow us to use its functionality -->
-<script src="https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.js"></script>
+<script src="https://api.mapbox.com/mapbox-gl-js/v3.8.0/mapbox-gl.js"></script>
 
 <!-- Alongside this, we are going to bring in the Mapbox GL stylesheet -->
 
-<link href='https://api.mapbox.com/mapbox-gl-js/v2.14.1/mapbox-gl.css' rel='stylesheet' />
+<link href='https://api.mapbox.com/mapbox-gl-js/v3.8.0/mapbox-gl.css' rel='stylesheet' />
 
 <link href='style.css' rel='stylesheet' />
 
