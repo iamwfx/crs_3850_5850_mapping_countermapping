@@ -283,7 +283,7 @@ We have already learned about "inspect element" as a way troubleshoot and get in
 
 `console.log()` is another method we can use. It allows us to write messages to the console. 
 
-**Somewhere inside your `map.on(load), function(){SOMEWHERE HERE…})` insert the following code: 
+**Somewhere inside your `map.on(load), function(){SOMEWHERE HERE…})` insert the following code:** 
 
 ```JS
 console.log('My name is YOUR-NAME);
@@ -354,7 +354,7 @@ Now, we'd like to take these names and add them in a div underneath "Restaurant 
 
 **Now, go back to your html code and add another div with the id `restText`.**
 
-**Add the text "test text" between the two div tags. **
+**Add the text "test text" between the two div tags.**
 
 You should see something like this: 
 <p align='center'>
@@ -380,7 +380,7 @@ textField.innerHTML = name;
 ## In class exercise: 
 
 - Create a choropleth map from the points. Use the following breakdowns: 
-	- [45 - 80) = `##440154
+	- [45 - 80) = `##440154`
 	- [80 - 85) = `##3b528b`
 	- [85 - 90) = `#21908d`
 	- [90 - 95) = `#5dc963`
