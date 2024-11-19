@@ -381,7 +381,7 @@ textField.innerHTML = name;
 
 - Create a choropleth map from the points. Use the following breakdowns: 
 	- [45 - 80) = `#440154`
-	- [80 - 85) = `##3b528b`
+	- [80 - 85) = `#3b528b`
 	- [85 - 90) = `#21908d`
 	- [90 - 95) = `#5dc963`
 	- [95 - 100] = `#fde725`
